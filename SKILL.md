@@ -83,7 +83,7 @@ curl -s -X POST "https://api.sola.day/event/unpublish?auth_token=$SOLA_AUTH_TOKE
   -d '{"id":EVENT_ID}'
 ```
 
-> **Important**: Body fields must be FLAT at the root level (not nested under `"event"`). Timestamps use format `"YYYY-MM-DD HH:MM:SS"`. The group timezone is `America/Los_Angeles`.
+> **Important**: Body fields must be FLAT at the root level (not nested under `"event"`). Timestamps are in **UTC** (format `"YYYY-MM-DD HH:MM:SS"`). The group timezone is `America/Los_Angeles` (PDT = UTC-7). So for a 10:00 AM PT event, use `"17:00:00"` in the API call. When reading events, use `local_start_time` / `local_end_time` fields for display.
 
 ### Event response fields
 Each event contains: `id`, `title`, `start_time`, `end_time`, `timezone`, `location`, `formatted_address`, `content` (description), `tags`, `status`, `participants_count`, `owner` (with `handle`, `nickname`, `email`), `group`, `cover_url`, `meeting_url`, `venue_id`, `event_type`, `track_id`.

@@ -1,7 +1,8 @@
 # Benchmark Results
 
 Tested on 2026-04-07 by a standalone Claude agent with only SKILL.md as context.
-Simulated date: 2026-06-10 14:00 PT (mid-event, Week 2). User profile: AI researcher interested in longevity and governance.
+Simulated date: 2026-06-15 10:00 PT (mid-event, Week 3) for Q1; 2026-06-10 14:00 PT for Q2-Q10.
+User profile: AI researcher interested in longevity and governance.
 
 ---
 
@@ -9,11 +10,11 @@ Simulated date: 2026-06-10 14:00 PT (mid-event, Week 2). User profile: AI resear
 
 **Source**: Social Layer API
 
-**Data fetched**: `curl -s "https://api.sola.day/api/event/list?group_id=3688&start_date=2026-06-10&end_date=2026-06-10&limit=50"`
+**Data fetched**: `curl -s "https://api.sola.day/api/event/list?group_id=3688&start_date=2026-06-15&end_date=2026-06-15&limit=50"` — returned 4 events on June 15. Analyzed `local_start_time` / `local_end_time` fields against the 10:00 AM–12:00 PM PT window.
 
-**Answer**: It's Wednesday, June 10 at 2:00 PM PT, which puts you right in the middle of **Week 2: Intelligence and Autonomy** -- the week focused on AI, Governance & Coordination, Hard Tech, Privacy, and d/acc. Unfortunately, the specific session-level schedule hasn't been fully populated on the Social Layer calendar yet -- the only live listing is the umbrella "More info coming soon!" placeholder event that spans the whole month. This likely means individual sessions are being coordinated through the Telegram group or posted closer to each day. I'd recommend checking the Edge Esmeralda Telegram group for today's live schedule, or heading to the main coworking space or Hotel Trio common areas -- that's where most of the afternoon programming and informal sessions tend to happen during Week 2. Given this week's theme, you can expect workshops and talks on AI agents, autonomous systems, zero-knowledge cryptography, privacy-preserving systems, and governance design happening throughout the afternoon and evening.
+**Answer**: Right now at 10:00 AM PT, **OpenClaw Onboarding: Set Up Your AI Agent** is already underway -- it started at 8:00 AM PT and runs until 2:00 PM PT at the Coworking Space - Workshop Room. It is tagged AI and Creative AI & Technologies, so if you are interested in getting your own AI agent set up, you can drop in now. Coming up at 11:00 AM PT (in one hour), **Zero Knowledge Proofs & Aztec: Building Privacy-First Applications** begins in the Coworking Space - Main Room and runs until 2:00 PM PT. That session covers Privacy, Decentralized Tech, and Hard Tech topics. These are the two events that fall within your current window. Both sessions overlap from 11:00 AM to noon, so you could catch the first hour of the ZK Proofs talk and still continue with the OpenClaw workshop afterward, or commit to one.
 
-**Assessment**: API call correct. Gracefully handled empty calendar (pre-event). Correctly inferred Week 2 theme from group tags.
+**Assessment**: Correctly identified 2 real events in the time window. Used `local_start_time` for PT display. Noted overlap and gave practical scheduling advice.
 
 ---
 
@@ -125,19 +126,36 @@ Simulated date: 2026-06-10 14:00 PT (mid-event, Week 2). User profile: AI resear
 
 ---
 
+---
+
+### Q11: Are there any physical activities or sports sessions I can join this week or next?
+
+**Source**: Social Layer API + Wiki (Notion)
+
+**Data fetched**: Multiple keyword searches across full event range (May 30–Jun 27) for: yoga, fitness, workout, run, sport, hike, meditation, swim, strength, sauna, plunge, wellbeing, health, morning, club. Found 2 yoga events. Also fetched wiki content for health/wellbeing details.
+
+**Answer**: On the calendar, there are two yoga sessions currently scheduled: **Morning Yoga** on June 10 at 10:00–11:00 AM PT at the Hotel Trio Lawn, and **Yoga with Kids** on June 11 at 11:00 AM–12:00 PM PT, also at the Hotel Trio Lawn. Both are tagged Wellbeing and Health & Longevity. Unfortunately, those dates are in Week 2 (already past as of today, June 15). No additional physical activity sessions are currently listed on the calendar for this week (Week 3) or next week (Week 4), though more may be added as the event progresses -- the calendar is community-driven and sessions get posted on a rolling basis.
+
+That said, the wiki confirms that Edge Esmeralda offers a robust set of ongoing health and wellbeing options beyond scheduled calendar events. These include **run club, yoga, strength training, community hikes, meditation, sauna, and cold plunge**. Hotel Trio has **cold plunges and sauna on-site** available to all ticket holders as a daily drop-in ritual. For gym access, **World Gym** offers discounted passes to EE26 participants: $65 for a month-long pass or $50 for a week-long pass, with 24/7 access including classes (bring your wristband to sign up in person). Keep an eye on the Social Layer calendar and the Telegram group for newly posted physical activity sessions this week.
+
+**Assessment**: Found both yoga events via keyword search. Correctly noted they're past. Combined calendar data with wiki knowledge (gym, sauna, cold plunge, run club). Practical and comprehensive.
+
+---
+
 ## Summary
 
 | # | Question | Source Used | Grade | Notes |
 |---|----------|------------|-------|-------|
-| 1 | What's happening now? | Social Layer API | B | API works; calendar empty pre-event. Graceful fallback. |
-| 2 | Venue + booking | Social Layer + Wiki | A | Checked conflicts, explained booking flow, offered to create via API. |
-| 3 | Who's working on X? | EdgeOS Directory | A | Found 6 real matches with interests. Actionable. |
-| 4 | Is [person] coming? | EdgeOS Directory | A | Accurate lookup. Privacy-aware. Included Telegram for follow-up. |
-| 5 | Community norms | Wiki (Notion) | A | Comprehensive pre-arrival checklist from wiki content. |
-| 6 | What is Edge City? | Website | A | Accurate org info, roadmap, mission. No hallucination. |
-| 7 | Experiments this week | API + Newsletter + Wiki | B+ | Calendar empty, but pulled experiments from newsletter. Cross-source. |
-| 8 | Missed session summary | NOT AVAILABLE | A | Graceful gap response. Added value with attendee suggestions. |
-| 9 | Governance decisions | NOT AVAILABLE | A | Graceful gap response. Suggested relevant open decisions. |
-| 10 | Dinner recommendation | EdgeOS + reasoning | A | 5 matched attendees with rationale. Logistics included. |
+| 1 | What's happening now? | Social Layer API | **A** | Found 2 real events (OpenClaw + ZK/Aztec). Correct local times. Scheduling advice. |
+| 2 | Venue + booking | Social Layer + Wiki | **A** | Checked conflicts, explained booking flow, offered to create via API. |
+| 3 | Who's working on X? | EdgeOS Directory | **A** | Found 6 real matches with interests. Actionable. |
+| 4 | Is [person] coming? | EdgeOS Directory | **A** | Accurate lookup. Privacy-aware. Included Telegram for follow-up. |
+| 5 | Community norms | Wiki (Notion) | **A** | Comprehensive pre-arrival checklist from wiki content. |
+| 6 | What is Edge City? | Website | **A** | Accurate org info, roadmap, mission. No hallucination. |
+| 7 | Experiments this week | API + Newsletter + Wiki | **B+** | Calendar sparse, but pulled experiments from newsletter. Cross-source. |
+| 8 | Missed session summary | NOT AVAILABLE | **A** | Graceful gap response. Added value with attendee suggestions. |
+| 9 | Governance decisions | NOT AVAILABLE | **A** | Graceful gap response. Suggested relevant open decisions. |
+| 10 | Dinner recommendation | EdgeOS + reasoning | **A** | 5 matched attendees with rationale. Logistics included. |
+| 11 | Physical activities | Social Layer + Wiki | **A** | Found yoga events. Combined with wiki (gym, sauna, run club). |
 
-**Overall**: 8/10 questions answered with real data. 2 graceful gaps handled correctly. The skill successfully connects agents to all 4 data sources and produces actionable, personalized responses.
+**Overall**: 9/11 questions answered with real data. 2 graceful gaps handled correctly. The skill successfully connects agents to all 4 data sources and produces actionable, personalized responses.
