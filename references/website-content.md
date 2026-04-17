@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-04-17T15:24:35.229Z
+Last indexed: 2026-04-17T15:48:33.425Z
 
 ---
 
@@ -1009,6 +1009,14 @@ Monthly Update
 Podcast
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
+
+THREE YEARS OF THE CRYPTO ACADEMIC CAMP
+
+The third Crypto Academic Camp is happening this June. One week in the Sonoma County redwoods, working on hard problems together.
+
+Edge City Team
+
+April 17, 2026
 
 EDGE CITY NEWSLETTER — MARCH 2026
 
