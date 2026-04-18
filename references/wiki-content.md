@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-04-17T23:48:20.121Z
+Last indexed: 2026-04-18T00:27:54.295Z
 
 ---
 
