@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-04-20T14:21:54.807Z
+Last indexed: 2026-04-20T15:02:26.049Z
 
 ---
 
@@ -20,9 +20,11 @@ IntroductionOur VillagesThe ExperienceThe ImpactOur TeamLet's Build
 
 EDGE CITY CONVENES PEOPLE WORKING AT THE FRONTIERS OF TECH, SCIENCE, AND SOCIETY IN POPUP VILLAGES ACROSS THE GLOBE.
 
-WE ASPIRE TO BE A ‘SOCIETY INCUBATOR’— AN IRL LAB OF EXPERIMENTATION FOR NEW IDEAS, TECH, CULTURE, AND ORGANIZATIONS, ALL DEDICATED TO ACCELERATING HUMAN FLOURISHING. READ OUR ROADMAP FOR MORE DETAILS.
+WE ASPIRE TO BE A ‘SOCIETY INCUBATOR': AN IRL LAB OF EXPERIMENTATION FOR NEW IDEAS, TECH, CULTURE, AND ORGANIZATIONS, ALL DEDICATED TO ACCELERATING HUMAN FLOURISHING.
 
-Our 'popup villages' last 1-2 months and are perfect environments to live, learn, and experiment with frontier projects. Participants comefrom diverse fields, including AI, BioTech & Longevity, Crypto, Philosophy, Culture, Hard Tech, Governance, and more. Edge City is part of and contributes to the Zuzalu ecosystem.
+‍READ OUR ROADMAP FOR MORE DETAILS.
+
+Our villages last 1-2 months and are perfect environments to live, learn, and experiment with frontier projects. Participants comefrom diverse fields, including AI, BioTech & Longevity, Crypto, Philosophy, Culture, Hard Tech, Governance, and more. Edge City is part of and contributes to the Zuzalu ecosystem.
 
 ‍
 
@@ -50,7 +52,7 @@ UPCOMING EDGE CITY GATHERINGS IN 2026:
 
 ‍
 
- * Edge Esmeralda 2026 [May 30th - June 27th]: Our annual flagship popup village in Healdsburg, CA. Co-organized with Esmeralda Institute, a new permanent village just 90 minutes north of SF, this month-long gathering serves as a living prototype for that vision - helping us test new ways of living, working, and thriving together. Pre-register here.
+ * Edge Esmeralda 2026 [May 30th - June 27th]: Our annual flagship popup village in Healdsburg, CA. Co-organized with Esmeralda Institute, a new permanent village just 90 minutes north of SF, this month-long gathering serves as a living prototype for that vision - helping us test new ways of living, working, and thriving together. Apply here.
 
 IN 2025, WE HOSTED THESE POPUP VILLAGES AND EDGE EXPEDITIONS:
 
