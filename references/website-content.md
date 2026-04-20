@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-04-20T20:46:28.466Z
+Last indexed: 2026-04-20T21:17:58.576Z
 
 ---
 
@@ -339,7 +339,6 @@ grants allocated
 total participants
 182
 projects supported
-CommunitiesIncubationsPartnersExperiments
 
 Filters
 Reset All
