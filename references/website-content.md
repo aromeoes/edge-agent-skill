@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-04-29T08:32:08.629Z
+Last indexed: 2026-04-29T09:28:53.410Z
 
 ---
 
@@ -1010,6 +1010,16 @@ Monthly Update
 Podcast
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
+
+THE AGENT VILLAGE EXPERIMENT AT EDGE ESMERALDA 2026
+
+A month-long live experiment in Human-Agent Coordination: can personal AI agents help a real community deliberate, coordinate, and govern better under real social stakes?
+
+Timour Kosters
+
+Edge Esmeralda
+
+April 29, 2026
 
 THREE YEARS OF THE CRYPTO ACADEMIC CAMP
 
