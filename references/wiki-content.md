@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-04-29T13:57:21.446Z
+Last indexed: 2026-04-29T14:54:01.091Z
 
 ---
 
@@ -115,13 +115,18 @@ Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover 
 
 Current Tickets (prices rise monthly until the event)
 
-- Standard Month Pass: $2,400 (will eventually cost $3,000)
-- Standard Week Pass:  $1,050 (will eventually cost $1,350)
-- Partner/Spouse Month Pass: $1,725 (will eventually cost $2,250)
-- ‍Partner/Spouse Week Pass: $788 (will eventually cost $1,013)
+- Standard Month Pass: $2,800 (will eventually cost $3,000)
+- Standard Week Pass:  $1,250 (will eventually cost $1,350)
+- Partner/Spouse Month Pass: $2,100 (will eventually cost $2,250)
+- ‍Partner/Spouse Week Pass: $938 (will eventually cost $1,013)
 - Weekday Pass (single day): $230 
 - Weekend Day Pass (single day): $290
-- Weekend Pass (Saturday & Sunday): $495
+- Weekend Pass (Saturday & Sunday): $495 
+- Kid Week incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $635 (will eventually cost $710)
+- Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,755 (will eventually cost $1,830)
+- Kid standard: free
+---
+
 Prices increase regularly until the event. The earlier you book, the lower your rate. You can switch weeks or upgrade to the full month any time before April — the longer-stay discount will be applied automatically.
 
 Patron tickets start at $5,000 and include all standard ticket benefits plus an additional donation to our 501(c)(3). Patron tickets help keep prices accessible for builders, researchers, and young people, and help fund scholarships.
@@ -144,7 +149,7 @@ Scholarships: We offer a limited number of scholarships for those who need finan
 
 Volunteering: We are looking for highly motivated people who are willing to volunteer in exchange for a ticket discount (up to 100% off). Apply  (https://docs.google.com/forms/d/e/1FAIpQLSeXXuPXRWgce6dMlNaN7jtVU0FPbRQN0maIYxR9xBv2eo3UZQ/viewform?usp=header)as a volunteer here (https://docs.google.com/forms/d/e/1FAIpQLSevuZSnR4j24xgHF6lbq5X2wgpeQqiagzIU29OsBohvgMts7A/viewform?usp=header).
 
-Local residents: A Healdsburg/Sonoma County resident discount is coming soon.
+Local residents: Healdsburg/Sonoma County residents tickets are 10% discounted
 
 Edge Esmeralda 2026 features thematic residencies — focused groups of people who co-live and collaborate around shared themes.
 
@@ -250,32 +255,28 @@ More details on fitness programming and wellness tracks will be added as the eve
 
 We are building a multigenerational village. Edge Esmeralda is proudly family-friendly — kids and elders make the village richer for everyone.
 
-In 2025, Edge Esmeralda hosted 850+ residents from 66 countries, including 80+ kids.
-
-- Dedicated kids programming at Dragonfly Farm (nature play, art, music, building)
 - Family-friendly schedule with shared meals and weekend adventures
 - Kid-led sessions and workshops welcomed
 - Kids & Families Telegram group — link coming soon
-More details on Kids Camp programming for 2026 coming soon.
+- For kids 2-6 years: partnership with Sonoma Art School camp
+- For Kids 7-12 years: Edge Tomorrow residency (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for)
+### Edge Tomorrow residency (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) - Creative Residency for Kids (7 - 12)
 
 The most important communication channel is our Telegram group for all participants.
 
 → Once it’s live, all ticket holders will be notified to join.
 
-Looking for accommodation or housemates?
+We are partnering with Dropmobility for Bike Rentals. Signup here: https://dropmobility.com/edge-esmeralda-2026 (https://dropmobility.com/edge-esmeralda-2026)
 
-→ Join our Housing Telegram Group here: https://t.me/+9XnxQWWwVvo4ZTUx (https://t.me/+9XnxQWWwVvo4ZTUx)
+Prices:
 
-Please read the 'Read This First' channel that is pinned at the top as soon as you enter.
-
+- $149 / week
+- $299 / month
 Healdsburg is a small, walkable town — you won't need a car for your day-to-day!
 
 - Hotel Trio is ~7 min bike ride to downtown via Serendipity Lane (car-free path)
-- Bike rentals are available locally in Healdsburg
 - Rideshare (Uber/Lyft) works well in the area
-- For excursions and regional adventures, renting a car is recommended
-Local bike rental recommendations coming soon.
-
+- For excursions and regional adventures, carpooling / renting a car is recommended
 We are working on securing local discounts with Healdsburg businesses for EE26 participants. Check back here as partnerships are confirmed!
 
 🏋️ World Gym
@@ -309,3 +310,10 @@ Edge Esmeralda 2026 is organized by Edge City (https://www.edgecity.live/), a "s
 
 Email info@edgeesmeralda.com (mailto:info@edgeesmeralda.com) if you have any further questions.
 
+- What: A hands-on creative residency where kids conceive, build, and present projects they design for the whole Edge community. Think: pop-up museums, cardboard worlds, short films, neighborhood festivals.
+- When: Monday–Friday, 9am–4pm
+- Format: Weekly cohorts, each anchored by a theme-question. Kids lead the projects. Each week ends with a Friday showcase.
+- Price: see Tickets (/317d45cdfc5981d2a571f52b024c5141?pvs=25#464c7bf32e974bd8919cfb4239ef5acb)
+- Who else: Adults, teens, and elders who are excited to collaborate and create with kids are an important part of the experience. Parents and adult collaborators will be supporting the structure of the residency. Please bring your talents, energy, and curiosity.
+- Apply here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026) for your kids to join
+- Join as an adult collaborator (https://forms.gle/29wXBoGWuRsv16ro9)
