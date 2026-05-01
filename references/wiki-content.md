@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-01T06:03:28.050Z
+Last indexed: 2026-05-01T07:10:38.187Z
 
 ---
 
@@ -277,14 +277,10 @@ Healdsburg is a small, walkable town — you won't need a car for your day-to-da
 - Hotel Trio is ~7 min bike ride to downtown via Serendipity Lane (car-free path)
 - Rideshare (Uber/Lyft) works well in the area
 - For excursions and regional adventures, carpooling / renting a car is recommended
-We are working on securing local discounts with Healdsburg businesses for EE26 participants. Check back here as partnerships are confirmed!
+We secured discounts with local businesses for EE26 participants. 
 
-🏋️ World Gym
+Find all offers here: ‣ 
 
-- $65 for month-long passes
-- $50 for week-long passes
-- 24/7 gym access including classes, excluding spa
-- No additional costs — wristband required for in-person signup
 Merch details coming soon. Available for purchase at check-in.
 
 Healdsburg and the surrounding Sonoma County offer incredible outdoor adventures.
