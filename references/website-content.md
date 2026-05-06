@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-05-06T14:37:57.591Z
+Last indexed: 2026-05-06T15:32:54.772Z
 
 ---
 
@@ -1010,6 +1010,18 @@ Monthly Update
 Podcast
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
+
+EDGE CITY’S REQUEST FOR EXPERIMENTS
+
+A call to test new ways of learning, governing, building trust, and living together.
+
+Edge City Team
+
+Timour Kosters
+
+Essay
+
+May 6, 2026
 
 THE AGENT VILLAGE EXPERIMENT AT EDGE ESMERALDA 2026
 
