@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-05-06T17:02:08.170Z
+Last indexed: 2026-05-06T17:49:52.277Z
 
 ---
 
@@ -1010,6 +1010,16 @@ Monthly Update
 Podcast
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
+
+EDGE CITY NEWSLETTER — APRIL 2026
+
+24 days to EE26: latest programs, a Bhutan mentor residency, the Agent Village Experiment, and more.
+
+Edge City Team
+
+Monthly Update
+
+May 6, 2026
 
 EDGE CITY’S REQUEST FOR EXPERIMENTS
 
