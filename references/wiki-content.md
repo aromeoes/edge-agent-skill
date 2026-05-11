@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-11T17:18:41.100Z
+Last indexed: 2026-05-11T18:10:25.975Z
 
 ---
 
@@ -39,26 +39,6 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 
 ---
 
-### 💻 Coworking
-
----
-
-### Wifi
-
----
-
-### 🗓 Shared Calendar / Social Layer
-
----
-
-### 🎟 Check-in
-
-Welcome! We're so excited to have you with us ☀️
-
-This wiki has all the important information regarding Edge Esmeralda 2026. If you have further questions, please reach out to info@edgeesmeralda.com (mailto:info@edgeesmeralda.com).
-
----
-
 ### 🤸🏽 Health & Well-being
 
 ---
@@ -67,7 +47,15 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 
 ---
 
+### 🗓 Shared Calendar
+
+---
+
 ### 💬 Community Chat Group on Telegram
+
+Welcome! We're so excited to have you with us ☀️
+
+This wiki has all the important information regarding Edge Esmeralda 2026. If you have further questions, please reach out to info@edgeesmeralda.com (mailto:info@edgeesmeralda.com).
 
 ---
 
@@ -79,15 +67,27 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 
 ---
 
-### 👕 Merch
-
----
-
 ### 🌳 Outdoor Adventure Planning
 
 ---
 
+### 🎟 Check-in
+
+---
+
+### 👕 Merch
+
+---
+
 ### 📹 Video Recordings (Talks, Sessions)
+
+---
+
+### 💻 Coworking
+
+---
+
+### Wifi
 
 ---
 
@@ -96,9 +96,9 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 ---
 
 - Apply here (https://edgecity.simplefi.tech/portal) if you haven’t already. ✨ We are reviewing applications on a rolling basis.
-- Housing: Once you have your ticket, make sure you book accommodation. You can book our discounted rates for Hotel Trio here (https://edgeevents.bed-booking.com/). We recommend booking early as options are limited in Healdsburg.
+- Housing: Once you have your ticket, make sure you book accommodation. You can book our discounted rates for Hotel Trio here (https://edgeevents.bed-booking.com/). Browse housing resources here (https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=1200229816#gid=1200229816). 
 - Join our Housing Telegram group: https://t.me/+9XnxQWWwVvo4ZTUx (https://t.me/+9XnxQWWwVvo4ZTUx) to coordinate shared housing and meet other participants. Please read the 'Read This First' channel that is pinned at the top as soon as you enter.
-- Community Calendar (https://app.sola.day/event/edge-esmeralda-2026): browse all events of Edge Esmeralda 2026 (coming soon). Once you have a ticket, you’ll be able to create and host your own sessions as well.
+- Community Calendar: browse all events of Edge Esmeralda 2026 (coming soon). Once you have a ticket, you’ll be able to create and host your own sessions as well.
 - Edge Esmeralda 2026 Blog: (https://edgeesmeralda2026.substack.com/) Search through this if you have further questions!
 - Google Maps List of key places in town — coming soon
 Step 1: Apply here (https://edgecity.simplefi.tech/portal).  (https://edgeesmeralda.com/)Once your application is approved, you can purchase a ticket for your desired timeframe. Currently you can choose between week-long and month-long passes. We launch day and weekend passes closer to the event. 
@@ -115,15 +115,15 @@ Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover 
 
 Current Tickets (prices rise monthly until the event)
 
-- Standard Month Pass: $2,800 (will eventually cost $3,000)
-- Standard Week Pass:  $1,250 (will eventually cost $1,350)
-- Partner/Spouse Month Pass: $2,100 (will eventually cost $2,250)
-- ‍Partner/Spouse Week Pass: $938 (will eventually cost $1,013)
+- Standard Month Pass: $2,850 (will eventually cost $3,000)
+- Standard Week Pass:  $1,275 (will eventually cost $1,350)
+- Partner/Spouse Month Pass: $2,138 (will eventually cost $2,250)
+- ‍Partner/Spouse Week Pass: $956 (will eventually cost $1,013)
 - Weekday Pass (single day): $230 
 - Weekend Day Pass (single day): $290
 - Weekend Pass (Saturday & Sunday): $495 
-- Kid Week incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $635 (will eventually cost $710)
-- Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,755 (will eventually cost $1,830)
+- Kid Week incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $660 (will eventually cost $710)
+- Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,780 (will eventually cost $1,830)
 - Kid standard: free
 ---
 
@@ -184,6 +184,14 @@ Hotel Trio is the main gathering place for most attendees. Extended-stay rooms w
 
 → Book our negotiated rates here (https://edgeevents.bed-booking.com/). Month-long bookings tend to sell out first.
 
+🏨 Appellation Healdsburg (https://www.appellationhotels.com/hotels/california-healdsburg/)
+
+→ Book here (https://appellationhotels.com/hotels/california-healdsburg/offers/edge-esmerelda.html) for negotiated discounted rates. 
+
+🏨 Duchamp (https://www.duchamphotel.com/)
+
+→ Use promo code EDGE30 for 30% off when making your reservation (https://hotels.cloudbeds.com/reservation/IdHt5H#promo=EDGE30).
+
 🏠 Airbnb / VRBO — Shared Rentals
 
 Shared houses are a great way to reduce costs and build community. Coordinate with others in the Telegram Housing group (https://t.me/+9XnxQWWwVvo4ZTUx) to split a rental.
@@ -193,9 +201,7 @@ Shared houses are a great way to reduce costs and build community. Coordinate wi
 - Also check nearby towns: Windsor, Geyserville, Cloverdale
 🏕️ Camping / RV
 
-We have access to a beautiful piece of land ~10 min from downtown — we are now gathering your interest.
-
-→ Fill out the camping interest form (https://docs.google.com/forms/d/e/1FAIpQLSey62b_J67xzIX4DS9Ljs6dB1bpx7TdLOTMyPFYsTqH2rLH4g/viewform)
+Unfortunately, we do not have any camping/RV parking spots closeby. 
 
 🏩 Downtown Hotels & Inns
 
@@ -207,8 +213,6 @@ Good alternatives if Hotel Trio is unavailable:
 Ways to reduce costs:
 
 - Use the Community Housing Sheet (https://docs.google.com/spreadsheets/d/1Hx1XjGcLzXmNMi8SFOiJtAmU_n13S0qLpaFBzDM7jVE/edit?usp=sharing) for leads from other participants
-- Try home-swap platforms: Kindred (https://blog.edgeesmeralda.com/p/kindred-home-swapping-opportunity) or Home Exchange (https://www.homeexchange.com/)
-- Use Furnished Finder (https://www.furnishedfinder.com/) for monthly rentals
 - Local with space to host? Post in the Housing Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) — we may offer a free ticket in exchange
 Healdsburg is located in Sonoma County, Northern California — about 1.5 hours north of San Francisco.
 
@@ -222,22 +226,9 @@ Getting to Healdsburg:
 - Rent a car (recommended for flexibility)
 - Rideshare (Uber/Lyft) from SFO/OAK
 - Use the Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) to coordinate carpools with other attendees
-Venue details for EE26 are being finalized — check back soon!
+Venue details for EE26 are being finalized — see a sneak peak below
 
-Coming: venue list with addresses, hours, and Google Maps links.
-
-Coworking venue details coming soon.
-
-WiFi credentials will be added closer to the event.
-
-The shared calendar will be available closer to the event. Check back here for updates!
-
-- Social Layer (https://app.sola.day/event/edge-esmeralda-2026) is our shared calendar for Edge Esmeralda 2026
-- To access it, go here: https://app.sola.day/event/edge-esmeralda-2026 (https://app.sola.day/event/edge-esmeralda-2026). Log in with the email you used to buy your ticket.
-- Browse all sessions, RSVP to events & host your own!
-Check-in location and hours will be confirmed closer to the event. Check back here for updates!
-
-You'll receive a wristband at check-in. Please pick it up upon arrival — it's needed to redeem local discounts and participate in special activities.
+photo_2026-05-11_19-36-53.jpg
 
 At Edge Esmeralda, health is the default state — we build environments where good food, daily movement, and meaningful connection are easy and natural.
 
@@ -262,9 +253,12 @@ We are building a multigenerational village. Edge Esmeralda is proudly family-fr
 - For Kids 7-12 years: Edge Tomorrow residency (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for)
 ### Edge Tomorrow residency (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) - Creative Residency for Kids (7 - 12)
 
+The shared calendar will be available closer to the event. Check back here for updates!
+
+- Browse all sessions, RSVP to events & host your own!
 The most important communication channel is our Telegram group for all participants.
 
-→ Once it’s live, all ticket holders will be notified to join.
+→ All ticket holders receive the invitation link via email to join.
 
 We are partnering with Dropmobility for Bike Rentals. Signup here: https://dropmobility.com/edge-esmeralda-2026 (https://dropmobility.com/edge-esmeralda-2026)
 
@@ -281,8 +275,6 @@ We secured discounts with local businesses for EE26 participants.
 
 Find all offers here: ‣ 
 
-Merch details coming soon. Available for purchase at check-in.
-
 Healdsburg and the surrounding Sonoma County offer incredible outdoor adventures.
 
 Ideas for weekends and downtime:
@@ -294,7 +286,17 @@ Ideas for weekends and downtime:
 - 🏔️ Day trips to Point Reyes or Muir Woods
 A full outdoor adventure guide will be published on the Edge Esmeralda blog (https://edgeesmeralda2026.substack.com/) closer to the event.
 
+Check-in location and hours will be confirmed closer to the event. Check back here for updates!
+
+You'll receive a wristband at check-in. Please pick it up upon arrival — it's needed to redeem local discounts and participate in special activities.
+
+Merch details coming soon. Available for purchase at check-in.
+
 Recordings will be linked here during and after the event.
+
+Coworking venue details coming soon.
+
+WiFi credentials will be added closer to the event.
 
 - Donate (https://buy.stripe.com/3cs8zm9yk9DdbsI4gg) – Support Edge City and help us build what comes next
 - Edge City X (https://x.com/JoinEdgeCity) – Stay up to date
