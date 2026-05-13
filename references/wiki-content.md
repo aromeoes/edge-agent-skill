@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-13T11:19:05.900Z
+Last indexed: 2026-05-13T12:14:14.859Z
 
 ---
 
@@ -226,7 +226,11 @@ Getting to Healdsburg:
 - Rent a car (recommended for flexibility)
 - Rideshare (Uber/Lyft) from SFO/OAK
 - Use the Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) to coordinate carpools with other attendees
-Venue details for EE26 are being finalized — see a sneak peak below
+Venue details for EE26 are being finalized — see a sneak peak below. 
+
+We keep a shared Google Map (https://www.google.com/maps/d/edit?mid=1DrcId2ALOYZAJAhwcC8SphPAAVTTQU4&usp=sharing) of our favorite spots around town: cafes, restaurants, venues, and more.
+
+If you find a place worth a return visit, drop it on the shared community map (https://maps.app.goo.gl/Njy5vqkPutL9Ffcv5) with a short note. Edge Esmeralda is a living village, and the map should reflect with what people are actually doing and enjoying.
 
 photo_2026-05-11_19-36-53.jpg
 
