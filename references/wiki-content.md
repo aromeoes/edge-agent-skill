@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-13T13:56:52.021Z
+Last indexed: 2026-05-13T15:07:40.352Z
 
 ---
 
@@ -100,7 +100,7 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 - Join our Housing Telegram group: https://t.me/+9XnxQWWwVvo4ZTUx (https://t.me/+9XnxQWWwVvo4ZTUx) to coordinate shared housing and meet other participants. Please read the 'Read This First' channel that is pinned at the top as soon as you enter.
 - Community Calendar: browse all events of Edge Esmeralda 2026 (coming soon). Once you have a ticket, you’ll be able to create and host your own sessions as well.
 - Edge Esmeralda 2026 Blog: (https://edgeesmeralda2026.substack.com/) Search through this if you have further questions!
-- Google Maps List of key places in town — coming soon
+- Google Maps List (https://maps.app.goo.gl/Njy5vqkPutL9Ffcv5) of key places in town
 Step 1: Apply here (https://edgecity.simplefi.tech/portal).  (https://edgeesmeralda.com/)Once your application is approved, you can purchase a ticket for your desired timeframe. Currently you can choose between week-long and month-long passes. We launch day and weekend passes closer to the event. 
 
 You can also join Edge Esmeralda via a residency. Either way you need a ticket and we recommend buying your ticket as soon as possible to avoid raising prices.
