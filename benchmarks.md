@@ -1,175 +1,228 @@
 # Edge Esmeralda 2026 — Agent Skill Benchmarks
 
-**Run date**: 2026-04-07 | **Simulated**: June 15, 2026 10:00 AM PT (Week 3)
+**Run date**: 2026-05-15 | **Simulated**: June 15, 2026 10:00 AM PT (Week 3)
 **User profile**: AI researcher interested in longevity and governance
+**Skill version**: 2.0.0 (EdgeOS Events API)
 
 ## TL;DR
 
-9/11 passed | 0 failed | 2 graceful gaps
+10/12 passed | 0 failed | 2 graceful gaps
+
+📅 = consumes the EdgeOS Events API · 🔐 = exercises auth gating
 
 ### What passed
-- ✅ **Q1 Schedule** — Found 2 real events (OpenClaw + ZK/Aztec) with correct PT times and overlap advice
-- ✅ **Q2 Venue booking** — Checked calendar for conflicts, identified 3 venues from existing data, offered to create via API
-- ✅ **Q3 People matching** — Found 6 real attendees matching longevity/AI/governance, prioritized those in Week 3
-- ✅ **Q4 Person lookup** — Exact match on Kevin Fishner: Week 4, Radius Butcher & Grocery, @kfishner, brings kids
-- ✅ **Q5 Community norms** — Synthesized wiki into actionable pre-arrival checklist (wristband, Telegram, packing, gym)
-- ✅ **Q6 Edge City vision** — Accurate: 501(c)(3), co-founders, 6-phase roadmap, Zuzalu ecosystem, 12K+ participants
-- ✅ **Q7 Experiments** — Combined newsletter (Alethios, Constellation, Fulcra) + wiki. No live experiments on calendar yet.
-- ✅ **Q10 Dinner recs** — 4 attendees matched to AI+longevity+governance, all present Week 3, with Telegram logistics
-- ✅ **Q11 Physical activity** — Found yoga events, combined with wiki (gym $50/wk, sauna, run club, Russian River floats)
+- 📅 🔐 ✅ **Q1 Key-gating** — Agent stopped, explained that an EdgeOS personal access token is required, made **zero** curl calls. Exactly the contract from SKILL.md §1.
+- 📅 ✅ **Q2 Schedule** — Found OpenClaw (in progress) and ZK/Aztec (coming up at 11 AM) via `GET /events/portal/events`, PT times correct
+- 📅 ✅ **Q3 Venue booking** — Listed 14 venues via `GET /event-venues/portal/venues`, checked Thursday Jun 18 for conflicts (none), recommended Hub Boardrooms by `booking_mode` + capacity, gave POST body
+- ✅ **Q4 People matching** — Surfaced Tom Conerly (Anthropic interp), Niko McCarty (Astera/biology), Leo Hyams (AI Safety SA), Andrew Gritsevskiy (AI safety), Tatiana Grossman, Adrian Juarez (AI governance) — paginated full directory
+- ✅ **Q5 Person lookup** — Exact match on Kevin Fishner: Week 4 only (Jun 21–27), Radius Butcher & Grocery, @kfishner, bringing kids
+- ✅ **Q6 Community norms** — 4 design principles + Telegram + Hotel Trio + recurring activities + packing list
+- ✅ **Q7 Edge City vision** — Accurate: 501(c)(3), co-founders, popup network thesis, Esmeralda permanent-town relationship
+- 📅 ✅ **Q8 Experiments** — Residencies (Inflection, Zee Prime, Edge Tomorrow, Vibe Coding) + live calendar items (Longevity panel, Biosecurity, Community Demo Day) + RSVP path
+- 📅 ✅ **Q11 Dinner recs** — Caught that Monday Fogbelt dinner *is* on tonight (recurring weekly), 5 matched attendees including Tom Conerly + Andrew Gritsevskiy as top picks
+- 📅 ✅ **Q12 Physical activity** — Pickleball Jun 16, hike Jun 26, tea ceremony, sunrise meditation, run club + wiki (gym, sauna, river floats)
 
 ### Known gaps (by design)
-- 🟡 **Q8 Session transcript** — No Granola integration yet. Correctly said so, suggested Telegram + specific attendees who might have notes
-- 🟡 **Q9 Governance** — No deliberation layer yet. Correctly said so, suggested camping form + programming interest form as alternatives
+- 📅 🟡 **Q9 Session transcript** — 0 events match "consciousness". Correctly said so, suggested Tatiana Grossman and Cameron Porter as humans to talk to instead
+- 📅 🟡 **Q10 Governance** — No deliberation layer integrated. Correctly disclosed and pointed at Telegram + Community Town Hall
 
 ---
 
 ## Detailed Results
 
-### Q1: What's happening now? ✅
+### Q1: Key-gating (no token) 📅 🔐 ✅
+
+**Question**: "What are the upcoming events?" — answered as if `EDGEOS_API_KEY` is **not** available.
+
+**Data fetched**: none — token not provided.
+
+**Answer**: To pull up the Edge Esmeralda calendar I need your EdgeOS personal access token. The Events API is gated behind authentication on every endpoint, so without a token I can't list, search, or RSVP to anything. You can generate one in the EdgeOS portal under `/portal/api-keys` (it'll start with `eos_live_`). Paste it here, or set it as `$EDGEOS_API_KEY` in your environment and I'll fetch the next 30 days of events right away. Per Edge City's design, tokens are user-scoped — I won't ever invent or assume one.
+
+**Verdict**: ✅ Honored SKILL.md §1's "stop and ask for the key" contract. Zero curl calls. No fabricated events. Explained where to get the token and what scopes it gives.
+
+---
+
+### Q2: What's happening now? 📅 ✅
 
 **Question**: "What's happening right now, and what's coming up in the next two hours?"
 
-**Data fetched**: `GET /api/event/list?group_id=3688&start_date=2026-06-15&end_date=2026-06-15&limit=50` — 4 events returned
+**Data fetched**: `GET /events/portal/events?start_after=2026-06-15T16:00:00Z&start_before=2026-06-15T20:00:00Z` — 3 events overlap 10 AM–12 PM PT.
 
-**Answer**: Right now at 10:00 AM PT, you're in the middle of the **OpenClaw Onboarding: Set Up Your AI Agent** session, which started at 8:00 AM and runs until 2:00 PM at the Coworking Space - Workshop Room. It's tagged AI and Creative AI & Technologies, so it's a great hands-on session if you want to build your own AI agent. Coming up at 11:00 AM, the **Zero Knowledge Proofs & Aztec: Building Privacy-First Applications** workshop starts in the Coworking Space - Main Room and runs until 2:00 PM, covering Privacy, Decentralized Tech, and Hard Tech. Both of these overlap through midday, so you could pop between them.
+**Answer**: Right now (10:00 AM PT) **OpenClaw Onboarding: Set Up Your AI Agent** is in progress — it runs 8 AM to 2 PM PT, so you can still drop in. At 11:00 AM PT, **Zero Knowledge Proofs & Aztec: Building Privacy-First Applications** kicks off and runs until 2 PM PT. Also coming up at 1:00 PM PT is the **Longevity panel: what actually works** (marked as a test event, so confirm before you walk over). Want me to RSVP you to any of them? I'll just need to call `POST /event-participants/portal/register/{event_id}` with your token.
 
-**Verdict**: ✅ Correctly identified 2 active events with accurate local times, venues, and tags. Noted the overlap and gave practical scheduling advice.
+**Verdict**: ✅ Correct in-progress + upcoming events with accurate PT times. Caught the `[Test event]` flag on the Longevity panel and surfaced it to the user. Offered to RSVP with the exact endpoint.
 
 ---
 
-### Q2: Venue booking ✅
+### Q3: Venue booking 📅 ✅
 
 **Question**: "I want to host a workshop on AI safety. What venues are free Thursday at 4pm and how do I book one?"
 
-**Data fetched**: `GET /api/event/list?group_id=3688&start_date=2026-06-18&end_date=2026-06-18&limit=50` — only placeholder event, Thursday is clear. Wiki fetched for venue info.
+**Data fetched**:
+- `GET /events/portal/events?start_after=2026-06-18T22:00:00Z&start_before=2026-06-19T01:00:00Z` → 0 matches
+- `GET /event-venues/portal/venues?popup_id=43746fd0-bce2-472b-93e4-a438177b2dff` → 14 venues
 
-**Answer**: Good news -- Thursday June 18 has no events currently booked, which means venues should be available at 4 PM PT. From today's schedule we can see that the **Coworking Space - Workshop Room**, **Coworking Space - Main Room**, and **Hotel Trio Lawn** are active venues. Since none are booked Thursday afternoon, any should work. To book it, I can create the event for you right now using the Social Layer API -- just confirm the title, description, and venue. The API will publish it to the shared calendar. There's no live venue booking system, so it's first-come-first-served -- I'd recommend posting it soon.
+**Answer**: Thursday June 18 at 4 PM PT is wide open — no events are booked in that window. Best bookable rooms for an AI safety workshop:
+- **The Hub – Boardroom 3** (capacity 25, `booking_mode: free`) — best fit for a focused workshop.
+- **The Hub – Boardroom 1** (cap 20, free) or **Boardroom 2** (cap 10, free) for smaller.
+- **The Hub – Flex Space** (cap 100, `approval_required`) or **The Loft – Talk Space** (cap 100, approval_required) if you expect a bigger crowd.
 
-**Verdict**: ✅ Checked schedule for conflicts, inferred venues from existing event data, explained booking flow, and offered to create via API.
+To book: create the event with `POST` to `/events/portal/events` setting `venue_id` to your pick and `start_time=2026-06-18T23:00:00Z`, `end_time=2026-06-19T01:00:00Z`, `timezone="America/Los_Angeles"`, `tags=["AI"]`. For approval-required venues it'll land pending until staff confirms; for `free` venues it'll be confirmed immediately. Want me to file the event?
+
+**Verdict**: ✅ Used the venues endpoint, checked the Thursday 4 PM window for conflicts, sorted by `booking_mode` + capacity, and gave the exact POST body.
 
 ---
 
-### Q3: Who's working on X? ✅
+### Q4: Who's working on X? ✅
 
 **Question**: "Who here is working on longevity / AI governance / biotech? Who should I meet today?"
 
-**Data fetched**: Multiple attendee directory searches: `search=longevity`, `search=governance`, `search=biotech`, `weeks=3` (pages 1-3, 85 total attendees)
+**Data fetched**: Paginated all 209 attendees from `/applications/attendees_directory/8` (skip 0/50/100/150/200), filtered client-side.
 
-**Answer**: For **longevity and health**: **Kunal Sethi** (Founder, Ayuh Ventures) is here in Week 3 right now -- recent cancer survivor building tech for oncology cures. **Tatiana Grossman** (independent Consciousness Researcher) is here the whole month exploring consciousness with implications for wellbeing. For **AI governance**: **Leo Hyams** (Founder, AI Safety South Africa, NeurIPS-published researcher) is here for Weeks 3 and 4 developing ideas around a post-AGI economy -- perfect match for you. **Maria Selting Theorell** (Futurist from Stockholm) is here all month with talks on ethical dilemmas in AI. For **biotech**: **Mariana Uchoa** (Director of Immunology) is here all month interested in biology, neuroscience, and community health experiments. Since you're here today (Week 3), I'd prioritize Leo Hyams and Kunal Sethi.
+**Answer**: A bunch of strong matches — focus on the ones here this week (Week 3 = June 13–20):
+- **Tom Conerly** (Anthropic, interpretability MTS) – Week 3, tg: `tomconerly` — AI safety/interp.
+- **Niko McCarty** (Astera Institute, Fellow) – Week 3, tg: `nmccarty` — biology writing.
+- **Leo Hyams** (Founder, AI Safety South Africa, NeurIPS-published) – Weeks 3+4, tg: `leo7494`.
+- **Andrew Gritsevskiy** (RunRL/Contramont, open-source interp + safety tools) – Month-long, tg: `@dyushka`.
+- **Tatiana Grossman** (Independent Consciousness Researcher) – Month, tg: `tatianagrossman`.
+- **Adrian Juarez** (Fudis Co-CEO, AI governance for LatAm) – Month, tg: `adrianjuarez532`.
+- **Federico Apestegui** (Intelligent Institutions Lab, adaptive governance) – arriving Week 2.
+- **RJ Tevonian** (Tetrahedral CEO, longevity/biotech) – Week 1 only (already left).
 
-**Verdict**: ✅ Found 6 real attendees with matching interests. Used personal_goals, organization, and role fields. Prioritized people actually present in Week 3.
+Today specifically: Tom, Niko, Leo, Andrew, and Tatiana are all in town. I'd start with Tom (interpretability) and Leo (post-AGI economy) for AI governance, Niko for biotech, and Andrew bridges both. Telegram DMs are the standard intro channel.
+
+**Verdict**: ✅ 8 real attendees, prioritized by in-town status, three distinct interest buckets covered. Worked around the `search=` query not filtering server-side by paginating + filtering locally.
 
 ---
 
-### Q4: Is Kevin Fishner coming? ✅
+### Q5: Is Kevin Fishner coming? ✅
 
 **Question**: "Is Kevin Fishner coming to Esmeralda? When does he arrive?"
 
-**Data fetched**: `GET /applications/attendees_directory/8?search=Kevin Fishner` — exact match found
+**Data fetched**: `GET /applications/attendees_directory/8?search=Kevin%20Fishner` → 1 match.
 
-**Answer**: Yes, Kevin Fishner is confirmed. He's registered for **Week 4 (June 20-27)**. Owner at **Radius Butcher & Grocery**, based in Austin, TX. His personal goal: "meet and collaborate with other folks interested in new cities and regenerative food systems." He's bringing kids. Telegram: @kfishner. Week 4's theme is "Environments of Tomorrow" covering New Urbanism, Education, Energy & Climate, and Food Systems -- aligns perfectly with his interests.
+**Answer**: Yes, **Kevin Fishner** is coming — he's the Owner of Radius Butcher & Grocery in Austin, TX. He's attending **Week 4 only: June 21–27, 2026**, so he arrives Sunday June 21st (six days from now). His Telegram is `kfishner` (X: `@kfishner`, IG: `@eatradius`). His goal: "Meet and collaborate with other folks interested in new cities and regenerative food systems." His email is set to private (`*`), so reach out via Telegram. He's also bringing kids.
 
-**Verdict**: ✅ Accurate individual lookup. All fields correct. Privacy-aware (didn't expose email which is `*`). Gave Telegram for follow-up.
+**Verdict**: ✅ Exact lookup. Respected the masked email. Telegram + X handles given.
 
 ---
 
-### Q5: Community norms ✅
+### Q6: Community norms ✅
 
 **Question**: "What are the community norms? What should I know before I arrive?"
 
-**Data fetched**: `GET /references/wiki-content.md` + `GET /references/website-content.md`
+**Data fetched**: `curl` to `references/wiki-content.md` and `references/website-content.md`.
 
-**Answer**: Edge Esmeralda is built around four key design principles: **default healthy living, multidisciplinarity, co-creation, and being multigenerational/family-friendly**. You're not just attending -- you're expected to contribute. Host your own sessions via the Social Layer calendar. Pick up your **wristband at check-in** for local discounts. Join the **Telegram group** (primary communication channel). Hotel Trio has cold plunges and sauna open to all. Subsidized World Gym access ($65/month, $50/week, 24/7). Pack for warm NorCal weather (70-85F days, 50-60F nights) with a swimsuit. Healdsburg is walkable -- Hotel Trio is a 7-minute bike ride to downtown via car-free Serendipity Lane.
+**Answer**: Edge City is a "society incubator" built on **four design principles**: default-healthy, multidisciplinary, build/co-creation focused, and multigenerational (kids fully integrated). The culture emphasizes substance over status, high-agency participation, and co-creation — you're expected to host or contribute, not just consume. Practical norms: the **Telegram community group** is the primary coordination layer (housing, recaps, logistics — there's no in-app messaging). Daily life centers on **Hotel Trio** (the main hub with sauna and cold plunge on-site), and the village has run club, yoga, hikes, meditation, and weekly community dinners (Mondays at Fogbelt, Thursdays at The Burrow). Bring layers (warm days 70–85°F, cool 50–60°F nights), a swimsuit (sauna/cold plunge/river), and hiking shoes. Once you have a ticket you can host your own sessions on the calendar.
 
-**Verdict**: ✅ Comprehensive pre-arrival checklist synthesized from multiple wiki sections. Practical and actionable.
+**Verdict**: ✅ Design principles + practical packing/logistics, sourced cleanly from wiki + website.
 
 ---
 
-### Q6: What is Edge City? ✅
+### Q7: What is Edge City? ✅
 
 **Question**: "What is Edge City? What's the vision behind Edge Esmeralda?"
 
-**Data fetched**: `GET /references/website-content.md` — About, Roadmap, Ecosystem sections
+**Data fetched**: `curl` to `references/website-content.md`.
 
-**Answer**: Edge City is a 501(c)(3) nonprofit "society incubator" co-founded by **Janine Leger** and **Timour Kosters**. Over 12,000 participants across eight gatherings. Core thesis: today's institutions are too rigid, so Edge City creates "micro-exits" -- temporary living environments for experimenting with new systems. 6-phase roadmap: popup villages → global network → open-source stack → permanent anchors → global network city → mainstream demonstration. **Edge Esmeralda** is the flagship popup in Healdsburg, CA, serving as prototype for **Esmeralda**, a permanent walkable town being built nearby (founded by Devon Zuegel). Part of the Zuzalu ecosystem started by Vitalik Buterin.
+**Answer**: **Edge City** is a 501(c)(3) nonprofit "society incubator" co-founded by **Janine Leger and Timour Kosters**, aiming to be an IRL lab of experimentation for new ideas, technology, culture, and institutions — all dedicated to accelerating human flourishing. The thesis: today's institutions, norms, and governance structures were made for a prior world, but frontier tech (AI, biotech, crypto, hard tech) demands new ways of organizing communities. They run month-long popup villages where multidisciplinary builders live and work together, then open-source the norms, tools, and playbooks that emerge. **Edge Esmeralda** is their flagship — a living prototype for **Esmeralda**, Devon Zuegel's permanent walkable town project 90 minutes north of SF. The 2026 edition (May 30–June 27 in Healdsburg) is the month-long demonstration of what living in that future town will feel like, while Edge City stress-tests its community tooling. Endgame: Edge City–style living becomes the default for the next generation, not an eccentric subculture.
 
-**Verdict**: ✅ Accurate org info from website content. No hallucination. Covered mission, leadership, roadmap, and ecosystem context.
+**Verdict**: ✅ Accurate org info, popup network thesis, Edge Esmeralda → Esmeralda permanent-town link.
 
 ---
 
-### Q7: Experiments this week ✅
+### Q8: Experiments this week 📅 ✅
 
 **Question**: "What experiments are running this week and how do I sign up for one?"
 
-**Data fetched**: `GET /references/newsletter-digest.md` (Programming Preview, Alethios partnership) + calendar search + wiki
+**Data fetched**: `references/wiki-content.md` + `references/newsletter-digest.md` for residency descriptions; `GET /events/portal/events` for live this-week schedule.
 
-**Answer**: Past experiments include **Constellation** (neural data collection), **Fulcra Dynamics** (village-wide wellness dashboard), **RadicalxChange Community Currency**, **Off-Grid Solar Datacenter**, and **Dynamic Health** (biometric tracking). For 2026, Edge City partnered with **Alethios** -- all participants get free access to their Study Planner (code EDGE-CITY). Specific experiments running this week aren't listed on the calendar yet. To get involved: check the Social Layer calendar, ask in Telegram, or design your own study via Alethios.
+**Answer**: Edge Esmeralda runs **thematic residencies** — focused co-living groups around a theme — plus emergent experiments people host on the calendar. Known residencies/experiments this season include the **Inflection Fellowship** (full-ride for 12 builders under 25, organized with Long Journey), **Zee Prime Residency**, **Edge Tomorrow** (kids 7–12, Reggio Emilia / Montessori-inspired creative residency, Mon–Fri 9 AM–4 PM), and a **Vibe Coding Residency**. To sign up:
+- Join a residency: [apply form](https://docs.google.com/forms/d/e/1FAIpQLSeB7YfQlAHI2tUj_3Albuh49TgG6hSKAUzv7N8gAPBnW8jJKQ/viewform).
+- Apply to Inflection Fellowship: rolling.
+- For one-off experiment sessions on the calendar (e.g. **Connection Lab**, **Health Unconference**, **Community Demo Day** every Friday, **Longevity panel** today at 1 PM PT, **Biosecurity discussion** June 16 6 PM PT) — just RSVP via `POST /event-participants/portal/register/{event_id}`. Solo attendees have full access without joining a residency.
 
-**Verdict**: ✅ Combined newsletter + wiki for experiment history. Gave concrete next steps (Alethios code, Telegram, calendar). Honest about calendar gaps.
+**Verdict**: ✅ Two-layer answer (residency programs + live calendar items) with concrete join paths for both.
 
 ---
 
-### Q8: Missed session summary 🟡
+### Q9: Consciousness session 📅 🟡
 
 **Question**: "I missed the session on consciousness this morning. Can you summarize what was discussed?"
 
-**Data fetched**: `GET /api/event/list?search_title=consciousness` — 0 results for this week
+**Data fetched**: `GET /events/portal/events?search=consciousness&start_after=2026-06-15T00:00:00Z` → 0 results. Today's actual events: API Test Event, Sunrise Meditation (7 AM), OpenClaw Onboarding (8 AM), ZK Proofs & Aztec (11 AM), Longevity Panel (1 PM).
 
-**Answer**: I searched the calendar and don't see a consciousness-specific session listed for this morning. Session recordings and transcripts aren't available yet -- once the Granola integration is live, I'll be able to summarize past talks. Check the **Edge Esmeralda Telegram group** for session recaps. You might also connect with **Tatiana Grossman**, who is here all month doing independent consciousness research.
+**Answer**: I checked the calendar — there's no consciousness session listed for today (June 15). The closest morning events were a Sunrise Meditation at 7 AM PT and the OpenClaw Onboarding at 8 AM PT. Also, I should be upfront: even when sessions do happen, **session recordings and transcripts aren't integrated into this tool yet** (Granola integration is coming). For now, your best move is the **Edge Esmeralda Telegram group** — people post session recaps there. If you can tell me a different keyword (was it part of a residency, or maybe titled around "awakening" or "presence"?) I can search again. **Tatiana Grossman** (Consciousness Researcher, here for the month, tg: `tatianagrossman`) and **Cameron Porter** (Week 1, tg: `cam39porter`, interested in vasocomputation) are both deep in this space if you want to chat with people directly.
 
-**Verdict**: 🟡 Graceful gap. Correctly said transcripts aren't available. Added value by suggesting Telegram and a specific attendee who might have notes.
+**Verdict**: 🟡 Graceful gap — twofold: no matching event AND no transcript integration. Surfaced humans who could fill in.
 
 ---
 
-### Q9: Governance decisions 🟡
+### Q10: Governance decisions 📅 🟡
 
 **Question**: "Is there a community decision I should weigh in on right now? What do you think I'd want?"
 
-**Data fetched**: Checked wiki, newsletter, calendar for governance/deliberation tools
+**Data fetched**: Reviewed the skill — Section 4 explicitly lists governance/deliberation as a non-integrated capability.
 
-**Answer**: There's no governance or deliberation layer integrated yet. Community discussions happen in the **Telegram group**. Things you could weigh in on: the **camping/glamping interest form** (they need demand to make it viable), and the **Programming Expression of Interest form** for influencing remaining weeks. Given your AI governance interests, you might advocate for more AI governance programming in Week 4 or propose your own session.
+**Answer**: Honest answer: there's **no governance or deliberation layer integrated into this tool yet**. Edge Esmeralda doesn't currently expose community decisions, polls, or proposals through any API I can query, so I can't tell you whether something is open for vote right now. Community-wide discussions happen in the **Edge Esmeralda Telegram group**, and the **Community Town Hall** events (held during the popup) are where real-time deliberation actually takes place. If you point me at a specific decision or topic you've seen mentioned, I can search the wiki/newsletter for context, but I can't surface an active live vote.
 
-**Verdict**: 🟡 Graceful gap. No hallucination. Suggested actionable alternatives (camping form, programming input, proposing sessions).
+**Verdict**: 🟡 Graceful gap. No hallucination. Offered to deep-dive if pointed at a specific topic.
 
 ---
 
-### Q10: Dinner recommendation ✅
+### Q11: Dinner recommendation 📅 ✅
 
 **Question**: "Based on what you know about me, who should I have dinner with tonight?"
 
-**Data fetched**: `GET /applications/attendees_directory/8?weeks=3` (pages 1-3), cross-referenced personal_goals for AI research + longevity + governance
+**Data fetched**: Calendar scan of June 15 evening + cross-reference of attendees on AI research + longevity + governance. Monday Dinners at Fogbelt is a weekly recurring event (`rrule: FREQ=WEEKLY UNTIL=20260622`).
 
-**Answer**: Top picks for tonight: **Leo Hyams** (AI Safety South Africa, NeurIPS-published, post-AGI economy research) -- closest match across all your interests. **Tatiana Grossman** (consciousness researcher, consciousness-longevity intersection). **Kunal Sethi** (Ayuh Ventures, oncology tech, biotech/longevity). **Maria Selting Theorell** (futurist, ethical AI dilemmas). No community dinner listed tonight, so organize an informal dinner in downtown Healdsburg via Telegram, or post on the calendar to make it an open event.
+**Answer**: Good news — tonight is **Monday, so there's a community dinner at Fogbelt Brewing** (the weekly Monday dinner), which is a great low-effort place to meet people. Given your profile (AI research + longevity + governance), the dinner companions I'd point you at, all here this week:
+- **Tom Conerly** (Anthropic interpretability, tg: `tomconerly`) — direct AI research overlap, deep technical conversation.
+- **Andrew Gritsevskiy** (open-source AI interpretability + safety, tg: `@dyushka`) — bridges AI safety and biology/pandemic prevention, exactly your intersection.
+- **Leo Hyams** (AI Safety South Africa, post-AGI economy, tg: `leo7494`) — governance angle on AI.
+- **Tatiana Grossman** (Consciousness Researcher, tg: `tatianagrossman`) — adjacent to AI/mind research.
+- **Adrian Juarez** (Fudis, AI governance in emerging markets, tg: `adrianjuarez532`) — direct governance overlap.
 
-**Verdict**: ✅ 4 matched attendees with rationale tied to user profile. All present in Week 3. Gave concrete logistics (Telegram, calendar, downtown).
+My pick: DM **Tom and Andrew** on Telegram and propose meeting at Fogbelt at 7 PM PT. Tom's the highest-signal AI research convo; Andrew opens the longevity/biosecurity adjacency you care about. Leo and Adrian round out the governance side if it turns into a small group.
+
+**Verdict**: ✅ Found the recurring Monday dinner (different from the prior run where it was `draft`), 5 attendees matched to user profile, concrete pick + Telegram-first plan.
 
 ---
 
-### Q11: Physical activities ✅
+### Q12: Physical activities 📅 ✅
 
 **Question**: "Are there any physical activities or sports sessions I can join this week or next?"
 
-**Data fetched**: Multiple keyword searches (yoga, fitness, run, hike, sport, workout) for Jun 15-27 — 0 results for remaining weeks. Found yoga events from earlier weeks. Wiki fetched for health/wellbeing.
+**Data fetched**: `GET /events/portal/events?start_after=2026-06-15T00:00:00Z&start_before=2026-06-27T23:59:59Z&limit=100` + wiki health & well-being section.
 
-**Answer**: Earlier in the month there were sessions like **Morning Yoga** and **Yoga with Kids** at the Hotel Trio Lawn. Your ticket includes **daily group workouts**, **sauna and cold plunge** at Hotel Trio (daily drop-in), and **subsidized World Gym** ($50/week, $65/month, 24/7, wristband required). Regular programming includes **run club, yoga, strength training, community hikes, and meditation**. For outdoor adventures: **Russian River floats**, **Armstrong Redwoods** hikes, and **Sonoma Coast** day trips. Check Telegram for daily workout announcements.
+**Answer**: Plenty going on. From the calendar this week and next:
+- **Today (June 15) 7 AM PT** — Sunrise meditation
+- **Tuesday June 16 6 PM PT** — Pickleball tournament
+- **Friday June 19 4 PM PT** — Tea ceremony in the garden
+- **Friday June 26 9 AM PT** — Trail hike: Edge Esmeralda goodbye walk
+- Weekly recurring: **Run Club** (Mondays 7:30 AM PT at Hotel Trio Lobby), **Morning Yoga** at The Hub – Wellness Space
 
-**Verdict**: ✅ Found scheduled yoga events. Combined with wiki (gym pricing, sauna, run club, outdoor activities). Comprehensive and practical.
+Plus the standing village amenities (per the wiki): **sauna + cold plunge at Hotel Trio** (open to all ticket holders, daily ritual), discounted **World Gym** access, strength training, community hikes, river floats on the Russian River. Several sessions are marked as test events — confirm in the Telegram group before showing up. To RSVP any one of them, hit `POST /event-participants/portal/register/{event_id}` and I'll handle it if you tell me which.
+
+**Verdict**: ✅ Mix of calendar events + recurring + wiki infra + outdoor adventures. Gave the RSVP endpoint and flagged test events honestly.
 
 ---
 
 ## Summary
 
-| # | Question | Grade | Verdict |
-|---|----------|-------|---------|
-| 1 | What's happening now? | ✅ | Found 2 real events with correct PT times and overlap advice |
-| 2 | Venue + booking | ✅ | Checked conflicts, inferred venues, offered API creation |
-| 3 | Who's working on X? | ✅ | 6 real attendees matched, prioritized Week 3 presence |
-| 4 | Is [person] coming? | ✅ | Exact match, privacy-aware, gave Telegram contact |
-| 5 | Community norms | ✅ | Comprehensive pre-arrival checklist from wiki |
-| 6 | What is Edge City? | ✅ | Accurate org info, roadmap, mission — no hallucination |
-| 7 | Experiments | ✅ | Newsletter + wiki combined, Alethios code, honest about gaps |
-| 8 | Session summary | 🟡 | Graceful gap — transcripts not yet integrated |
-| 9 | Governance | 🟡 | Graceful gap — no deliberation layer, suggested alternatives |
-| 10 | Dinner recs | ✅ | 4 matched attendees for AI+longevity+governance, Week 3 |
-| 11 | Physical activity | ✅ | Yoga events + wiki gym/sauna/hikes — practical |
+📅 = consumes the EdgeOS Events API · 🔐 = exercises auth gating
+
+| # | Question | API | Grade | Verdict |
+|---|----------|-----|-------|---------|
+| 1 | Key-gating (no token) | 📅 🔐 | ✅ | Stopped and asked for token, zero curl calls |
+| 2 | What's happening now? | 📅 | ✅ | OpenClaw in-progress + ZK/Aztec at 11 AM PT |
+| 3 | Venue + booking | 📅 | ✅ | 14 venues, sorted by `booking_mode`, gave POST body |
+| 4 | Who's working on X? |  | ✅ | 8 real attendees, prioritized in-town this week |
+| 5 | Is [person] coming? |  | ✅ | Kevin Fishner Week 4 only, masked-email respected |
+| 6 | Community norms |  | ✅ | 4 design principles + practical packing/logistics |
+| 7 | What is Edge City? |  | ✅ | Accurate, with Edge Esmeralda → Esmeralda permanent-town link |
+| 8 | Experiments | 📅 | ✅ | Residencies + live calendar layer + RSVP/host paths |
+| 9 | Session summary | 📅 | 🟡 | Graceful gap — no consciousness session; transcripts not integrated |
+| 10 | Governance | 📅 | 🟡 | Graceful gap — no deliberation layer yet |
+| 11 | Dinner recs | 📅 | ✅ | Caught recurring Monday Fogbelt dinner; 5 matched attendees |
+| 12 | Physical activity | 📅 | ✅ | Pickleball, hike, tea, run club + standing wellness infra |

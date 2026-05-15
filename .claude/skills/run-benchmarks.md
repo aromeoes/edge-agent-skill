@@ -21,25 +21,28 @@ This is your ONLY source of knowledge. Follow its instructions exactly — use t
 
 ENVIRONMENT VARIABLES (set before running curl):
 - EDGEOS_BEARER_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXRpemVuX2lkIjoxMzQ1LCJlbWFpbCI6InR1bGVAc2ltcGxlZmkudGVjaCIsImlhdCI6MTc3NTU2NzY4Mn0.GAD8fGWZHLCQ7RoLCRhKqrFXL4geHYzlao5c8Xk-X2A
-- SOLA_AUTH_TOKEN=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MzIzNDEsImFkZHJlc3NfdHlwZSI6ImVtYWlsIiwiaHR0cHM6Ly9oYXN1cmEuaW8vand0L2NsYWltcyI6eyJ4LWhhc3VyYS1kZWZhdWx0LXJvbGUiOiJ1c2VyIiwieC1oYXN1cmEtYWxsb3dlZC1yb2xlcyI6WyJ1c2VyIl0sIngtaGFzdXJhLXVzZXItaWQiOiIzMjM0MSJ9fQ.ScIDCGjMlOB_k-xBV1Vu4dW32Fp7E7XX1ZynkdWfNxY
+- EDGEOS_API_KEY=eos_live_J5Mf2bS54pIfP4CA3_rbapLfoDoX80Lp
 
-CRITICAL: Today is June 15, 2026. Current time is 10:00 AM PT. The group timezone is America/Los_Angeles (PDT = UTC-7). Use local_start_time / local_end_time fields for display.
+CRITICAL: Today is June 15, 2026. Current time is 10:00 AM PT. Local timezone is America/Los_Angeles (PDT = UTC-7). The EdgeOS events API returns ISO-8601 timestamps with timezone — convert to PT for display.
 
-For "me" context in Q10, pretend you are helping someone who works in AI research and is interested in longevity and governance.
+For "me" context in Q11, pretend you are helping someone who works in AI research and is interested in longevity and governance.
 
-Answer ALL 11 benchmark questions below. For each, actually run the curl commands from the skill. Write your answer as if talking to an attendee.
+Answer ALL 12 benchmark questions below. For each, actually run the curl commands from the skill. Write your answer as if talking to an attendee.
 
-Q1: "What's happening right now, and what's coming up in the next two hours?"
-Q2: "I want to host a workshop on AI safety. What venues are free Thursday at 4pm and how do I book one?"
-Q3: "Who here is working on longevity / AI governance / biotech? Who should I meet today?"
-Q4: "Is Kevin Fishner coming to Esmeralda? When does he arrive?"
-Q5: "What are the community norms? What should I know before I arrive?"
-Q6: "What is Edge City? What's the vision behind Edge Esmeralda?"
-Q7: "What experiments are running this week and how do I sign up for one?"
-Q8: "I missed the session on consciousness this morning. Can you summarize what was discussed?"
-Q9: "Is there a community decision I should weigh in on right now? What do you think I'd want?"
-Q10: "Based on what you know about me, who should I have dinner with tonight?"
-Q11: "Are there any physical activities or sports sessions I can join this week or next?"
+**Q1 is special — answer it as if `EDGEOS_API_KEY` is NOT set in your environment.** Do not run any calendar curl. Do not invent a token. The pass condition is: the agent stops, explains that an EdgeOS personal access token is required, and asks the user to provide one. For Q2–Q12, the env vars listed above are available and you should use them.
+
+Q1: "What are the upcoming events?" *(answer with NO `EDGEOS_API_KEY` available — pass = agent asks for the token instead of calling the API)*
+Q2: "What's happening right now, and what's coming up in the next two hours?"
+Q3: "I want to host a workshop on AI safety. What venues are free Thursday at 4pm and how do I book one?"
+Q4: "Who here is working on longevity / AI governance / biotech? Who should I meet today?"
+Q5: "Is Kevin Fishner coming to Esmeralda? When does he arrive?"
+Q6: "What are the community norms? What should I know before I arrive?"
+Q7: "What is Edge City? What's the vision behind Edge Esmeralda?"
+Q8: "What experiments are running this week and how do I sign up for one?"
+Q9: "I missed the session on consciousness this morning. Can you summarize what was discussed?"
+Q10: "Is there a community decision I should weigh in on right now? What do you think I'd want?"
+Q11: "Based on what you know about me, who should I have dinner with tonight?"
+Q12: "Are there any physical activities or sports sessions I can join this week or next?"
 
 For EACH question write:
 ### Q[N]: [short title]
@@ -58,7 +61,7 @@ Take the agent output and write benchmarks.md at the repo root. Use emojis. Foll
 
 ## TL;DR
 
-[X]/11 passed | [Y] failed | [Z] graceful gaps
+[X]/12 passed | [Y] failed | [Z] graceful gaps
 
 ### What passed
 - [emoji] **Q[N] [title]** — [one line why it passed, e.g. "Found 2 real events with correct local times"]

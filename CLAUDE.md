@@ -13,8 +13,8 @@ This repo contains a single-file AI agent skill (SKILL.md) for Edge Esmeralda 20
 - `bun run scripts/index.ts` — Run indexer to regenerate reference files
 
 ## Key Data
-- Social Layer API: `api.sola.day`, group_id `3688`
-- EdgeOS API: `api-citizen-portal.simplefi.tech`, popup_id `8`
+- EdgeOS Events API: `api.edgeos.world/api/v1` — calendar, RSVPs, venues. Requires user-supplied personal access token (`eos_live_...`).
+- EdgeOS Citizen Portal: `api-citizen-portal.simplefi.tech`, popup_id `8` — attendee directory
 - Notion Wiki page ID: `317d45cdfc5981d2a571f52b024c5141`
 - Newsletter RSS: `edgeesmeralda2026.substack.com/feed`
 
