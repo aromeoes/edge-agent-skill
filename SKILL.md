@@ -1,7 +1,7 @@
 ---
 name: edge-esmeralda-2026
 description: Connect to Edge Esmeralda 2026 data — event schedule, attendee directory, wiki, newsletters, and organization info.
-version: 2.0.0
+version: 2.1.0
 author: Edge City
 tags: [edge-city, edge-esmeralda, events, community, popup-village]
 ---
@@ -255,7 +255,45 @@ If the user hasn't set `$EDGEOS_BEARER_TOKEN`, tell them they need to obtain an 
 
 ---
 
-## 3. Reference Content (Wiki, Website, Newsletter)
+## 3. Knowledge Discovery (Index Network) — Placeholder
+
+> **Status**: Stub. The Index Network team will replace this section via PR.
+
+Reserved for [Index Network](https://index.network) tooling — semantic search and cross-village knowledge discovery (past discussions, session notes, research links, decentralized knowledge graphs across Edge City popups).
+
+<!-- INDEX_NETWORK_PLACEHOLDER
+PR authors, replace this block with:
+- Endpoint(s) or SDK calls the agent should use
+- Auth: env var name (suggest `$INDEX_NETWORK_TOKEN`), scope, how the user obtains a token
+- 3–5 example curl commands or SDK snippets covering the common flows
+- Expected response shape
+- When NOT to use this tool (overlap with EdgeOS Events / Citizen Portal / Reference Content)
+END -->
+
+**Until this is wired up**: Tell the user that semantic search across Edge City content isn't live yet. Fall back to the indexed reference content in §5 (wiki, website, newsletter) and direct keyword search via `GET /events/portal/events?search=…` (§1).
+
+---
+
+## 4. Spatial Browsing (Geo Browser) — Placeholder
+
+> **Status**: Stub. The Geo Browser team will replace this section via PR.
+
+Reserved for Geo Browser tooling — a spatial/map-based interface for navigating Edge Esmeralda's venues, neighbourhoods, and events by physical location.
+
+<!-- GEO_BROWSER_PLACEHOLDER
+PR authors, replace this block with:
+- Endpoint(s) or SDK calls (likely: nearby venues, route between two venues, geofenced event search)
+- Auth: env var name (suggest `$GEO_BROWSER_TOKEN`), scope, how the user obtains a token
+- Lat/lng input conventions (the EdgeOS events API already exposes `geo_lat` / `geo_lng` on venues — see §1)
+- Map link / share URL conventions
+- Example curl commands or SDK snippets
+END -->
+
+**Until this is wired up**: Use `geo_lat` / `geo_lng` on venues from `GET /event-venues/portal/venues` (§1) to answer "what's near venue X" or "how far apart are these two venues" with basic haversine math, and Healdsburg-area knowledge from the wiki (§5).
+
+---
+
+## 5. Reference Content (Wiki, Website, Newsletter)
 
 For questions about logistics, the organization, or announcements, fetch the latest preprocessed content:
 
@@ -296,7 +334,7 @@ These files are updated automatically every 15 minutes. Fetch them when the user
 
 ---
 
-## 4. What's NOT Available Yet
+## 6. What's NOT Available Yet
 
 Be honest about these gaps — do not hallucinate answers:
 
@@ -308,7 +346,7 @@ Be honest about these gaps — do not hallucinate answers:
 
 ---
 
-## 5. Tips for Answering Well
+## 7. Tips for Answering Well
 
 - **Always use live API calls** for schedule and attendee queries — don't rely on cached or memorized data.
 - **Always require the EdgeOS API key before any calendar call.** If the user has not given one, ask for it first and stop. Do not try to query the calendar anonymously — every endpoint will return `401`.

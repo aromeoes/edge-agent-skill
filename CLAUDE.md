@@ -18,4 +18,10 @@ This repo contains a single-file AI agent skill (SKILL.md) for Edge Esmeralda 20
 - Notion Wiki page ID: `317d45cdfc5981d2a571f52b024c5141`
 - Newsletter RSS: `edgeesmeralda2026.substack.com/feed`
 
+## Placeholder sections in SKILL.md
+- §3 Knowledge Discovery (Index Network) — stub, awaiting PR from Index Network team. Marker: `<!-- INDEX_NETWORK_PLACEHOLDER ... END -->`.
+- §4 Spatial Browsing (Geo Browser) — stub, awaiting PR from Geo Browser team. Marker: `<!-- GEO_BROWSER_PLACEHOLDER ... END -->`.
+
+When either team PRs in their content, they replace the placeholder block with concrete endpoints, auth, examples, and remove the marker comment.
+
 Default to using Bun instead of Node.js.
