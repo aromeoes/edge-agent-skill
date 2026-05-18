@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-18T05:24:30.090Z
+Last indexed: 2026-05-18T06:47:50.405Z
 
 ---
 
@@ -115,15 +115,15 @@ Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover 
 
 Current Tickets (prices rise monthly until the event)
 
-- Standard Month Pass: $2,850 (will eventually cost $3,000)
-- Standard Week Pass:  $1,275 (will eventually cost $1,350)
-- Partner/Spouse Month Pass: $2,138 (will eventually cost $2,250)
-- ‍Partner/Spouse Week Pass: $956 (will eventually cost $1,013)
+- Standard Month Pass: $2,900 (will eventually cost $3,000)
+- Standard Week Pass:  $1,300 (will eventually cost $1,350)
+- Partner/Spouse Month Pass: $2,175 (will eventually cost $2,250)
+- ‍Partner/Spouse Week Pass: $975 (will eventually cost $1,013)
 - Weekday Pass (single day): $230 
 - Weekend Day Pass (single day): $290
 - Weekend Pass (Saturday & Sunday): $495 
-- Kid Week incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $660 (will eventually cost $710)
-- Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,780 (will eventually cost $1,830)
+- Kid Week incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $685 (will eventually cost $710)
+- Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,805 (will eventually cost $1,830)
 - Kid standard: free
 ---
 
