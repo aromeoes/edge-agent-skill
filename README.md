@@ -40,10 +40,34 @@ A GitHub Action runs the indexer every 15 minutes and commits any changes.
 
 ### Data Sources
 
-| Source | Type | Auth |
-|--------|------|------|
-| EdgeOS Events (api.edgeos.world) | Live API | Bearer token (eos_live_...) |
-| EdgeOS Attendees (api-citizen-portal.simplefi.tech) | Live API | Bearer token |
-| Notion Wiki | Preprocessed | None (public) |
-| Edge City Website | Preprocessed | None |
-| Substack Newsletter | Preprocessed | None |
+| Source | Type | Auth | Status |
+|--------|------|------|--------|
+| EdgeOS Events (api.edgeos.world) | Live API | Bearer token (eos_live_...) | Live |
+| EdgeOS Attendees (api-citizen-portal.simplefi.tech) | Live API | Bearer token | Live |
+| Notion Wiki | Preprocessed | None (public) | Live |
+| Edge City Website | Preprocessed | None | Live |
+| Substack Newsletter | Preprocessed | None | Live |
+| Index Network (semantic search) | Live API | TBD | **Placeholder — awaiting PR** |
+| Geo Browser (spatial / map) | Live API | TBD | **Placeholder — awaiting PR** |
+
+## Contributing tooling (Index Network, Geo Browser, others)
+
+Two sections in `SKILL.md` are reserved as stubs for external teams to PR concrete tooling into:
+
+- **§3 Knowledge Discovery (Index Network)** — marker: `<!-- INDEX_NETWORK_PLACEHOLDER ... END -->`
+- **§4 Spatial Browsing (Geo Browser)** — marker: `<!-- GEO_BROWSER_PLACEHOLDER ... END -->`
+
+To contribute a section:
+
+1. Open a PR replacing the placeholder block (everything between the marker comments) with:
+   - The endpoint(s) or SDK calls the agent should make
+   - Auth: env var name, scope, and how a user obtains a token
+   - 3–5 curl/SDK examples covering the common flows
+   - Expected response shape, including error codes
+   - When NOT to use the tool (overlap with EdgeOS or other sections)
+2. Remove the `<!-- ..._PLACEHOLDER ... END -->` marker comment.
+3. Update the row in the Data Sources table above (`Status: Live`, fill `Auth`).
+4. Bump the `version` field in `SKILL.md` frontmatter (e.g. 2.1.0 → 2.2.0).
+5. If your section needs env vars, add them to `.env.example`.
+
+Keep additions self-contained — the skill is a single file users download, so external imports / multi-file refactors aren't accepted.
