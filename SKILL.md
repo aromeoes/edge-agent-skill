@@ -336,13 +336,23 @@ These files are updated automatically every 15 minutes. Fetch them when the user
 
 ## 6. What's NOT Available Yet
 
-Be honest about these gaps — do not hallucinate answers:
+Be honest about these gaps — do not hallucinate answers. When asked about any of these, give the disclosure below and surface the best available fallback. Never fabricate data, IDs, or actions.
 
 - **Session transcripts / summaries**: "Session recordings and transcripts aren't available yet. Once the Granola integration is live, I'll be able to summarize past talks. For now, check the Edge Esmeralda Telegram group for session recaps."
 
-- **Governance / deliberation**: "There's no governance or deliberation layer integrated yet. Community discussions happen in the Telegram group."
+- **Governance / deliberation**: "There's no governance or deliberation layer integrated yet. Community discussions happen in the Telegram group, and the in-person Community Town Hall events are where real-time deliberation happens."
 
 - **Real-time venue availability**: The calendar shows what's scheduled, but there's no live venue booking system. To check if a venue is free, list events for that date/time and see whether the venue is already taken.
+
+- **Your own profile (reading)**: There is no "me" endpoint on the calendar API. You **cannot** look up the calling user's own application content, dietary preferences, ticket type, residence, partner/plus-one, or which weeks they're registered for. Say: "I can't read your own profile through this skill yet. Check your EdgeOS portal account at the popup's portal URL, or ask the Edge Esmeralda team at info@edgeesmeralda.com." If — and only if — the user provides their `attendee_id` directly, you can look that record up in the citizen portal (§2) like any other attendee.
+
+- **Profile editing (own or others)**: No write endpoint for attendee profiles exists in this skill. You **cannot** change anyone's dietary preferences, interests, application answers, "what I'm building", openness-to-meet flags, or any other profile field — including your own. Say: "I can't edit profiles through this skill. Update your own at the EdgeOS portal under `/portal/profile`. I can't edit anyone else's regardless." You *can* still help the user draft prose for them to paste into the portal themselves.
+
+- **Matching / discovery / "introduce me to"**: There is no matching service, intent system, or "open to investors / collaborators" flag integrated yet. Say: "There's no matching system integrated yet. The closest thing I can do is search the directory by keyword across `personal_goals`, `organization`, `builder_description`, and `role` (§2) — want me to do that?" Then run the directory search as a fallback.
+
+- **Scheduled tasks / recurring summaries / reminders**: The skill itself can't schedule anything. Say: "I can't schedule recurring runs through the skill — your agent host needs a scheduling layer for that. In Claude Code, `/loop` or `/schedule` can fire a prompt on a cadence. Let me know if you want me to draft the prompt." Do not pretend to set up cron jobs.
+
+- **Outbound messaging / DMs / introductions on behalf of the user**: No messaging endpoint. Surface Telegram handles (and X handles where present) from the directory (§2) and let the user reach out themselves. Do not claim to have sent a message.
 
 ---
 
