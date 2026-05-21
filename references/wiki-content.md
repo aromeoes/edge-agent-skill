@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-21T15:46:14.898Z
+Last indexed: 2026-05-21T16:57:47.103Z
 
 ---
 
@@ -35,6 +35,10 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 
 ---
 
+###  🥗 Food 
+
+---
+
 ### 🗺 Venues
 
 ---
@@ -48,10 +52,6 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 ---
 
 ### 🗓 Shared Calendar
-
----
-
-###  🥗 Food 
 
 Welcome! We're so excited to have you with us ☀️
 
@@ -234,7 +234,9 @@ Lunch
 
 - We’ve partnered with Jimtown and Then Sum (https://jimtown.com/) to provide fresh and healthy lunches Monday - Friday at 405 Healdsburg from 11:30am - 1pm!
 - Participants must pay for a pre-purchased meal ticket here [TICKETS NOT LIVE YET]. 
-- You must buy a lunch ticket the Friday morning before the upcoming week
+- You must buy a lunch ticket the Friday morning before the upcoming week.
+- We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets Jimtown and Then Sum (https://jimtown.com/) team plan properly.
+- Here’s the full menu (https://www.toasttab.com/catering/jimtown-and-then-sum-6706-california-128/menu/edge%20ezmeralda/), along with an ingredient list.
 Dinners 
 
 Dinners are pay-as-you-go and rotate across partner venues so you can explore the best of Healdsburg’s food scene.
