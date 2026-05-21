@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-21T14:25:52.534Z
+Last indexed: 2026-05-21T15:46:14.898Z
 
 ---
 
@@ -51,11 +51,15 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 
 ---
 
-### 💬 Community Chat Group on Telegram
+###  🥗 Food 
 
 Welcome! We're so excited to have you with us ☀️
 
 This wiki has all the important information regarding Edge Esmeralda 2026. If you have further questions, please reach out to info@edgeesmeralda.com (mailto:info@edgeesmeralda.com).
+
+---
+
+### 💬 Community Chat Group on Telegram
 
 ---
 
@@ -226,6 +230,20 @@ Getting to Healdsburg:
 - Rent a car (recommended for flexibility)
 - Rideshare (Uber/Lyft) from SFO/OAK
 - Use the Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) to coordinate carpools with other attendees
+Lunch
+
+- We’ve partnered with Jimtown and Then Sum (https://jimtown.com/) to provide fresh and healthy lunches Monday - Friday at 405 Healdsburg from 11:30am - 1pm!
+- Participants must pay for a pre-purchased meal ticket here [TICKETS NOT LIVE YET]. 
+- You must buy a lunch ticket the Friday morning before the upcoming week
+Dinners 
+
+Dinners are pay-as-you-go and rotate across partner venues so you can explore the best of Healdsburg’s food scene.
+
+Join the Edge Esmeralda community at 7:00pm, Monday to Thursday, to unwind and connect over shared meals!
+
+- Mondays at Fogbelt Brewing Company for 15% off.
+- Tuesdays and Thursdays at The Burrow for 10% off.
+- Wednesdays is for a trip to Costeaux (French Bakery) for 10% off. 
 Venue details for EE26 are being finalized — see a sneak peak below. 
 
 We keep a shared Google Map (https://www.google.com/maps/d/edit?mid=1DrcId2ALOYZAJAhwcC8SphPAAVTTQU4&usp=sharing) of our favorite spots around town: cafes, restaurants, venues, and more.
@@ -312,6 +330,8 @@ Edge Esmeralda 2026 is organized by Edge City (https://www.edgecity.live/), a "s
 
 Email info@edgeesmeralda.com (mailto:info@edgeesmeralda.com) if you have any further questions.
 
+- $75/week - 5 lunches ($15 each).
+- $300 for the full month.
 - What: A hands-on creative residency where kids conceive, build, and present projects they design for the whole Edge community. Think: pop-up museums, cardboard worlds, short films, neighborhood festivals.
 - When: Monday–Friday, 9am–4pm
 - Format: Weekly cohorts, each anchored by a theme-question. Kids lead the projects. Each week ends with a Friday showcase.
