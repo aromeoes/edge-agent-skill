@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-05-22T14:39:12.970Z
+Last indexed: 2026-05-22T15:42:11.916Z
 
 ---
 
@@ -1010,6 +1010,16 @@ Monthly Update
 Podcast
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
+
+THE CONSCIOUSNESS RESIDENCY AT EDGE ESMERALDA 2026
+
+A month-long residency at Edge Esmeralda 2026 with the researchers, builders, and practitioners working on how consciousness arises.
+
+Edge City Team
+
+Edge Esmeralda
+
+May 22, 2026
 
 INTRODUCING THE 2026 LONG JOURNEY RESIDENTS
 
