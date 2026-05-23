@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-23T13:32:18.744Z
+Last indexed: 2026-05-23T14:15:46.730Z
 
 ---
 
@@ -230,10 +230,13 @@ Getting to Healdsburg:
 - Rent a car (recommended for flexibility)
 - Rideshare (Uber/Lyft) from SFO/OAK
 - Use the Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) to coordinate carpools with other attendees
-Lunch
+Lunch Meal Plans
 
-- We’ve partnered with Jimtown and Then Sum (https://jimtown.com/) to provide fresh and healthy lunches Monday - Friday at 405 Healdsburg from 11:30am - 1pm!
-- Participants must pay for a pre-purchased meal ticket here [TICKETS NOT LIVE YET]. 
+ Here's our post explaining our Lunch Meal Plans.  (https://edgeesmeralda2026.substack.com/p/meal-plans-at-edge-esmeralda-2026)TDLR; 
+
+- We’ve partnered with Jimtown and Then Sum (https://jimtown.com/) to provide fresh and healthy lunches Monday - Friday delivered to 405 Healdsburg from 11:30am - 1pm!
+- Participants must pay for a pre-purchased meal ticket here (/a68d45cdfc59822aac5901fa5a80e783?pvs=25). 
+- Here’s a video explanation on purchasing the meal plan. (https://www.loom.com/share/6d3df958eadb44cfa8d288a61f4d1ba5) 
 - You must buy a lunch ticket the Friday morning before the upcoming week.
 - We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets Jimtown and Then Sum (https://jimtown.com/) team plan properly.
 - Here’s the full menu (https://www.toasttab.com/catering/jimtown-and-then-sum-6706-california-128/menu/edge%20ezmeralda/), along with an ingredient list.
