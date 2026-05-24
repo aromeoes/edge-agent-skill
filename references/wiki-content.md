@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-24T17:35:11.486Z
+Last indexed: 2026-05-24T18:06:29.164Z
 
 ---
 
@@ -239,7 +239,7 @@ Lunch Meal Plans
 - Here’s a video explanation on purchasing the meal plan. (https://www.loom.com/share/6d3df958eadb44cfa8d288a61f4d1ba5) 
 - You must buy a lunch ticket the Friday morning before the upcoming week.
 - We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets Jimtown and Then Sum (https://jimtown.com/) team plan properly.
-- Here’s the full menu (https://www.toasttab.com/catering/jimtown-and-then-sum-6706-california-128/menu/edge%20ezmeralda/), along with an ingredient list.
+- Here’s the full menu (https://www.toasttab.com/catering/jimtown-and-then-sum-6706-california-128/menu/edge%20esmeralda/), along with an ingredient list.
 Dinners 
 
 Dinners are pay-as-you-go and rotate across partner venues so you can explore the best of Healdsburg’s food scene.
