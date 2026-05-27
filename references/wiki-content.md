@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-27T19:32:36.088Z
+Last indexed: 2026-05-27T20:30:00.765Z
 
 ---
 
@@ -47,9 +47,9 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 
 ### 💯 Local Discounts & Partners
 
----
+### 🗓 Calendar
 
-### 👕 Merch
+---
 
 Welcome! We're so excited to have you with us ☀️
 
@@ -59,11 +59,11 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 
 ---
 
-### 🌳 Outdoor Adventure Planning
+### 👕 Merch
 
 ---
 
-### 🗓 Shared Calendar
+### 🌳 Outdoor Adventure Planning
 
 ---
 
@@ -141,6 +141,34 @@ Ways to reduce costs:
 
 - Use the Community Housing Sheet (https://docs.google.com/spreadsheets/d/1Hx1XjGcLzXmNMi8SFOiJtAmU_n13S0qLpaFBzDM7jVE/edit?usp=sharing) for leads from other participants
 - Local with space to host? Post in the Housing Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) — we may offer a free ticket in exchange
+The calendar is the central place for all programming at Edge Esmeralda: talks, workshops, workouts, community gatherings, and more. Browse everything, RSVP, and host your own sessions. Prefer to watch? Here's a 5-minute video tutorial (https://www.loom.com/share/ad49305a18a049639e7693d2c6f53458). 
+
+→ Open the calendar: https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events)
+
+Log in with the email tied to your ticket.
+
+Browse and RSVP
+
+- Switch between List, Calendar, and Day-by-Venue views in the top right.
+- Filter by My RSVPs, My events, tags, or tracks, or search by keyword.
+- Click any event for details. RSVP to add it to your personal calendar.
+Host your own event
+
+Anyone with a ticket can create and host. Click + Create event (top right), then:
+
+1. Pick a venue: an EE26 shared venue, a custom location (give it a name and paste a Google Maps link), or Meeting for online events.
+1. Add details: title, date (within May 30 to June 27), start time, duration, description, capacity, tags (less is more), and a track if it's part of an official program.
+1. Set visibility: Public (all participants), Private (only people you invite by email), or Unlisted (accessible by link only).
+⚠️ Some venues need admin approval. Your event stays pending and hidden from others until it's approved.
+
+Check venues
+
+- Open Venues in the left sidebar to see each space's capacity, hours, equipment, photos, and Google Maps location.
+- 💡 To check if a space is free, switch to Day-by-Venue view and go to your date. You'll see everything scheduled across all rooms at a glance.
+Manage your event
+
+Once it's created, you can invite people by email, see who has RSVPed, edit any detail, or cancel.
+
 Once you arrive in Healdsburg, visit our check-in desk to pick up your wristband and get important information. You can join sessions before picking up your wristband (have your ticket QR code ready) but you will need it for community meals, discounts and more.
 
 Opening Weekend Special (Sat May 30 & Sun May 31)
@@ -232,9 +260,6 @@ Ideas for weekends and downtime:
 - 🏔️ Day trips to Point Reyes or Muir Woods
 A full outdoor adventure guide will be published on the Edge Esmeralda blog (https://edgeesmeralda2026.substack.com/) closer to the event.
 
-The shared calendar will be available closer to the event. Check back here for updates!
-
-- Browse all sessions, RSVP to events & host your own!
 Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover the real costs of this month-long village.
 
 Current Tickets (prices rise monthly until the event)
@@ -326,7 +351,9 @@ Pack for warm days and light evenings:
 
 Think NorCal wine country meets outdoor adventure. Bring what keeps you comfortable in sunshine and by the river — and remember to pack anything specific you need for yourself (like medications or personal essentials).
 
-WiFi credentials will be added closer to the event.
+Wifi Name: Edge Esmeralda
+
+Password: healdsburg
 
 Our calendar (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events) allows your to browse all sessions, RSVP to events & host your own!
 
