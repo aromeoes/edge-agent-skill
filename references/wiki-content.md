@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-27T18:32:47.182Z
+Last indexed: 2026-05-27T19:32:36.088Z
 
 ---
 
@@ -60,10 +60,6 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 ---
 
 ### 🌳 Outdoor Adventure Planning
-
----
-
-### 🏠 Residencies
 
 ---
 
@@ -235,10 +231,6 @@ Ideas for weekends and downtime:
 - 🍷 Explore the local wineries and vineyards of Dry Creek Valley
 - 🏔️ Day trips to Point Reyes or Muir Woods
 A full outdoor adventure guide will be published on the Edge Esmeralda blog (https://edgeesmeralda2026.substack.com/) closer to the event.
-
-Edge Esmeralda 2026 features thematic residencies — focused groups of people who co-live and collaborate around shared themes. Find all officially confirmed residencies here (https://www.edgeesmeralda.com/).
-
-However, you don't need to join a residency to participate — solo attendees have full access to all programming.
 
 The shared calendar will be available closer to the event. Check back here for updates!
 
