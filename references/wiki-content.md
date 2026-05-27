@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-27T20:30:00.765Z
+Last indexed: 2026-05-27T21:14:49.104Z
 
 ---
 
@@ -10,6 +10,10 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 ---
 
 ### 🛏 Accommodation
+
+---
+
+### 🗓 Calendar
 
 ---
 
@@ -46,10 +50,6 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 ---
 
 ### 💯 Local Discounts & Partners
-
-### 🗓 Calendar
-
----
 
 Welcome! We're so excited to have you with us ☀️
 
@@ -354,6 +354,8 @@ Think NorCal wine country meets outdoor adventure. Bring what keeps you comforta
 Wifi Name: Edge Esmeralda
 
 Password: healdsburg
+
+Same for the Loft and the Hub
 
 Our calendar (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events) allows your to browse all sessions, RSVP to events & host your own!
 
