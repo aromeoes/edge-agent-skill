@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-27T13:55:21.281Z
+Last indexed: 2026-05-27T15:09:35.274Z
 
 ---
 
@@ -147,14 +147,18 @@ Ways to reduce costs:
 - Local with space to host? Post in the Housing Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) — we may offer a free ticket in exchange
 Once you arrive in Healdsburg, visit our check-in desk to pick up your wristband and get important information. You can join sessions before picking up your wristband (have your ticket QR code ready) but you will need it for community meals, discounts and more.
 
-May 30 special: Join us for check-in, tea, coffee, and snacks.
+Opening Weekend Special (Sat May 30 & Sun May 31)
 
-- Location: The Loft (https://maps.app.goo.gl/TfAJ4ixzfxQmLssB8), 120 North St
-- Hours: 11am - 5pm
-May 31 onwards:
+Location: The Loft, 120 North St (Map (https://maps.app.goo.gl/TfAJ4ixzfxQmLssB8))
 
-- Location: The Hub (https://maps.app.goo.gl/ErKaaNPEdMdcwnrg9), 405 Healdsburg Ave
-- Hours: Sun - Mon 11am - 4pm; Tues - Sat: 11am - 1pm
+Hours: May 30: 11am – 5pm; May 31: 11am - 4pm
+
+June 1 - June 27 
+
+Location The Hub, 405 Healdsburg Ave (Map (https://maps.app.goo.gl/ErKaaNPEdMdcwnrg9))
+
+Hours: Sun & Mon: 11am – 4pm; Tues – Sat: 11am – 1pm
+
 Meet people you'll actually want to know. Fill out the survey (https://lovescience.club/survey) and RSVP for the Connection Lab events (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events) to get matched and meet with the people at Edge you’ll click with—mostly friend-first crews built for exploring the week or month together. More info here (https://lovescience.club/).
 
 The most important communication channel is our Telegram group for all participants.
