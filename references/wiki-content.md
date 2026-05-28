@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-28T18:41:11.101Z
+Last indexed: 2026-05-28T19:39:02.736Z
 
 ---
 
@@ -183,7 +183,7 @@ Location The Hub, 405 Healdsburg Ave (Map (https://maps.app.goo.gl/ErKaaNPEdMdcw
 
 Hours: Sun & Mon: 11am – 4pm; Tues – Sat: 11am – 1pm
 
-Meet people you'll actually want to know. Fill out the survey (https://lovescience.club/survey) and RSVP for the Connection Lab events (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events) to get matched and meet with the people at Edge you’ll click with—mostly friend-first crews built for exploring the week or month together. More info here (https://lovescience.club/).
+Meet people you'll actually want to know. Fill out the survey  (https://lovescience.club/ee26-connection-lab)and RSVP for the Connection Lab events (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events) to get matched and meet with the people at Edge you’ll click with—mostly friend-first crews built for exploring the week or month together. More info here (https://lovescience.club/).
 
 The most important communication channel is our Telegram group for all participants.
 
