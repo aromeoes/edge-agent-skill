@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-29T21:56:55.791Z
+Last indexed: 2026-05-29T22:36:03.932Z
 
 ---
 
@@ -272,7 +272,7 @@ Current Tickets (prices rise monthly until the event)
 - Weekend Day Pass (single day): $290
 - Weekend Pass (Saturday & Sunday): $495 
 - Kid Week incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $710
-- Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,820
+- Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,830
 - Kid standard: free
 ---
 
