@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-30T18:07:11.683Z
+Last indexed: 2026-05-30T18:38:32.104Z
 
 ---
 
@@ -315,6 +315,8 @@ Local residents (Sonoma County):
 - Locals are free on Wednesdays (Sonoma County ID required)
 We are partnering with Dropmobility for Bike Rentals. Signup here: https://dropmobility.com/edge-esmeralda-2026 (https://dropmobility.com/edge-esmeralda-2026)
 
+Use the Drop Mobility app to scan and check out your bike: Andriod (https://play.google.com/store/apps/details?id=com.dropmobility.lab&pcampaignid=web_share) | IOS (https://apps.apple.com/us/app/drop-mobility-experiences/id6737418301)
+
 Prices:
 
 - $149 / week
@@ -402,7 +404,7 @@ Pick-up
 - Jun 2 onwards: 10am – 5pm in front of 150 North Street
 Bike Pickup.png
 
-Use the Drop Mobility app to scan and check out your bike.
+Use the Drop Mobility app to scan and check out your bike: Andriod (https://play.google.com/store/apps/details?id=com.dropmobility.lab&pcampaignid=web_share) | IOS (https://apps.apple.com/us/app/drop-mobility-experiences/id6737418301)
 
 Drop-off
 
