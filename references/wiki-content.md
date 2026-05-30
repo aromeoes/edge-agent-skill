@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-30T20:36:19.466Z
+Last indexed: 2026-05-30T21:07:32.300Z
 
 ---
 
@@ -49,7 +49,7 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 
 ---
 
-### 💯 Local Discounts & Partners
+### 🧒 Younger Kids (ages 2.5–6) — Sonoma Arts School
 
 Welcome! We're so excited to have you with us ☀️
 
@@ -96,6 +96,14 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 ---
 
 ### Learn more about Edge City
+
+---
+
+### 🎟 Teen Tickets
+
+---
+
+### 💯 Local Discounts & Partners
 
 - Apply here (https://edgecity.edgeos.world/portal/edge-esmeralda-2026) if you haven’t already. ✨ We are reviewing applications on a rolling basis.
 - Housing: Once you have your ticket, make sure you book accommodation. You can book our discounted rates for Hotel Trio here (https://edgeevents.bed-booking.com/). Browse housing resources here (https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=1200229816#gid=1200229816). 
@@ -240,14 +248,20 @@ Step 3: Book your travel and get excited!
 
 Note: This is the most reliable way to join us. Your spot is guaranteed once you purchased your ticket, you can join a residency later.
 
-We are building a multigenerational village. Edge Esmeralda is proudly family-friendly - kids and elders make the village richer for everyone.
+Edge Esmeralda is proudly multigenerational - kids, teens, and elders make the village richer for everyone. We believe the best communities are ones where people of all ages collaborate, learn from one another, and create meaningful things together.
 
-- Family-friendly schedule with shared meals and weekend adventures
-- Kid-led sessions and workshops welcomed
-- Kids & Families Telegram group - the invite link is sent once your application is accepted
-- For kids 2-6 years: partnership with Sonoma Art School camp
-- For Kids 7-12 years: Edge Tomorrow residency (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for)
-### Edge Tomorrow residency (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) - Creative Residency for Kids (7 - 12)
+- Kids & Families Telegram group — the invite link is sent once your application is accepted.
+→ Apply here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026) (mention your children in your application)
+
+---
+
+### 🎨 Edge Tomorrow — Creative Residency for Kids (ages 7–12)
+
+For younger children, we're partnering with the wonderful Sonoma Arts School (https://sonomaartschool.org/). Contact Kelly, head of the school, for details and enrollment.
+
+For children under 2.5, or those who aren't suited to the camp, we can provide a list of local nannies and babysitters so you can arrange appropriate care. Nannies attend Edge Esmeralda free of charge — no ticket required, but they must register.
+
+Teens (13–18) attend free with a standard ticket. No residency program is included, but teens are welcome to join Edge Tomorrow as mentors and collaborators alongside the younger kids.
 
 We secured discounts with local businesses for EE26 participants. 
 
@@ -389,13 +403,31 @@ Email info@edgeesmeralda.com (mailto:info@edgeesmeralda.com) if you have any fur
 
 - $75/week - 5 lunches ($15 each).
 - $300 for the full month.
-- What: A hands-on creative residency where kids conceive, build, and present projects they design for the whole Edge community. Think: pop-up museums, cardboard worlds, short films, neighborhood festivals.
-- When: Monday–Friday, 9am–4pm
-- Format: Weekly cohorts, each anchored by a theme-question. Kids lead the projects. Each week ends with a Friday showcase.
-- Price: see Tickets (https://www.notion.so/317d45cdfc5981d2a571f52b024c5141#464c7bf32e974bd8919cfb4239ef5acb)
-- Who else: Adults, teens, and elders who are excited to collaborate and create with kids are an important part of the experience. Parents and adult collaborators will be supporting the structure of the residency. Please bring your talents, energy, and curiosity.
-- Apply here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026) for your kids to join
-- Join as an adult collaborator (https://forms.gle/29wXBoGWuRsv16ro9)
+- What: A hands-on creative residency where kids conceive, build, and present projects they design for the whole Edge community. Think: pop-up museums, cardboard worlds, short films, neighbourhood festivals.
+Full article: Announcing Edge Tomorrow (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for)
+
+- Schedule: Monday–Friday, 9am–4pm
+- Format: Weekly cohorts, each anchored by a theme-question. Kids lead the projects. Each week ends with a Friday showcase open to the whole village.
+Weekly structure:
+
+- Monday — Discovery and exploration
+- Tuesday — Experiments and project definition
+- Wednesday & Thursday — Building
+- Friday — Final touches, community showcase, project retro
+Pricing:
+
+- Full month: $1,830 per child
+- Single week: $710 per child
+- Optional healthy lunches: $100/week per child
+- Kids without the residency (standard): free
+Drop-off: Parents do not need to stay. Edge Tomorrow is designed for kids who are comfortable in group settings, enjoy creating with others, and can manage their personal needs independently (bathroom, eating, basic self-care).
+
+Screen policy: Hands-on creative environment. Screens are used only as tools for making (documenting, recording, designing, researching). We recommend children leave phones, tablets, and gaming devices at home or with parents during studio hours.
+
+- Who else is involved: Adults - parents, aunties, uncles, and other Edge attendees who want to work alongside kids. Teens - creators and makers open to mentoring younger kids. Elders - grandparents and beyond, join to hold space, share stories, and build hands-on.
+- → Join as an adult collaborator (https://forms.gle/29wXBoGWuRsv16ro9)
+Questions? Contact Mitra Martin: mitra.martin@gmail.com (mailto:mitra.martin@gmail.com)
+
 Pick-up
 
 - May 30: 12pm – 5pm at Hotel Trio (rear parking lot)
@@ -438,3 +470,4 @@ Issues
 
 For repairs, troubleshooting, or lost equipment, contact us on Telegram in the Bike channel or @RedColton.
 
+- → Apply here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026) for your kids to join
