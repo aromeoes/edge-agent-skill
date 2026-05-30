@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-30T00:13:01.893Z
+Last indexed: 2026-05-30T01:16:27.392Z
 
 ---
 
@@ -306,6 +306,9 @@ Prices:
 
 - $149 / week
 - $299 / month
+
+**E-bike Guide: pickup, drop-off, and care **
+
 Healdsburg is a small, walkable town — you won't need a car for your day-to-day!
 
 - Hotel Trio is ~7 min bike ride to downtown via Serendipity Lane (car-free path)
@@ -378,3 +381,43 @@ Email info@edgeesmeralda.com (mailto:info@edgeesmeralda.com) if you have any fur
 - Who else: Adults, teens, and elders who are excited to collaborate and create with kids are an important part of the experience. Parents and adult collaborators will be supporting the structure of the residency. Please bring your talents, energy, and curiosity.
 - Apply here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026) for your kids to join
 - Join as an adult collaborator (https://forms.gle/29wXBoGWuRsv16ro9)
+Pick-up
+
+- May 30: 12pm – 5pm at Hotel Trio (rear parking lot)
+- May 31: 10am – 1pm at Hotel Trio (rear parking lot)
+- Jun 1: 2pm – 5pm in front of 150 North Street
+- Jun 2 onwards: 10am – 5pm in front of 150 North Street
+Use the Drop Mobility app to scan and check out your bike.
+
+Drop-off
+
+Drop bikes off in front of 150 North Street. Use the Drop Mobility app to scan and end your session.
+
+- Weekly reservations: due back by 3pm on Sunday
+- Place the charger in the basket and attach the key to the zip tie on the basket
+- Return the bike fully charged
+Parking around town
+
+- The Hub / Loft area: bike racks in front of The Loft, on North Street next to Portalupi Wine, or across from Little Saint
+- Hotel Trio: bike racks in front and on the left side of the hotel
+- ⚠️ Do not park at the entrance of The Hub
+Security
+
+- Always use the rear wheel lock (lock by hand, unlock via the Drop Mobility app)
+- Overnight: also tether the bike to a secure object using the provided tether
+Safety
+
+- Helmets available at the Hub check-in desk (limited number)
+- Front basket rated for 10 lbs only (no passengers)
+- Use bike lanes and paths whenever possible. Healdsburg has a dedicated bike path running along the left side of Hotel Trio into town and onward to the river near Veterans Memorial Beach
+- Be extra cautious on rural and vineyard roads
+Battery
+
+- Range: 10-30 miles on a full charge, depending on how much you pedal
+- To charge: unlock the battery with the key, remove, and plug in. Full in 3-6 hours
+- Don't overcharge
+- Lost chargers and keys come out of your security deposit
+Issues
+
+For repairs, troubleshooting, or lost equipment, contact us on Telegram in the Bike channel or @RedColton.
+
