@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-30T16:09:40.717Z
+Last indexed: 2026-05-30T16:35:56.626Z
 
 ---
 
@@ -247,7 +247,11 @@ We secured discounts with local businesses for EE26 participants.
 
 Find all offers here: ‣ 
 
-Merch details coming soon. Available for purchase at check-in.
+Pick up Edge Esmeralda merch at the check-in desk!
+
+Available items: T-Shirt (Green/Orange), Cap (Green/Beige), Tote Bag (Green/Orange)
+
+How to buy: Scan the QR code for the item you want → pay via card (Stripe) → show confirmation → collect your merch.
 
 Healdsburg and the surrounding Sonoma County offer incredible outdoor adventures.
 
@@ -262,7 +266,7 @@ A full outdoor adventure guide will be published on the Edge Esmeralda blog (htt
 
 Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover the real costs of this month-long village.
 
-Current Tickets (prices rise monthly until the event)
+Current Ticket Prices
 
 - Standard Month Pass: $2,950 (will eventually cost $3,000)
 - Standard Week Pass:  $1,325 (will eventually cost $1,350)
@@ -276,9 +280,7 @@ Current Tickets (prices rise monthly until the event)
 - Kid standard: free
 ---
 
-Prices increase regularly until the event. The earlier you book, the lower your rate. You can switch weeks or upgrade to the full month any time before April — the longer-stay discount will be applied automatically.
-
-Patron tickets start at $5,000 and include all standard ticket benefits plus an additional donation to our 501(c)(3). Patron tickets help keep prices accessible for builders, researchers, and young people, and help fund scholarships.
+Patron tickets start at $7,500 and include all standard ticket benefits plus an additional donation to our 501(c)(3). Patron tickets help keep prices accessible for builders, researchers, and young people, and help fund scholarships.
 
 What your ticket includes:
 
@@ -298,8 +300,13 @@ Scholarships: We offer a limited number of scholarships for those who need finan
 
 Volunteering: We are looking for highly motivated people who are willing to volunteer in exchange for a ticket discount (up to 100% off). Apply  (https://docs.google.com/forms/d/e/1FAIpQLSeXXuPXRWgce6dMlNaN7jtVU0FPbRQN0maIYxR9xBv2eo3UZQ/viewform?usp=header)as a volunteer here (https://docs.google.com/forms/d/e/1FAIpQLSevuZSnR4j24xgHF6lbq5X2wgpeQqiagzIU29OsBohvgMts7A/viewform?usp=header).
 
-Local residents: Healdsburg/Sonoma County residents tickets are 10% discounted
+Local residents (Sonoma County):
 
+- Local Week: $1,215
+- Local Month: $2,700
+- Local Spouse Week: $912
+- Local Spouse Month: $2,025
+- Locals are free on Wednesdays (Sonoma County ID required)
 We are partnering with Dropmobility for Bike Rentals. Signup here: https://dropmobility.com/edge-esmeralda-2026 (https://dropmobility.com/edge-esmeralda-2026)
 
 Prices:
@@ -387,6 +394,8 @@ Pick-up
 - May 31: 10am – 1pm at Hotel Trio (rear parking lot)
 - Jun 1: 2pm – 5pm in front of 150 North Street
 - Jun 2 onwards: 10am – 5pm in front of 150 North Street
+Bike Pickup.png
+
 Use the Drop Mobility app to scan and check out your bike.
 
 Drop-off
