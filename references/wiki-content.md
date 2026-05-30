@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-30T16:35:56.626Z
+Last indexed: 2026-05-30T17:08:23.169Z
 
 ---
 
@@ -140,7 +140,7 @@ Good alternatives if Hotel Trio is unavailable:
 Ways to reduce costs:
 
 - Use the Community Housing Sheet (https://docs.google.com/spreadsheets/d/1Hx1XjGcLzXmNMi8SFOiJtAmU_n13S0qLpaFBzDM7jVE/edit?usp=sharing) for leads from other participants
-- Local with space to host? Post in the Housing Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) — we may offer a free ticket in exchange
+- Local with space to host? Post in the Housing Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) - we may offer a free ticket in exchange
 The calendar is the central place for all programming at Edge Esmeralda: talks, workshops, workouts, community gatherings, and more. Browse everything, RSVP, and host your own sessions. Prefer to watch? Here's a 5-minute video tutorial (https://www.loom.com/share/ad49305a18a049639e7693d2c6f53458). 
 
 → Open the calendar: https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events)
@@ -171,6 +171,10 @@ Once it's created, you can invite people by email, see who has RSVPed, edit any 
 
 Once you arrive in Healdsburg, visit our check-in desk to pick up your wristband and get important information. You can join sessions before picking up your wristband (have your ticket QR code ready) but you will need it for community meals, discounts and more.
 
+Before you arrive: Please sign your liability waiver (https://waiver.smartwaiver.com/w/bgnpvra597aqdukktfwyss/web/) online ahead of time to speed up check-in.
+
+Read our full Opening Weekend guide (https://edgeesmeralda2026.substack.com/p/the-opening-weekend-of-edge-esmeralda) for everything happening May 30–31.
+
 Opening Weekend Special (Sat May 30 & Sun May 31)
 
 Location: The Loft, 120 North St (Map (https://maps.app.goo.gl/TfAJ4ixzfxQmLssB8))
@@ -191,6 +195,8 @@ The most important communication channel is our Telegram group for all participa
 
 - Location: The Hub (https://maps.app.goo.gl/ErKaaNPEdMdcwnrg9), 405 Healdsburg Ave
 - Hours: daily, 7am - 10pm
+We've partnered with local restaurants and businesses to offer EE26 participants exclusive discounts. Browse all offers on our Discounts & Partners page (https://www.notion.so/a68d45cdfc59822aac5901fa5a80e783). 
+
 Lunch Meal Plans
 
  Here's our post explaining our Lunch Meal Plans.  (https://edgeesmeralda2026.substack.com/p/meal-plans-at-edge-esmeralda-2026)TDLR; 
@@ -209,7 +215,7 @@ Join the Edge Esmeralda community at 7:00pm, Monday to Thursday, to unwind and c
 
 - Mondays at Fogbelt Brewing Company for 15% off.
 - Tuesdays and Thursdays at The Burrow for 10% off.
-- Wednesdays is for a trip to Costeaux (French Bakery) for 10% off. 
+- Wednesdays is for a trip to Costeaux (French Bakery) for 10% off.
 At Edge Esmeralda, health is the default state — we build environments where good food, daily movement, and meaningful connection are easy and natural.
 
 We offer a variety of health & well-being activities including run club, yoga, strength training, community hikes, meditation, sauna, cold plunge, and more.
@@ -224,9 +230,9 @@ Hotel Trio has cold plunges and sauna on-site (open to all ticket holders) — a
 - No additional costs — wristband required for in-person signup
 More details on fitness programming and wellness tracks will be added as the event approaches.
 
-Step 1: Apply here (https://edgecity.simplefi.tech/portal).  (https://edgeesmeralda.com/)Once your application is approved, you can purchase a ticket for your desired timeframe. Currently you can choose between week-long and month-long passes. We launch day and weekend passes closer to the event. 
+Step 1: Apply here (https://edgecity.simplefi.tech/portal).  (https://edgeesmeralda.com/)Once your application is approved, you can purchase a ticket for your desired timeframe. Currently you can choose between week-long and month-long passes. Day and weekend passes are now available. 
 
-You can also join Edge Esmeralda via a residency. Either way you need a ticket and we recommend buying your ticket as soon as possible to avoid raising prices.
+You can also join Edge Esmeralda via a residency. Either way you need a ticket.
 
 Step 2: Book accommodation. Housing isn't included in your ticket (some residencies offer shared housing). You can book our negotiated rates for Hotel Trio here (https://edgeesmeralda.bed-booking.com/). Find more recommended options, housemates and more in our Community Housing Sheet (https://docs.google.com/spreadsheets/d/1Hx1XjGcLzXmNMi8SFOiJtAmU_n13S0qLpaFBzDM7jVE/edit?usp=sharing) and our Telegram Housing group (https://t.me/+9XnxQWWwVvo4ZTUx).
 
@@ -234,11 +240,11 @@ Step 3: Book your travel and get excited!
 
 Note: This is the most reliable way to join us. Your spot is guaranteed once you purchased your ticket, you can join a residency later.
 
-We are building a multigenerational village. Edge Esmeralda is proudly family-friendly — kids and elders make the village richer for everyone.
+We are building a multigenerational village. Edge Esmeralda is proudly family-friendly - kids and elders make the village richer for everyone.
 
 - Family-friendly schedule with shared meals and weekend adventures
 - Kid-led sessions and workshops welcomed
-- Kids & Families Telegram group — link coming soon
+- Kids & Families Telegram group - the invite link is sent once your application is accepted
 - For kids 2-6 years: partnership with Sonoma Art School camp
 - For Kids 7-12 years: Edge Tomorrow residency (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for)
 ### Edge Tomorrow residency (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) - Creative Residency for Kids (7 - 12)
@@ -257,7 +263,7 @@ Healdsburg and the surrounding Sonoma County offer incredible outdoor adventures
 
 Ideas for weekends and downtime:
 
-- 🏄 Float the Russian River — a beloved EE tradition
+- 🏄 Float the Russian River - a beloved EE tradition
 - 🌲 Hike through Armstrong Redwoods State Natural Reserve
 - 🌊 Day trip to Jenner and the Sonoma Coast
 - 🍷 Explore the local wineries and vineyards of Dry Creek Valley
@@ -268,13 +274,13 @@ Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover 
 
 Current Ticket Prices
 
-- Standard Month Pass: $2,950 (will eventually cost $3,000)
-- Standard Week Pass:  $1,325 (will eventually cost $1,350)
-- Partner/Spouse Month Pass: $2,213 (will eventually cost $2,250)
-- ‍Partner/Spouse Week Pass: $994 (will eventually cost $1,013)
+- Standard Month Pass: $3,000
+- Standard Week Pass: $1,350
+- Partner/Spouse Month Pass: $2,250
+- Partner/Spouse Week Pass: $1,013
 - Weekday Pass (single day): $230 
 - Weekend Day Pass (single day): $290
-- Weekend Pass (Saturday & Sunday): $495 
+- Weekend Pass (Saturday & Sunday): $495
 - Kid Week incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $710
 - Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,830
 - Kid standard: free
@@ -314,14 +320,14 @@ Prices:
 - $149 / week
 - $299 / month
 
-**E-bike Guide: pickup, drop-off, and care **
+**📄 E-bike Guide: pickup, drop-off, and care **
 
 Healdsburg is a small, walkable town — you won't need a car for your day-to-day!
 
 - Hotel Trio is ~7 min bike ride to downtown via Serendipity Lane (car-free path)
 - Rideshare (Uber/Lyft) works well in the area
 - For excursions and regional adventures, carpooling / renting a car is recommended
-Healdsburg is located in Sonoma County, Northern California — about 1.5 hours north of San Francisco.
+Healdsburg is located in Sonoma County, Northern California - about 1.5 hours north of San Francisco.
 
 Nearest airports:
 
