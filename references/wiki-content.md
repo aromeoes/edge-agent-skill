@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-30T21:07:32.300Z
+Last indexed: 2026-05-30T21:35:55.537Z
 
 ---
 
@@ -49,7 +49,7 @@ Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening
 
 ---
 
-### 🧒 Younger Kids (ages 2.5–6) — Sonoma Arts School
+### 💯 Local Discounts & Partners
 
 Welcome! We're so excited to have you with us ☀️
 
@@ -96,14 +96,6 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 ---
 
 ### Learn more about Edge City
-
----
-
-### 🎟 Teen Tickets
-
----
-
-### 💯 Local Discounts & Partners
 
 - Apply here (https://edgecity.edgeos.world/portal/edge-esmeralda-2026) if you haven’t already. ✨ We are reviewing applications on a rolling basis.
 - Housing: Once you have your ticket, make sure you book accommodation. You can book our discounted rates for Hotel Trio here (https://edgeevents.bed-booking.com/). Browse housing resources here (https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=1200229816#gid=1200229816). 
@@ -257,11 +249,13 @@ Edge Esmeralda is proudly multigenerational - kids, teens, and elders make the v
 
 ### 🎨 Edge Tomorrow — Creative Residency for Kids (ages 7–12)
 
-For younger children, we're partnering with the wonderful Sonoma Arts School (https://sonomaartschool.org/). Contact Kelly, head of the school, for details and enrollment.
+---
 
-For children under 2.5, or those who aren't suited to the camp, we can provide a list of local nannies and babysitters so you can arrange appropriate care. Nannies attend Edge Esmeralda free of charge — no ticket required, but they must register.
+### 🧒 Younger Kids (ages 2.5–6) — Sonoma Arts School
 
-Teens (13–18) attend free with a standard ticket. No residency program is included, but teens are welcome to join Edge Tomorrow as mentors and collaborators alongside the younger kids.
+---
+
+### 🎟 Teen Tickets
 
 We secured discounts with local businesses for EE26 participants. 
 
@@ -427,6 +421,12 @@ Screen policy: Hands-on creative environment. Screens are used only as tools for
 - Who else is involved: Adults - parents, aunties, uncles, and other Edge attendees who want to work alongside kids. Teens - creators and makers open to mentoring younger kids. Elders - grandparents and beyond, join to hold space, share stories, and build hands-on.
 - → Join as an adult collaborator (https://forms.gle/29wXBoGWuRsv16ro9)
 Questions? Contact Mitra Martin: mitra.martin@gmail.com (mailto:mitra.martin@gmail.com)
+
+For younger children, we're partnering with the wonderful Sonoma Arts School (https://sonomaartschool.org/). Contact Kelly, head of the school, for details and enrollment.
+
+For children under 2.5, or those who aren't suited to the camp, we can provide a list of local nannies and babysitters so you can arrange appropriate care. Nannies attend Edge Esmeralda free of charge — no ticket required, but they must register.
+
+Teens (13–18) attend free with a standard ticket. No residency program is included, but teens are welcome to join Edge Tomorrow as mentors and collaborators alongside the younger kids.
 
 Pick-up
 
