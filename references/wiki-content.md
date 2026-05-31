@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-05-31T22:35:49.643Z
+Last indexed: 2026-05-31T23:07:25.176Z
 
 ---
 
@@ -73,6 +73,8 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 
 ### 🚲 Transport & Getting Around
 
+Looking to ride share?  Go here → (https://docs.google.com/spreadsheets/d/1LLYDrNjCgiPnHz5glreRh3FFJItrAbb9KHCfLoXIvmU/edit?gid=1235934074#gid=1235934074)
+
 ---
 
 ### ✈️ Traveling to Edge Esmeralda
@@ -96,8 +98,6 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 ---
 
 ### Learn more about Edge City
-
-Looking to ride share?  Go here → (https://docs.google.com/spreadsheets/d/1LLYDrNjCgiPnHz5glreRh3FFJItrAbb9KHCfLoXIvmU/edit?gid=1235934074#gid=1235934074)
 
 - Apply here (https://edgecity.edgeos.world/portal/edge-esmeralda-2026) if you haven’t already. ✨ We are reviewing applications on a rolling basis.
 - Housing: Once you have your ticket, make sure you book accommodation. You can book our discounted rates for Hotel Trio here (https://edgeevents.bed-booking.com/). Browse housing resources here (https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=1200229816#gid=1200229816). 
