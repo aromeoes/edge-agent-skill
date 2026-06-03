@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-06-03T02:40:35.208Z
+Last indexed: 2026-06-03T04:09:39.141Z
 
 ---
 
@@ -252,7 +252,7 @@ Edge Esmeralda is proudly multigenerational - kids, teens, and elders make the v
 - What: A hands-on creative residency where kids conceive, build, and present projects they design for the whole Edge community. Think: pop-up museums, cardboard worlds, short films, neighbourhood festivals.
 Full article: Announcing Edge Tomorrow (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for)
 
-- Schedule: Monday–Friday, 9am–4pm
+- Schedule: Monday–Friday, 9am–4pm at 328 Mason St
 - Format: Weekly cohorts, each anchored by a theme-question. Kids lead the projects. Each week ends with a Friday showcase open to the whole village.
 Weekly structure:
 
