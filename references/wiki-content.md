@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-06-03T01:35:46.839Z
+Last indexed: 2026-06-03T02:40:35.208Z
 
 ---
 
@@ -178,8 +178,7 @@ Read our full Opening Weekend guide (https://edgeesmeralda2026.substack.com/p/th
 June 1 - June 27 
 
 - Location The Hub, 405 Healdsburg Ave (Map (https://maps.app.goo.gl/ErKaaNPEdMdcwnrg9))
-- Hours: Sun & Mon: 11am – 4pm
-- Tues – Sat: 11am – 1pm
+- Hours: 
 Meet people you'll actually want to know. Fill out the survey  (https://lovescience.club/ee26-connection-lab)and RSVP for the Connection Lab events (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events) to get matched and meet with the people at Edge you’ll click with—mostly friend-first crews built for exploring the week or month together. More info here (https://lovescience.club/).
 
 The most important communication channel is our Telegram group for all participants.
@@ -423,6 +422,8 @@ Edge Esmeralda 2026 is organized by Edge City (https://www.edgecity.live/), a "s
 
 Email info@edgeesmeralda.com (mailto:info@edgeesmeralda.com) if you have any further questions.
 
+- Sun & Mon: 11am – 4pm
+- Tues – Sat: 11am – 1pm
 - → Apply here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026) for your kids to join
 For younger children, we're partnering with the wonderful Sonoma Arts School (https://sonomaartschool.org/). Contact Kelly, head of the school, for details and enrollment.
 
