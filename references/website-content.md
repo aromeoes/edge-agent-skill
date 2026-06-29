@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-06-29T14:50:40.296Z
+Last indexed: 2026-06-29T16:18:09.556Z
 
 ---
 
@@ -1010,6 +1010,16 @@ Monthly Update
 Podcast
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
+
+WELCOME TO EDGE CITY INDIA
+
+Applications are open. October 11 – November 1, Mandrem, North Goa.
+
+Edge City Team
+
+Edge City India
+
+June 30, 2026
 
 THE CONSCIOUSNESS RESIDENCY AT EDGE ESMERALDA 2026
 
