@@ -1,7 +1,7 @@
 # Edge City Website Content
 
 Source: https://edgecity.live
-Last indexed: 2026-08-11T11:29:15.608Z
+Last indexed: 2026-08-11T12:11:28.195Z
 
 ---
 
