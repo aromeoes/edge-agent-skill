@@ -13,8 +13,9 @@ This repo contains a single-file AI agent skill (SKILL.md) for Edge Esmeralda 20
 - `bun run scripts/index.ts` — Run indexer to regenerate reference files
 
 ## Key Data
-- EdgeOS Events API: `api.edgeos.world/api/v1` — calendar, RSVPs, venues. Requires user-supplied personal access token (`eos_live_...`).
-- EdgeOS Citizen Portal: `api-citizen-portal.simplefi.tech`, popup_id `8` — attendee directory
+- EdgeOS Events API: `api.edgeos.world/api/v1` — calendar, RSVPs, venues. Requires `eos_live_...` calendar key (`$EDGEOS_API_KEY`). Keys are gated to event-automation routes only (`/events/portal/...`, `/event-participants/portal/...`, `/event-venues/portal/...`); admin routes return 403.
+- EdgeOS Portal: `api.edgeos.world/api/v1` — `/humans/me`, attendee directory at `/applications/my/directory/{popup_id}`, API key minting at `/api-keys`. Requires OTP-derived JWT (`$EDGEOS_BEARER_TOKEN`). Edge Esmeralda 2026 popup id: `43746fd0-bce2-472b-93e4-a438177b2dff`.
+- Third-party login flow (for integrating apps): `POST /auth/human/third-party/login` + `/authenticate` with `X-Third-Party-Api-Key` (tenant-scoped, regenerable in the backoffice).
 - Notion Wiki page ID: `317d45cdfc5981d2a571f52b024c5141`
 - Newsletter RSS: `edgeesmeralda2026.substack.com/feed`
 
