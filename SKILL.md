@@ -1,7 +1,7 @@
 ---
 name: edge-esmeralda-2026
 description: Connect to Edge Esmeralda 2026 data — event schedule, attendee directory, wiki, newsletters, and organization info.
-version: 2.1.0
+version: 2.2.0
 author: Edge City
 tags: [edge-city, edge-esmeralda, events, community, popup-village]
 ---
@@ -27,21 +27,57 @@ The calendar lives on the EdgeOS Events API at **`https://api.edgeos.world/api/v
 
 ### Authentication is required
 
-**Every calendar request requires a personal access token.** The user must provide one — never invent or assume a token.
+This skill uses two complementary EdgeOS tokens. Each section below tells you which one it needs:
 
-Token format: `eos_live_...` (issued at `/portal/api-keys` in the EdgeOS portal).
+| Env var | Format | What it's for | How to get it |
+|---|---|---|---|
+| `$EDGEOS_API_KEY` | `eos_live_...` | Calendar reads/writes — events, RSVPs, venues (scopes: `events:read`, `events:write`, `rsvp:write`, `venues:write`) | Mint it in the EdgeOS portal under `/portal/api-keys`, or via `POST /api/v1/api-keys` if you have a bearer token (see below) |
+| `$EDGEOS_BEARER_TOKEN` | JWT | Reading the caller's own profile (`/humans/me`), the attendee directory, and minting `eos_live_...` keys (scopes: `portal:self_read`, `portal:directory_read`, `portal:api_keys_manage`) | The user logs in via OTP at the EdgeOS portal. Integrating apps (e.g. OpenClaw) can also obtain it through the third-party login flow on the user's behalf — see the auth endpoints below |
 
-Scopes the token may grant:
-- `events:read` — list and fetch events, list own RSVPs, list venues
-- `events:write` — create / update / cancel events, manage invitations
-- `rsvp:write` — RSVP and cancel RSVPs
-- `venues:write` — create / update / delete venues
+Both are passed as `Authorization: Bearer <token>`. **For everything in §1, use `$EDGEOS_API_KEY`.** Section 2 (directory) uses `$EDGEOS_BEARER_TOKEN`.
 
-**If the user has not provided a token, stop and ask for one.** Say something like:
+#### Route gating for `eos_live_...` keys
 
-> To query the Edge Esmeralda calendar I need an EdgeOS personal access token. Generate one at the EdgeOS portal under `/portal/api-keys` (it starts with `eos_live_`) and share it here, or set it as `$EDGEOS_API_KEY` in your environment.
+These keys are intentionally restricted to a short allowlist of event-automation routes. Endpoints under `/api/v1/events/portal/...` and `/api/v1/event-participants/portal/...` and `/api/v1/event-venues/portal/...` work — that's everything used in this section. Admin-style routes (`GET /api/v1/events`, `POST /api/v1/events/check-availability`) return `403` with `"API keys are restricted to approved event automation routes"`. When you hit that, you need the bearer token, not the API key.
 
-Once provided, pass it as `Authorization: Bearer <token>` on every request. If the user pastes a token directly, you may use it inline — do not persist it.
+#### Minting an `eos_live_...` key via API (alternative to the portal UI)
+
+If `$EDGEOS_BEARER_TOKEN` is available, you can mint a calendar key without leaving the terminal:
+
+```bash
+curl -s -X POST -H "Authorization: Bearer $EDGEOS_BEARER_TOKEN" \
+  -H "Content-Type: application/json" \
+  "https://api.edgeos.world/api/v1/api-keys" \
+  -d '{"name":"my-calendar-key","scopes":["events:read"]}'
+```
+
+The response includes the full key string (`"key": "eos_live_..."`) **once**; after that, only the prefix is visible via `GET /api/v1/api-keys`. Revoke with `DELETE /api/v1/api-keys/{key_id}`. Optional `expires_at` (ISO-8601 datetime).
+
+#### Third-party (OTP) login flow
+
+Integrating apps that own a tenant API key (`X-Third-Party-Api-Key`) can obtain a bearer token for any user in their tenant via a two-step OTP exchange. End users of this skill normally won't do this directly — it's the integration layer's job — but for reference:
+
+```bash
+# 1. Send OTP email
+curl -s -X POST "https://api.edgeos.world/api/v1/auth/human/third-party/login" \
+  -H "X-Third-Party-Api-Key: $EDGEOS_TENANT_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"email":"user@example.com"}'
+
+# 2. Exchange the 6-digit code for a bearer token (15-min OTP expiry)
+curl -s -X POST "https://api.edgeos.world/api/v1/auth/human/third-party/authenticate" \
+  -H "X-Third-Party-Api-Key: $EDGEOS_TENANT_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"email":"user@example.com","code":"123456"}'
+```
+
+#### If the user hasn't provided a token
+
+Stop and ask. Example:
+
+> To query the Edge Esmeralda calendar I need an EdgeOS calendar key (starts with `eos_live_`). Generate one in the EdgeOS portal under `/portal/api-keys` and share it, or set it as `$EDGEOS_API_KEY`. If you have a portal bearer token (`$EDGEOS_BEARER_TOKEN`) instead, I can mint a calendar key for you on the fly.
+
+If the user pastes a token, use it inline — do not persist it.
 
 ### Conventions
 
@@ -213,45 +249,59 @@ Consciousness, Health & Longevity, Wellbeing, Bio & Neuro, AI, Governance & Coor
 
 ---
 
-## 2. Attendee Directory (EdgeOS Citizen Portal)
+## 2. Attendee Directory (EdgeOS Portal)
 
-Search who is attending Edge Esmeralda 2026. **Requires `$EDGEOS_BEARER_TOKEN`** (a separate token from the events API key — issued by the citizen portal).
+Search who is attending Edge Esmeralda 2026. **Requires `$EDGEOS_BEARER_TOKEN`** — the calendar API key won't work here (it lacks the `portal:directory_read` scope).
 
-**Search attendees:**
+The directory lives on the same host as the events API (`api.edgeos.world`). The popup id is required in the URL path. For Edge Esmeralda 2026 it is `43746fd0-bce2-472b-93e4-a438177b2dff`. To resolve any other popup, list popups with `GET /api/v1/popups/portal/list` (same bearer token).
+
+**List the directory (paginated):**
 ```bash
 curl -s -H "Authorization: Bearer $EDGEOS_BEARER_TOKEN" \
-  "https://api-citizen-portal.simplefi.tech/applications/attendees_directory/8?skip=0&limit=20&search=QUERY"
+  "https://api.edgeos.world/api/v1/applications/my/directory/43746fd0-bce2-472b-93e4-a438177b2dff?skip=0&limit=100"
 ```
 
-Replace `QUERY` with a name, organization, or role. Use `skip` and `limit` for pagination.
-
-**Filter by week:**
+**Search by name, role, organization, or residence:**
 ```bash
 curl -s -H "Authorization: Bearer $EDGEOS_BEARER_TOKEN" \
-  "https://api-citizen-portal.simplefi.tech/applications/attendees_directory/8?skip=0&limit=20&weeks=1,2"
+  "https://api.edgeos.world/api/v1/applications/my/directory/43746fd0-bce2-472b-93e4-a438177b2dff?q=QUERY&limit=50"
 ```
 
-**Filter by families with kids:**
+The response is `{ "results": [...], "paging": { "skip", "limit", "total" } }`. Pagination is `skip` + `limit` (default `100`, max `1000`).
+
+**CSV export of the full directory:**
 ```bash
 curl -s -H "Authorization: Bearer $EDGEOS_BEARER_TOKEN" \
-  "https://api-citizen-portal.simplefi.tech/applications/attendees_directory/8?skip=0&limit=20&brings_kids=true"
+  "https://api.edgeos.world/api/v1/applications/my/directory/43746fd0-bce2-472b-93e4-a438177b2dff/csv"
 ```
 
-### Attendee response fields
-Each attendee contains: `first_name`, `last_name`, `email`, `telegram`, `role`, `organization`, `personal_goals`, `residence`, `age`, `gender`, `social_media`, `builder_boolean`, `builder_description`, `participation` (array of weeks with `name`, `start_date`, `end_date`), `associated_attendees` (spouse, kids), `picture_url`.
+### Attendee fields
 
-The response includes `pagination: { skip, limit, total }`.
+Each result contains: `id`, `first_name`, `last_name`, `email`, `telegram`, `role`, `organization`, `residence`, `age`, `gender`, `picture_url`, `participation` (array — each item has `id`, `name`, `slug`, `category`, `duration_type`, e.g. month / week-1 / week-4 passes), `associated_attendees` (linked plus-ones, partners, kids).
 
-### Week dates
+Unfilled fields come back as `null`. Treat `null` as "not provided" — do not infer.
+
+### Pass / participation duration types
+
+`participation[].duration_type` is one of `month`, `week`, `weekend`, or `day`. The `slug` (e.g. `week-1-main`, `month-main`) plus `name` (e.g. `Week 1`, `Month`) tells you exactly which timeframe the attendee is around for. The four official weeks for Esmeralda 2026:
+
 - **Week 1**: May 30 – June 6, 2026
 - **Week 2**: June 6 – June 13, 2026
 - **Week 3**: June 13 – June 20, 2026
 - **Week 4**: June 20 – June 27, 2026
 
-### Privacy
-Some attendees hide certain fields. Hidden fields appear as `"*"`. **Respect this** — do not try to infer or work around hidden data. If a field is `"*"`, tell the user that information is private.
+### Caller's own profile
 
-If the user hasn't set `$EDGEOS_BEARER_TOKEN`, tell them they need to obtain an access token from the Edge Esmeralda team to search attendees.
+If you only need information about the calling user (the holder of `$EDGEOS_BEARER_TOKEN`), call `GET /api/v1/humans/me` — faster than searching the directory and returns the same identity fields (id, tenant_id, email, first_name, last_name, telegram, gender, age, residence, picture_url):
+
+```bash
+curl -s -H "Authorization: Bearer $EDGEOS_BEARER_TOKEN" \
+  "https://api.edgeos.world/api/v1/humans/me"
+```
+
+### If the user hasn't provided a bearer token
+
+Tell them they need one from the EdgeOS portal (OTP login) or from whatever integrating app (e.g. OpenClaw) is providing them this skill. See the third-party OTP flow in §1.
 
 ---
 
@@ -344,11 +394,11 @@ Be honest about these gaps — do not hallucinate answers. When asked about any 
 
 - **Real-time venue availability**: The calendar shows what's scheduled, but there's no live venue booking system. To check if a venue is free, list events for that date/time and see whether the venue is already taken.
 
-- **Your own profile (reading)**: There is no "me" endpoint on the calendar API. You **cannot** look up the calling user's own application content, dietary preferences, ticket type, residence, partner/plus-one, or which weeks they're registered for. Say: "I can't read your own profile through this skill yet. Check your EdgeOS portal account at the popup's portal URL, or ask the Edge Esmeralda team at info@edgeesmeralda.com." If — and only if — the user provides their `attendee_id` directly, you can look that record up in the citizen portal (§2) like any other attendee.
+- **Your own application content (dietary preferences, "what I'm building", openness-to-meet flags, etc.)**: There is no read endpoint for the caller's application answers in this skill. You **can** read the caller's identity fields via `GET /api/v1/humans/me` (see §2) — id, email, name, telegram, gender, age, residence, picture_url — and you can also find yourself in the directory listing (§2). But application content (dietary, interests, builder description) isn't exposed here. Say: "I can read your basic profile (name, email, telegram, residence, etc.) but not your application content. For dietary preferences and similar, check your EdgeOS portal account or ask info@edgeesmeralda.com."
 
-- **Profile editing (own or others)**: No write endpoint for attendee profiles exists in this skill. You **cannot** change anyone's dietary preferences, interests, application answers, "what I'm building", openness-to-meet flags, or any other profile field — including your own. Say: "I can't edit profiles through this skill. Update your own at the EdgeOS portal under `/portal/profile`. I can't edit anyone else's regardless." You *can* still help the user draft prose for them to paste into the portal themselves.
+- **Profile editing — limited**: You can edit your own basic identity fields (first_name, last_name, telegram, gender, age, residence, picture_url) via `PATCH /api/v1/humans/me` with `$EDGEOS_BEARER_TOKEN`. You **cannot** edit dietary preferences, interests, application answers, "what I'm building", openness-to-meet flags, or anyone else's profile through this skill. Say: "I can update your basic profile fields here. For application content (dietary, interests, etc.), use the EdgeOS portal under `/portal/profile`. I can't edit anyone else's profile regardless."
 
-- **Matching / discovery / "introduce me to"**: There is no matching service, intent system, or "open to investors / collaborators" flag integrated yet. Say: "There's no matching system integrated yet. The closest thing I can do is search the directory by keyword across `personal_goals`, `organization`, `builder_description`, and `role` (§2) — want me to do that?" Then run the directory search as a fallback.
+- **Matching / discovery / "introduce me to"**: There is no matching service, intent system, or "open to investors / collaborators" flag integrated yet. Say: "There's no matching system integrated yet. The closest thing I can do is keyword-search the directory (§2, `?q=...`) by name, role, organization, or residence — want me to do that?" Then run the directory search as a fallback.
 
 - **Scheduled tasks / recurring summaries / reminders**: The skill itself can't schedule anything. Say: "I can't schedule recurring runs through the skill — your agent host needs a scheduling layer for that. In Claude Code, `/loop` or `/schedule` can fire a prompt on a cadence. Let me know if you want me to draft the prompt." Do not pretend to set up cron jobs.
 
@@ -359,10 +409,10 @@ Be honest about these gaps — do not hallucinate answers. When asked about any 
 ## 7. Tips for Answering Well
 
 - **Always use live API calls** for schedule and attendee queries — don't rely on cached or memorized data.
-- **Always require the EdgeOS API key before any calendar call.** If the user has not given one, ask for it first and stop. Do not try to query the calendar anonymously — every endpoint will return `401`.
+- **Always require the EdgeOS calendar key before any calendar call.** If the user has not given one, ask for `$EDGEOS_API_KEY` and stop. Do not query the calendar anonymously — every endpoint will return `401`. If the user has a `$EDGEOS_BEARER_TOKEN` but no calendar key, offer to mint one for them (see §1).
 - **Combine sources** when needed. For example, "What experiments are running this week?" needs both the wiki (experiment descriptions) and the calendar (live schedule).
 - **Be specific with dates**. Convert "tomorrow", "this Thursday", "next week" to actual ISO-8601 timestamps before querying. The EdgeOS events API expects ISO-8601 with timezone for `start_after` / `start_before`.
 - **Default to the event date range** (2026-05-30 to 2026-06-27) when searching broadly.
-- **For attendee matching** (e.g., "who should I meet?"), search by interests in `personal_goals`, `organization`, `builder_description`, and `role` fields.
+- **For attendee matching** (e.g., "who should I meet?"), use the directory's `q` search — it covers name, role, organization, and residence. There's no interests/goals field exposed in this skill.
 - **For venue questions**, first fetch the wiki for venue names/descriptions, then list calendar events to see what's booked.
-- **Pagination**: EdgeOS events API supports `skip` + `limit` (max 100). Citizen portal returns max 50 — paginate with `skip` and `limit`.
+- **Pagination**: EdgeOS events list supports `skip` + `limit` (max `100`). Directory list supports `skip` + `limit` (default `100`, max `1000`). Stop when `results.length < limit`.

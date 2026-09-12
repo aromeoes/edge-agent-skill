@@ -3,7 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "index": "bun run scripts/index.ts"
+    "index": "bun run scripts/index.ts",
+    "example-auth": "bun run scripts/example-auth-flow.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"

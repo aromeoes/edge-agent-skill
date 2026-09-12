@@ -11,11 +11,16 @@ A single-file skill that gives AI agents access to Edge Esmeralda 2026 data: eve
 
 Set environment variables:
 ```bash
-export EDGEOS_API_KEY="eos_live_..."      # Required for the calendar (events, RSVPs, venues)
-export EDGEOS_BEARER_TOKEN="your-token"   # Required for attendee directory search
+export EDGEOS_API_KEY="eos_live_..."      # Calendar (events, RSVPs, venues)
+export EDGEOS_BEARER_TOKEN="..."          # Portal — own profile, attendee directory, minting calendar keys
 ```
 
-Generate the calendar token from the EdgeOS portal under `/portal/api-keys`.
+The two tokens cover different parts of EdgeOS:
+
+- **`EDGEOS_API_KEY`** (`eos_live_...`) — long-lived, scoped to calendar routes. Mint it in the EdgeOS portal under `/portal/api-keys`, or via `POST /api/v1/api-keys` if you have a bearer token. Restricted to the event-automation route allowlist (`/events/portal/...`, `/event-participants/portal/...`, `/event-venues/portal/...`); admin-style endpoints will 403.
+- **`EDGEOS_BEARER_TOKEN`** — short-lived JWT, obtained by OTP login at the EdgeOS portal (or via the third-party `/auth/human/third-party/{login,authenticate}` flow if an integrating app like OpenClaw is fronting auth). Used for `/humans/me`, the directory, and minting calendar keys.
+
+You don't strictly need both — only set what the agent will use. See `scripts/example-auth-flow.ts` for a runnable demo of the third-party login → mint key → query flow.
 
 ## For Maintainers
 
@@ -42,8 +47,8 @@ A GitHub Action runs the indexer every 15 minutes and commits any changes.
 
 | Source | Type | Auth | Status |
 |--------|------|------|--------|
-| EdgeOS Events (api.edgeos.world) | Live API | Bearer token (eos_live_...) | Live |
-| EdgeOS Attendees (api-citizen-portal.simplefi.tech) | Live API | Bearer token | Live |
+| EdgeOS Events (api.edgeos.world) | Live API | `eos_live_...` calendar key (`Authorization: Bearer`) | Live |
+| EdgeOS Portal — `/humans/me`, attendee directory, API key mgmt (api.edgeos.world) | Live API | OTP-derived JWT (`Authorization: Bearer`) | Live |
 | Notion Wiki | Preprocessed | None (public) | Live |
 | Edge City Website | Preprocessed | None | Live |
 | Substack Newsletter | Preprocessed | None | Live |
