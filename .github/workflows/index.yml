@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: public-reference-index
+  cancel-in-progress: false
+
 jobs:
   index:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -20,12 +25,21 @@ jobs:
 
       - run: bun install --frozen-lockfile
 
-      - run: bun run scripts/index.ts
+      - run: bun run test
+      - run: bun run typecheck
+      - run: bun run index
 
       - name: Commit updated references
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add references/
-          git diff --cached --quiet || git commit -m "Update reference content [automated]"
+          if [ -d archives/edge-esmeralda-2026 ]; then
+            git add archives/edge-esmeralda-2026/
+          fi
+          if git diff --cached --quiet; then
+            echo "No content changes."
+            exit 0
+          fi
+          git commit -m "Update India reference content [automated]"
           git push

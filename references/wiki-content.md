@@ -1,473 +1,366 @@
-# Edge Esmeralda 2026 Wiki
+# Edge City India 2026 Wiki
 
-Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-10-01T14:07:33.858Z
+Source: https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a1fe013fdc77135b
 
----
+Source type: wiki
 
-Edge Esmeralda 2026 is a month-long popup village (May 30 – June 27) happening in Healdsburg, California. The event is designed for individuals working at the cutting edge of science, technology, and culture.
+Source updated: 2026-09-30T15:28:07.563Z
 
----
-
-### 🛏 Accommodation
-
----
-
-### 🗓 Calendar
-
----
-
-### 🎟 Check-in
-
----
-
-### 👤 Connection Labs
-
----
-
-### 💬 Community Chat Group on Telegram
-
----
-
-### 💻 Venue Hours
-
----
-
-### 🥗 Food
-
----
-
-### 🤸🏽 Health & Well-being
-
----
-
-### 💌 How to Join
-
----
-
-### 🐣 Kids & Families
+Last content change indexed: 2026-09-30T21:25:22.185Z
 
 ---
 
 Welcome! We're so excited to have you with us ☀️
 
-This wiki has all the important information regarding Edge Esmeralda 2026. If you have further questions, please reach out to info@edgeesmeralda.com (mailto:info@edgeesmeralda.com).
+This wiki has all the important information regarding Edge City India 2026. If you have further questions, please reach out to [info@edgecity.live](mailto:info@edgecity.live).
 
-### ❤️ Most Important Info & Links
+Edge City India 2026 is a 3 week-long popup village (October 11 - November 1) happening in Mandrem, Goa. The event is designed for individuals working at the cutting edge of science, technology, and culture.
 
-### 💯 Local Discounts & Partners
+#### ❤️ Most Important Info & Links
 
----
+- **[Apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)** if you haven’t already. ✨ We are reviewing applications on a rolling basis.
 
-### 👕 Merch
+- **Housing:** Once you have your ticket, make sure you book accommodation. You can book our discounted rates for [Riva Beach Resort here](https://forms.fillout.com/t/eGE4xizEwbus).
 
----
+  - **Housing & Visa Telegram group:** [Join here](https://t.me/+QIGTcyKbP0RjNDQx) to coordinate shared housing and meet other participants. Please read the 'Read This First' channel that is pinned at the top as soon as you enter.
 
-### 🌳 Outdoor Adventure Planning
-
----
-
-### 🎟 Tickets
+- **[Edge City India 2026 Blog](https://edgecityindia2026.substack.com/)****:** Search through this if you have further questions!
 
 ---
 
-### 🚲 Transport & Getting Around
+#### 🛏 Accommodation
 
----
-
-### ✈️ Traveling to Edge Esmeralda
-
----
-
-### 🗺 Venues 
-
----
-
-### 📹 Video Recordings (Talks, Sessions)
-
----
-
-### 🎽 What to Pack
-
----
-
-### Wifi
-
----
-
-### Learn more about Edge City
-
-- Apply here (https://edgecity.edgeos.world/portal/edge-esmeralda-2026) if you haven’t already. ✨ We are reviewing applications on a rolling basis.
-- Housing: Once you have your ticket, make sure you book accommodation. You can book our discounted rates for Hotel Trio here (https://edgeevents.bed-booking.com/). Browse housing resources here (https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=1200229816#gid=1200229816). 
-- Join our Housing Telegram group: https://t.me/+9XnxQWWwVvo4ZTUx (https://t.me/+9XnxQWWwVvo4ZTUx) to coordinate shared housing and meet other participants. Please read the 'Read This First' channel that is pinned at the top as soon as you enter.
-- Community Calendar: browse all events of Edge Esmeralda 2026 here (https://edgecity.edgeos.world/portal/edge-esmeralda-2026). Once you have a ticket, you’ll be able to create and host your own sessions as well.
-- Public calendar (share with external friends): https://edgecity.edgeos.world/edge-esmeralda-2026/calendar
-- Drive link for all recorded talks: https://drive.google.com/drive/u/4/folders/1lfYKCo9BP5qFPAKjV_0MtuvmCl01CFc1 (https://drive.google.com/drive/u/4/folders/1lfYKCo9BP5qFPAKjV_0MtuvmCl01CFc1)
-- Edge Esmeralda 2026 Blog: (https://edgeesmeralda2026.substack.com/) Search through this if you have further questions!
-- Google Maps List (https://maps.app.goo.gl/Njy5vqkPutL9Ffcv5) of key places in town
 Tickets do not include accommodation; you need to organize your own housing. Here are the main options:
 
-🏨 Hotel Trio — Recommended Community Hub
+**🏨** **[Riva Beach Resort](https://www.rivaresorts.com/)** **— Recommended Community Hub**
 
-Hotel Trio is the main gathering place for most attendees. Extended-stay rooms with kitchenettes, cold plunges and sauna on-site, and ~7-minute bike ride to downtown via Serendipity Lane.
+Riva Beach Resort is the main gathering place for most attendees. It's a 4-star beachfront property set where the Arabian Sea meets the Mandrem rivulet, with sea-facing rooms and river-view cottages, multiple pools, a spa, and a restaurant. It sits directly on Mandrem Beach, a few steps to the sand.
 
-→ Book our negotiated rates here (https://edgeevents.bed-booking.com/). Month-long bookings tend to sell out first.
+**What's included:** 24-hour café and WiFi, breakfast, gym, pool, direct beach access, and a boardroom/banquet hall for daily programming.
 
-🏨 Appellation Healdsburg (https://www.appellationhotels.com/hotels/california-healdsburg/)
+**Pricing is tiered — the longer you stay, the lower your per-night rate** (per room, double occupancy; Superior, Deluxe, and Super Deluxe all priced the same; GST included):
 
-→ Book here (https://appellationhotels.com/hotels/california-healdsburg/offers/edge-esmerelda.html) for negotiated discounted rates. 
+| Stay length | Per night | Total |
+| --- | --- | --- |
+| 1 night | ₹9,600 (~$101) | ₹9,600 (~$101) |
+| 7 nights | ₹9,100 (~$95) | ₹63,700 (~$667) |
+| 14 nights | ₹8,800 (~$92) | ₹1,23,200 (~$1,291) |
+| 21 nights (full stay) | ₹8,650 (~$91) | ₹1,81,650 (~$1,903) |
 
-🏨 Duchamp (https://www.duchamphotel.com/)
+→ **[Book directly here](https://forms.fillout.com/t/eGE4xizEwbus)**
 
-→ Use promo code EDGE30 for 30% off when making your reservation (https://hotels.cloudbeds.com/reservation/IdHt5H#promo=EDGE30).
+**🏘️ Additional Options**
 
-🏠 Airbnb / VRBO — Shared Rentals
+- [Airbnbs in Mandrem area](https://www.airbnb.com/s/Mandrem--Goa--India/homes?search_type=autocomplete_click&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-08-01&monthly_length=3&monthly_end_date=2026-11-01&price_filter_input_type=2&channel=EXPLORE&acp_id=a47a0b64-fee3-4ea1-ab58-651c75f8c1a7&date_picker_type=calendar&search_mode=regular_search&price_filter_num_nights=5&zoom_level=13&location_bb=QXsVo0KTiWVBej3hQpNo1g%3D%3D&source=structured_search_input_header)
 
-Shared houses are a great way to reduce costs and build community. Coordinate with others in the Telegram Housing group (https://t.me/+9XnxQWWwVvo4ZTUx) to split a rental.
+- [Villas in Mandrem area](https://villagoa.in/villas/luxury-villas-morjim-mandrem/)
 
-- Search Airbnb in Healdsburg area (https://www.airbnb.com/s/Healdsburg--California--United-States/homes?checkin=2026-05-30&checkout=2026-06-27)
-- Search VRBO in Healdsburg (https://www.vrbo.com/search?destination=Healdsburg%2C%20California&startDate=2026-05-30&endDate=2026-06-27)
-- Also check nearby towns: Windsor, Geyserville, Cloverdale
-🏕️ Camping / RV
+**Ways to reduce costs:**
 
-Unfortunately, we do not have any camping/RV parking spots closeby. 
+- Use the [Community Housing Sheet](https://docs.google.com/spreadsheets/u/0/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/htmlview#gid=721593883) for leads from other participants
 
-🏩 Downtown Hotels & Inns
+- Join the [Edge City India Housing & Visa Telegram group](https://t.me/+QIGTcyKbP0RjNDQx) to find a room share or housemates
 
-Good alternatives if Hotel Trio is unavailable:
+→ [Read the full housing Substack article here](https://edgecityindia2026.substack.com/p/housing-for-edge-city-india)
 
-- H2 Hotel (https://h2hotel.com/)
-- Grape Leaf Inn (https://grapeleafinn.com/)
-- Browse more on Stay Healdsburg (https://stayhealdsburg.com/places-to-stay/)
-Ways to reduce costs:
+---
 
-- Use the Community Housing Sheet (https://docs.google.com/spreadsheets/d/1Hx1XjGcLzXmNMi8SFOiJtAmU_n13S0qLpaFBzDM7jVE/edit?usp=sharing) for leads from other participants
-- Local with space to host? Post in the Housing Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) - we may offer a free ticket in exchange
-The calendar is the central place for all programming at Edge Esmeralda: talks, workshops, workouts, community gatherings, and more. Browse everything, RSVP, and host your own sessions. Prefer to watch? Here's a 5-minute video tutorial (https://www.loom.com/share/ad49305a18a049639e7693d2c6f53458). 
+#### 💻 Venue
 
-→ Open the calendar: https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events)
+[The Circle Co-working: Ashvem, GOA](https://www.thecircle.work/goa) **(Cuebebar on the Beach, 224/1-A, Ashvem Beach road)** [Google Maps](https://maps.app.goo.gl/3FpJqyehDNNHZou79)
 
-Log in with the email tied to your ticket.
+- 9am - 1am
 
-Browse and RSVP
+- Co-working, meeting rooms, beach access
 
-- Switch between List, Calendar, and Day-by-Venue views in the top right.
-- Filter by My RSVPs, My events, tags, or tracks, or search by keyword.
-- Click any event for details. RSVP to add it to your personal calendar.
-Host your own event
+**🌅 Early Bird / Night Owl option — Riva Open Air**
 
-Anyone with a ticket can create and host. Click + Create event (top right), then:
+The Circle opens at 8am and closes at midnight. If you want to work outside those hours, head to [Riva Beach Resort](https://www.rivaresorts.com/) on Mandrem Beach, which is open 24/7 and has WiFi. Good for early risers, late-night builders, and anyone working across timezones.
 
-1. Pick a venue: an EE26 shared venue, a custom location (give it a name and paste a Google Maps link), or Meeting for online events.
-1. Add details: title, date (within May 30 to June 27), start time, duration, description, capacity, tags (less is more), and a track if it's part of an official program.
-1. Set visibility: Public (all participants), Private (only people you invite by email), or Unlisted (accessible by link only).
-⚠️ Some venues need admin approval. Your event stays pending and hidden from others until it's approved.
+---
 
-Check venues
+#### 🤸🏽 Wellbeing
 
-- Open Venues in the left sidebar to see each space's capacity, hours, equipment, photos, and Google Maps location.
-- 💡 To check if a space is free, switch to Day-by-Venue view and go to your date. You'll see everything scheduled across all rooms at a glance.
-Manage your event
+At Edge City India, health is the **default state** — we build environments where good food, daily movement, and meaningful connection are easy and natural.
 
-Once it's created, you can invite people by email, see who has RSVPed, edit any detail, or cancel.
+We offer a variety of health & well-being activities including run club, yoga, strength training, community hikes, meditation, sauna, and more.
 
-Once you arrive in Healdsburg, visit our check-in desk to pick up your wristband and get important information. You can join sessions before picking up your wristband (have your ticket QR code ready) but you will need it for community meals, discounts and more.
-
-Before you arrive: Please sign your liability waiver (https://waiver.smartwaiver.com/w/bgnpvra597aqdukktfwyss/web/) online ahead of time to speed up check-in.
-
-Read our full Opening Weekend guide (https://edgeesmeralda2026.substack.com/p/the-opening-weekend-of-edge-esmeralda) for everything happening May 30–31.
-
-June 1 - June 27 
-
-- Location The Hub, 405 Healdsburg Ave (Map (https://maps.app.goo.gl/ErKaaNPEdMdcwnrg9))
-- Hours: 
-Meet people you'll actually want to know. Fill out the survey  (https://lovescience.club/ee26-connection-lab)and RSVP for the Connection Lab events (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events) to get matched and meet with the people at Edge you’ll click with—mostly friend-first crews built for exploring the week or month together. More info here (https://lovescience.club/).
-
-The most important communication channel is our Telegram group for all participants.
-
-→ All ticket holders receive the invitation link via email to join.
-
-The Hub (https://maps.app.goo.gl/ErKaaNPEdMdcwnrg9) (405 Healdsburg Ave) | ‣
-
-- 7am - 9pm (daily)
-- Co-working, wellness space, meeting rooms
-The Loft (120 North Street) | ‣
-
-- 10am - 8pm
-- Main talk space
-We've partnered with local restaurants and businesses to offer EE26 participants exclusive discounts. Browse all offers on our Discounts & Partners page (https://www.notion.so/a68d45cdfc59822aac5901fa5a80e783). 
-
-Lunch Meal Plans
-
- Here's our post explaining our Lunch Meal Plans.  (https://edgeesmeralda2026.substack.com/p/meal-plans-at-edge-esmeralda-2026)TDLR; 
-
-- We’ve partnered with Jimtown and Then Sum (https://jimtown.com/) to provide fresh and healthy lunches Monday - Friday delivered to 405 Healdsburg from 12pm - 1:30pm!
-- Participants must  (https://www.notion.so/a68d45cdfc59822aac5901fa5a80e783)pay for a pre-purchased meal ticket here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026/passes).
-- $90/week - 5 lunches, Monday - Friday ($18 each).
-- $360 for the full month.
-- Here’s a video explanation on purchasing the meal plan. (https://www.loom.com/share/6d3df958eadb44cfa8d288a61f4d1ba5) 
-- You must buy a lunch ticket the Friday morning before the upcoming week.
-- We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets Jimtown and Then Sum (https://jimtown.com/) team plan properly.
-- Here’s the full menu (https://www.toasttab.com/catering/jimtown-and-then-sum-6706-california-128/menu/edge%20esmeralda/), along with an ingredient list.
-Dinners 
-
-Dinners are pay-as-you-go and rotate across partner venues so you can explore the best of Healdsburg’s food scene.
-
-Join the Edge Esmeralda community at 7:00pm, Monday to Thursday, to unwind and connect over shared meals!
-
-- Mondays at Fogbelt Brewing Company for 15% off.
-- Tuesdays and Thursdays at The Burrow for 10% off.
-- Wednesdays is for a trip to Costeaux (French Bakery) for 10% off.
-At Edge Esmeralda, health is the default state — we build environments where good food, daily movement, and meaningful connection are easy and natural.
-
-We offer a variety of health & well-being activities including run club, yoga, strength training, community hikes, meditation, sauna, cold plunge, and more.
-
-Hotel Trio has cold plunges and sauna on-site (open to all ticket holders) — a daily ritual for many participants.
-
-🏋️ World Gym — Discounted Access for EE26 Participants
-
-- $65 for month-long passes
-- $50 for week-long passes
-- 24/7 gym access including classes, excluding spa
-- No additional costs — wristband required for in-person signup
 More details on fitness programming and wellness tracks will be added as the event approaches.
 
-Step 1: Apply here (https://edgecity.simplefi.tech/portal).  (https://edgeesmeralda.com/)Once your application is approved, you can purchase a ticket for your desired timeframe. Currently you can choose between week-long and month-long passes. Day and weekend passes are now available. 
+---
 
-You can also join Edge Esmeralda via a residency. Either way you need a ticket.
+#### 💌 How to Join
 
-Step 2: Book accommodation. Housing isn't included in your ticket (some residencies offer shared housing). You can book our negotiated rates for Hotel Trio here (https://edgeevents.bed-booking.com/). Find more recommended options, housemates and more in our Community Housing Sheet (https://docs.google.com/spreadsheets/d/1Hx1XjGcLzXmNMi8SFOiJtAmU_n13S0qLpaFBzDM7jVE/edit?usp=sharing) and our Telegram Housing group (https://t.me/+9XnxQWWwVvo4ZTUx).
+**Step 1:** [Apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india). Once your application is approved, you can purchase a ticket for your desired timeframe. Currently you can choose between 1 or 3 week-long passes. Day and weekend passes are now available.
 
-Step 3: Book your travel and get excited!
+You can also join Edge City India via a residency. Either way you need a ticket.
 
-Note: This is the most reliable way to join us. Your spot is guaranteed once you purchased your ticket, you can join a residency later.
+**Step 2:** Book accommodation. Housing isn't included in your ticket (some residencies offer shared housing). You can book our negotiated rates for Riva Beach Resort [here](https://forms.fillout.com/t/eGE4xizEwbus). Find more recommended options, housemates and more in our [Community Housing Sheet](https://docs.google.com/spreadsheets/d/1U0iLx54TBN7tjhXvhnvnE893EllAfC-fMRxakObB4F0/edit?gid=721593883#gid=721593883).
 
-Edge Esmeralda is proudly multigenerational - kids, teens, and elders make the village richer for everyone. We believe the best communities are ones where people of all ages collaborate, learn from one another, and create meaningful things together.
+**Step 3:** Book your travel and get excited!
 
-- Kids & Families Telegram group — the invite link is sent once your application is accepted.
-→ Apply here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026) (mention your children in your application)
+_Note: This is the most reliable way to join us. Your spot is guaranteed once you purchased your ticket, you can join a residency later._
 
 ---
 
-### 🎨 Edge Tomorrow — Creative Residency for Kids (ages 6–12)
+#### 🐣 Kids & Families
 
-- What: A hands-on creative residency where kids conceive, build, and present projects they design for the whole Edge community. Think: pop-up museums, cardboard worlds, short films, neighbourhood festivals.
-Full article: Announcing Edge Tomorrow (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for)
+Edge City India is proudly multigenerational - kids, teens, and elders make the village richer for everyone. We believe the best communities are ones where people of all ages collaborate, learn from one another, and create meaningful things together. We created Edge Tomorrow so creative families can get the most out of Edge City India.
 
-- Schedule: Monday–Friday, 9am–4pm at 328 Mason St
-- Format: Weekly cohorts, each anchored by a theme-question. Kids lead the projects. Each week ends with a Friday showcase open to the whole village.
-Weekly structure:
-
-- Monday — Discovery and exploration
-- Tuesday — Experiments and project definition
-- Wednesday & Thursday — Building
-- Friday — Final touches, community showcase, project retro
-Pricing:
-
-- Full month: $1,830 per child
-- Single week: $710 per child
-- Optional healthy lunches: $100/week per child
-- Kids without the residency (standard): free
-Drop-off: Parents do not need to stay. Edge Tomorrow is designed for kids who are comfortable in group settings, enjoy creating with others, and can manage their personal needs independently (bathroom, eating, basic self-care).
-
-Screen policy: Hands-on creative environment. Screens are used only as tools for making (documenting, recording, designing, researching). We recommend children leave phones, tablets, and gaming devices at home or with parents during studio hours.
-
-- Who else is involved: Adults - parents, aunties, uncles, and other Edge attendees who want to work alongside kids. Teens - creators and makers open to mentoring younger kids. Elders - grandparents and beyond, join to hold space, share stories, and build hands-on.
-- → Join as an adult collaborator (https://forms.gle/29wXBoGWuRsv16ro9)
-Questions? Contact Mitra Martin: mitra.martin@gmail.com (mailto:mitra.martin@gmail.com)
+**→** **[Apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)** **(mention your children in your application)**
 
 ---
 
-### 🧒 Younger Kids (ages 2.5–6) — Sonoma Arts School
+#### 🎨 Edge Tomorrow- Residency for Kids
+
+Edge Tomorrow is the network of places, activities, and people that will serve as the social and creative anchor for families with children.
+
+These spaces are designed, curated, and facilitated with kids in mind. The purpose is to spark self-directed creativity and cross-age creative endeavors, relating to themes and projects in the larger village.
+
+Edge Tomorrow includes our worldbuilding facilitators, and an intergenerational creative hub with rich, carefully selected materials, where kids collaborate with adults to co-create and demo multi-day creative projects each week.
+
+At Edge Tomorrow Healdsburg, participants worked together to create a giant cardboard metropolis, start 3 micro businesses, produce birthday parties for Edge participants, create two complex sculptures using quantum math modeling tools, and even build an escape room.
+
+The container is deeply influenced by our environment and we are excited to see what Edge Tomorrow Goa brings!
+
+**→** [More information Here](https://edgecityindia2026.substack.com/p/bring-your-family-to-edge-city-india)
 
 ---
 
-### 🎟 Teen Tickets
+#### 🏖️ Outdoor Adventure Planning
 
-We secured discounts with local businesses for EE26 participants. 
+_**We will have some group weekend adventures planned - coming soon!**_
 
-Find all offers here: ‣ 
+Mandrem sits on North Goa's coast, and the surrounding area is full of things to explore — beaches, waterfalls, and the Western Ghats are all within reach. Late October/November is post-monsoon, so everything is green and the waterfalls are full.
 
-Pick up Edge Esmeralda merch at the check-in desk!
+**Ideas for weekends and downtime:**
 
-Available items: T-Shirt (Green/Orange), Cap (Green/Beige), Tote Bag (Green/Orange)
+- Kayak through the dense mangrove tunnels of North Goa's Chapora River, Nerul River, or the Sal Backwaters near Nuvem
 
-How to buy: Scan the QR code for the item you want → pay via card (Stripe) → show confirmation → collect your merch.
+- Take the [Chorao Ferry](https://oneboard.app/places/chorao-ferry) to Chorao Island and paddle the Dr. Salim Ali Bird Sanctuary
 
-Healdsburg and the surrounding Sonoma County offer incredible outdoor adventures.
+- Beach-hop the quiet northern stretch - walk from Mandrem to **Ashwem** and **Morjim** (a sea-turtle nesting beach) to the south, or **Arambol** to the north for its Sweet Water Lake, banyan tree, and evening drum circles
 
-Ideas for weekends and downtime:
+- Head to the far north tip for **Keri (Querim) Beach** and the clifftop **Tiracol Fort**, reached by a short river ferry
 
-- 🏄 Float the Russian River - a beloved EE tradition
-- 🌲 Hike through Armstrong Redwoods State Natural Reserve
-- 🌊 Day trip to Jenner and the Sonoma Coast
-- 🍷 Explore the local wineries and vineyards of Dry Creek Valley
-- 🏔️ Day trips to Point Reyes or Muir Woods
-A full outdoor adventure guide will be published on the Edge Esmeralda blog (https://edgeesmeralda2026.substack.com/) closer to the event.
+- Chase a waterfall — **Arvalem (Harvalem) Falls** near Bicholim is an easy half-day trip, while **Dudhsagar Falls**, Goa's tallest, makes a bigger full-day outing into the Western Ghats
 
-Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover the real costs of this month-long village.
+- Explore the Ghats inland: a spice plantation tour or a jeep safari in the **Mhadei / Bhagwan Mahavir wildlife sanctuaries**
 
-Current Ticket Prices
+_A full outdoor adventure guide will be published on the_ _[Edge City India blog](https://edgecityindia2026.substack.com/)_ _closer to the event._
 
-- Standard Month Pass: $3,000
-- Standard Week Pass: $1,350
-- Partner/Spouse Month Pass: $2,250
-- Partner/Spouse Week Pass: $1,013
-- Weekday Pass (single day): $230 
-- Weekend Day Pass (single day): $290
-- Weekend Pass (Saturday & Sunday): $495
-- Kid Week incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $710
-- Kid Month incl. Edge Tomorrow residency: (https://edgeesmeralda2026.substack.com/p/announcing-a-creative-residency-for) $1,830
-- Kid standard: free
 ---
 
-Patron tickets start at $7,500 and include all standard ticket benefits plus an additional donation to our 501(c)(3). Patron tickets help keep prices accessible for builders, researchers, and young people, and help fund scholarships.
+#### 🎟 Tickets
 
-What your ticket includes:
+Edge City is a registered 501(c)(3) nonprofit. Our goal is to responsibly cover the real costs of this three-week village.
 
-- All sessions, seminars, events, conferences, hackathons, and workshops
-- Collaborative calendar access to host your own events
-- Dedicated co-working space with meeting rooms and high-speed internet
-- Daily group workouts
-- Subsidised gym access
-- Discounts at shops, restaurants, and more in Healdsburg
-- Sauna and cold plunge access
-- Priority access to special hotel rates and housing
-- Community activities and events, including weekly community dinners
-- Access to the Edge Esmeralda telegram group
-Accommodation is not included. Ticket holders get access to discounted hotel rates on a first-come-first-served basis.
+**Current Ticket Prices available when your application has been approved-** **[apply here](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)****!**
 
-Scholarships: We offer a limited number of scholarships for those who need financial assistance. Scholarship recipients commit to roughly 10 hours/week of volunteer effort during the event. To apply, select the scholarship option in your application (https://edgeesmeralda.simplefi.tech/auth) and submit a 60-second video explaining why you're applying and what your contribution might be.
+Prices rise regularly between now and October 11. Grab your ticket early for the best rate. You'll pay whatever the current Sunday price is when you check out.
 
-Volunteering: We are looking for highly motivated people who are willing to volunteer in exchange for a ticket discount (up to 100% off). Apply  (https://docs.google.com/forms/d/e/1FAIpQLSeXXuPXRWgce6dMlNaN7jtVU0FPbRQN0maIYxR9xBv2eo3UZQ/viewform?usp=header)as a volunteer here (https://docs.google.com/forms/d/e/1FAIpQLSevuZSnR4j24xgHF6lbq5X2wgpeQqiagzIU29OsBohvgMts7A/viewform?usp=header).
+- **Full 3-Week Pass** (Oct 11 – Nov 1): **$1,650** → $2,000 final release
 
-Local residents (Sonoma County):
+- **1-Week Pass** **(Weeks 1 & 2)**: **$825** → $1,000 final release
 
-- Local Week: $1,215
-- Local Month: $2,700
-- Local Spouse Week: $912
-- Local Spouse Month: $2,025
-- Locals are free on Wednesdays (Sonoma County ID required)
-We are partnering with Dropmobility for Bike Rentals. Signup here: https://dropmobility.com/edge-esmeralda-2026 (https://dropmobility.com/edge-esmeralda-2026)
+- **1-Week Pass (Week** **3 — Tech Week + Final Demos): $1,320** → $1,600 final release
 
-Use the Drop Mobility app to scan and check out your bike: Andriod (https://play.google.com/store/apps/details?id=com.dropmobility.lab&pcampaignid=web_share) | IOS (https://apps.apple.com/us/app/drop-mobility-experiences/id6737418301)
+- **Day Pass**: **$215** → $250 final release
 
-Prices:
+- **Kids and teens (4–17)** → 40% off adult ticket
 
-- $149 / week
-- $299 / month
+- **Kids under 3** → free
 
-**📄 E-bike Guide: pickup, drop-off, and care **
+_**Indian citizens receive 50% off any of the above. Please indicate you’re a local in your application. ID required at check-in.**_
 
-Healdsburg is a small, walkable town — you won't need a car for your day-to-day!
+_**Spouses and partners receive 10% off any of the above.**_
 
-- Hotel Trio is ~7 min bike ride to downtown via Serendipity Lane (car-free path)
-- Rideshare (Uber/Lyft) works well in the area
-- For excursions and regional adventures, carpooling / renting a car is recommended
-Looking to ride share?  Go here → (https://docs.google.com/spreadsheets/d/1LLYDrNjCgiPnHz5glreRh3FFJItrAbb9KHCfLoXIvmU/edit?gid=1235934074#gid=1235934074)
+_All ticket sales are final. We do not offer refunds. If your plans change, you can transfer your ticket to someone else. Email_ _[info@edgecity.live](mailto:info@edgecity.live)_ _with the new attendee's name and email._
 
-Healdsburg is located in Sonoma County, Northern California - about 1.5 hours north of San Francisco.
+---
 
-Nearest airports:
+**Patron tickets** start at $7,500 and include all standard ticket benefits plus an additional donation to our 501(c)(3). Patron tickets help keep prices accessible for builders, researchers, and young people, and help fund scholarships.
 
-- SFO (San Francisco International) — ~1.5 hrs drive
-- OAK (Oakland International) — ~1.5 hrs drive
-- STS (Charles M. Schulz Sonoma County, Santa Rosa) — ~30 min drive
-Getting to Healdsburg:
+**What your ticket includes:**
 
-- Rent a car (recommended for flexibility)
-- Rideshare (Uber/Lyft) from SFO/OAK
-- Use the Telegram group (https://t.me/+9XnxQWWwVvo4ZTUx) to coordinate carpools with other attendees
-We keep a shared Google Map (https://www.google.com/maps/d/edit?mid=1DrcId2ALOYZAJAhwcC8SphPAAVTTQU4&usp=sharing) of our favorite spots around town: cafes, restaurants, venues, and more.
+- Access to all sessions, seminars, events, hackathons, workshops, and beyond
 
-If you find a place worth a return visit, drop it on the shared community map (https://maps.app.goo.gl/Njy5vqkPutL9Ffcv5) with a short note. Edge Esmeralda is a living village, and the map should reflect with what people are actually doing and enjoying.
+- Access to our collaborative calendar to host your own events
 
-photo_2026-05-11_19-36-53.jpg
+- Coworking space in Mandrem, with meeting rooms and fast WiFi
 
-Full drive here: https://drive.google.com/drive/u/4/folders/1V9yRppZVh-jXBzvTu8n4yJUqV-_zPmSu (https://drive.google.com/drive/u/4/folders/1V9yRppZVh-jXBzvTu8n4yJUqV-_zPmSu)
+- Group wellness activities, including daily workouts
 
-Late May–June in Healdsburg, Northern California is warm and sunny, with mild evenings. Expect daytime temperatures of 20–30°C (70–85°F) and cooler nights around 10–15°C (50–60°F).
+- Community events, including village dinners
 
-Pack for warm days and light evenings:
+- Access to the Edge City India chat groups
 
-🕶️ sunglasses and sunscreen — it gets sunny!
+- Discounts at partner venues in Mandrem and North Goa
 
-👕 light layers for cooler mornings and evenings
+_Accommodation and daily meals are not included in the ticket price. Ticket holders get access to discounted hotel rates on a first-come-first-served basis. Community dinners run throughout the three weeks; Goa's food scene handles the rest._
 
-🧴 light jacket or hoodie for nighttime
+**Scholarships:**
 
-🥾 hiking shoes or trail runners for outdoor adventures
+We have a limited number of scholarships for those who need financial assistance to participate. Scholarship recipients are expected to contribute roughly 10 hours per week of volunteer effort during the event. We prioritize scholars who apply for the full experience (October 11 – November 1).
 
-👟 comfortable sneakers for daily village life
+To **[apply](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india)**, select the scholarship option in your application and submit a 60-second video explaining why you’re applying and what your contribution might be.
 
-🩱 a swimsuit for sauna, cold plunge, and river floats
+**Volunteering:** We are looking for highly motivated people who are willing to volunteer in exchange for a ticket discount (up to 100% off). Apply as a volunteer [here](https://app.notion.com/p/39ed45cdfc5980d081bfe1e51fd145c9).
 
-🎒 a day pack for excursions and hikes
+[Apply to attend](https://portal.edgecity.live/auth?redirect=%2Fportal%2Fedge-india) →
 
-Think NorCal wine country meets outdoor adventure. Bring what keeps you comfortable in sunshine and by the river — and remember to pack anything specific you need for yourself (like medications or personal essentials).
+---
 
-Wifi Name: Edge Esmeralda
+#### 🚲 Transport & Getting Around
 
-Password: healdsburg
+We've negotiated discounted taxi rates between Riva and The Circle, and we'll share a list of trusted taxi contacts soon. Shuttle service between the two locations is also being arranged for peak times. Renting a scooter or bike is common and an easy way to get around if you're comfortable with it.
 
-Same for the Loft and the Hub
+Note: roads at night have limited lighting, so a taxi or a flashlight is the safer call after dark.
 
-Our calendar (https://edgecity.edgeos.world/portal/edge-esmeralda-2026/events) allows your to browse all sessions, RSVP to events & host your own!
+---
 
-Here is a guide (/35fd45cdfc598056b5ebec76f2e87bed?pvs=25) and a video (https://www.loom.com/share/ad49305a18a049639e7693d2c6f53458) on how to navigate the calendar and create your own events. 
+#### ✈️ Traveling to Edge City India
 
-- Edge City Newsletter (https://www.edgecity.live/#contact) – Subscribe for stories, updates, and calls to action
-- Ecosystem Page (https://www.edgecity.live/ecosystem) – Projects, partners, and organizations stemming from Edge City
-- Past Village Recaps (https://www.edgecity.live/media) – South Africa, Austin, Thailand, Esmeralda 2024, Esmeralda 2025, Bhutan 2025, Patagonia 2025
-- Edge City Roadmap (https://www.edgecity.live/roadmap) – Our long-term vision for popup villages and permanent communities
-Edge Esmeralda 2026 is organized by Edge City (https://www.edgecity.live/), a "society incubator" dedicated to advancing human flourishing. We host monthlong popup villages where people at the frontiers of technology, science, and culture live and work together. Each village is an environment for running real experiments on new ideas and collaborations.
+Mandrem is a coastal village in North Goa (Pernem taluka), on the Arabian Sea just south of Arambol.
 
-Email info@edgeesmeralda.com (mailto:info@edgeesmeralda.com) if you have any further questions.
+**Nearest airports:**
 
-- Sun & Mon: 11am – 4pm
-- Tues – Sat: 11am – 1pm
-For younger children, we're partnering with the wonderful Sonoma Arts School (https://sonomaartschool.org/). Contact Kelly, head of the school, for details and enrollment.
+- GOX (Manohar International / Mopa Airport, North Goa): ~25 km, 30–40 min drive. This is the closest and the one to aim for.
 
-For children under 2.5, or those who aren't suited to the camp, we can provide a list of local nannies and babysitters so you can arrange appropriate care. Nannies attend Edge Esmeralda free of charge — no ticket required, but they must register.
+- GOI (Dabolim / Goa International Airport, South Goa): ~1.5–2 hrs drive. Fine as a backup if the fares or timing work better.
 
-Teens (13–18) attend free with a standard ticket. No residency program is included, but teens are welcome to join Edge Tomorrow as mentors and collaborators alongside the younger kids.
+#### 🛂 Visas & Entry to India
 
-Pick-up
+Almost all non-Indian attendees need a visa to enter India. The good news is that most nationalities can apply online for an e-Visa (an Electronic Travel Authorization).
 
-- Jun 2 onwards: 10am – 5pm in front of 150 North Street
-Use the Drop Mobility app to scan and check out your bike: Andriod (https://play.google.com/store/apps/details?id=com.dropmobility.lab&pcampaignid=web_share) | IOS (https://apps.apple.com/us/app/drop-mobility-experiences/id6737418301)
+Visa rules and fees vary by nationality and change over time. Treat this as a starting point, confirm the current details for your passport on the official site, and ask in the chat groups if you're unsure. The Edge team can help with visa support.
 
-Drop-off
+The **e-Tourist Visa** covers what you'll be doing at Edge City India.
 
-Drop bikes off in front of 150 North Street. Use the Drop Mobility app to scan and end your session.
+**There are three options:**
 
-- Weekly reservations: due back by 3pm on Sunday
-- Place the charger in the basket and attach the key to the zip tie on the basket
-- Return the bike fully charged
-Parking around town
+- **30-day, double entry**
 
-- The Hub / Loft area: bike racks in front of The Loft, on North Street next to Portalupi Wine, or across from Little Saint
-- Hotel Trio: bike racks in front and on the left side of the hotel
-- ⚠️ Do not park at the entrance of The Hub
-image.png
+- **1-year, multiple entry**
 
-Security
+- **5-year, multiple entry**
 
-- Always use the rear wheel lock (lock by hand, unlock via the Drop Mobility app)
-- Overnight: also tether the bike to a secure object using the provided tether
-Safety
+**How to apply:**
 
-- Helmets available at the Hub check-in desk (limited number)
-- Front basket rated for 10 lbs only (no passengers)
-- Use bike lanes and paths whenever possible. Healdsburg has a dedicated bike path running along the left side of Hotel Trio into town and onward to the river near Veterans Memorial Beach
-- Be extra cautious on rural and vineyard roads
-Battery
+1. You can apply starting 120 days before entry.
 
-- Range: 10-30 miles on a full charge, depending on how much you pedal
-- To charge: unlock the battery with the key, remove, and plug in. Full in 3-6 hours
-- Don't overcharge
-- Lost chargers and keys come out of your security deposit
-Issues
+1. **Apply through** **[Naytive](https://naytive.com/edgecityvisa)** **(highly recommended) or,**
 
-For repairs, troubleshooting, or lost equipment, contact us on Telegram in the Bike channel or @RedColton.
+1. Apply through the official government site: [indianvisaonline.gov.in](https://indianvisaonline.gov.in/).
 
+1. Pay by card or Crypto (Naytive). Your approved ETA arrives by email, so print it and bring it.
+
+1. Apply early. Processing is usually within 72 hours, but give yourself at least two weeks for delays.
+
+Questions?
+
+Join our dedicated [Telegram group](https://t.me/+QIGTcyKbP0RjNDQx) to get in touch with the team.
+
+---
+
+#### **🩺 Health & Safety**
+
+A little prep goes a long way here. The best move is to see a doctor or travel clinic about 4 to 6 weeks before you fly, so there's time for any vaccines and prescriptions.
+
+**Vaccinations:**
+
+- Commonly recommended: Hepatitis A and Typhoid. A clinic may also suggest Hepatitis B, Rabies, and Japanese Encephalitis.
+
+- If you're arriving from a country with yellow fever risk (parts of Africa and South America), India requires proof of vaccination at entry.
+
+**Malaria and mosquito-borne illness:**
+
+Goa carries some malaria risk. Ask your doctor whether antimalarial tablets make sense for you. Prevention matters most: use repellent, cover up at dawn and dusk, and sleep somewhere screened or netted if your room isn't sealed.
+
+**Staying healthy day to day**
+
+- **Water:** stick to filtered or bottled water. Skip tap water and ice from unknown sources, and use filtered water to brush your teeth.
+
+- **Food:** freshly cooked, hot food is your friend. Be a bit cautious with raw salads, unpeeled fruit. Goa's food scene is wonderful, just use common sense.
+
+**Emergency numbers**
+
+- 108 — ambulance
+
+- 112 — India's all-in-one emergency line
+
+**Closest clinic**
+
+Goa Clinic 24x7 — right in the village, your first stop for anything minor.
+
+**Closest Hospital**
+
+Redkar Hospital and Research Centre, Dhagalim — the main private hospital nearby, good for anything that needs more than a walk-in clinic.
+
+**For anything serious**
+
+- North Goa District Hospital (Asilo) — government hospital
+
+- Goa Medical College — main government tertiary hospital, Bambolim
+
+- Manipal Hospital — private, Panjim, 24-hour emergency
+
+- Healthway Hospital — private, Panjim, 24-hour emergency
+
+_This is general guidance, not medical advice. Please confirm vaccines and medications with a doctor or travel clinic based on your own health._
+
+---
+
+#### 🎽 What to Pack
+
+October in Mandrem is warm, humid, and mostly sunny as the monsoon tails off. Expect daytime highs around 30 to 33°C (86 to 91°F) and warm nights around 22 to 24°C (72 to 75°F).
+
+The Arabian Sea stays warm at about 28°C (83°F), so it's proper beach weather. Early October can still catch the occasional late-monsoon shower, but things dry out steadily across the three weeks.
+
+**Pack light and breathable for hot, humid days:**
+
+😎 sunglasses, sunscreen, and a hat, since the sun is strong
+
+👕 loose, breathable clothing in cotton or linen
+
+🩳 a swimsuit (or two) for the beach and the warm sea
+
+🩴 sandals or flip-flops for the beach and everyday village life
+
+👟 comfortable walking shoes or sneakers for getting around
+
+🧥 one light layer for breezy evenings or air-conditioned rooms
+
+☔ a compact umbrella or light rain shell just in case, mainly for early October
+
+🦟 insect repellent for tropical evenings
+
+🎒 a day pack for excursions and beach days
+
+💧 a reusable water bottle to stay hydrated in the heat
+
+🔌 a universal power adapter (India uses Type C/D/M plugs, 230V)
+
+Think tropical beach village: easy, light, and made for warm days and warm water. And remember to pack anything specific you need for yourself, like medications or personal essentials.
+
+---
+
+#### 🛜 Wifi
+
+Our two hubs, Riva and The Circle, both have fast WiFi. We will also have Starlink as backup. Almost all lodging options in the area have WiFi as well.
+
+---
+
+#### Learn more about Edge City
+
+- **[Edge City Newsletter](https://www.edgecity.live/#contact)** – Subscribe for stories, updates, and calls to action
+
+- **[Ecosystem Page](https://www.edgecity.live/ecosystem)** – Projects, partners, and organizations stemming from Edge City
+
+- **[Past Village Recaps](https://www.edgecity.live/media)** – South Africa, Austin, Thailand, India 2024, India 2025, Bhutan 2025, Patagonia 2025
+
+- **[Edge City Roadmap](https://www.edgecity.live/roadmap)** – Our long-term vision for popup villages and permanent communities
+
+Edge City India 2026 is organized by [Edge City](https://www.edgecity.live/), a "society incubator" dedicated to advancing human flourishing. We host monthlong popup villages where people at the frontiers of technology, science, and culture live and work together. Each village is an environment for running real experiments on new ideas and collaborations.
+
+Email [info@edgecity.live](mailto:info@edgecity.live) if you have any further questions.

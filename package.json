@@ -3,18 +3,23 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "index": "bun run scripts/index.ts"
+    "index": "bun run scripts/index.ts",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/turndown": "^5.0.6"
   },
   "peerDependencies": {
     "typescript": "^5"
   },
   "dependencies": {
     "axios": "^1.14.0",
+    "cheerio": "^1.2.0",
     "fast-xml-parser": "^5.5.10",
-    "html-to-text": "^9.0.5",
-    "notion-client": "^7.10.0"
+    "notion-client": "^7.10.0",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2"
   }
 }

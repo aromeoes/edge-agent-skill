@@ -1,73 +1,69 @@
-# Edge Esmeralda 2026 — Agent Skill
+# Edge City India 2026 — Agent Skill
 
-A single-file skill that gives AI agents access to Edge Esmeralda 2026 data: event schedule, attendee directory, wiki, newsletters, and organization info.
+Public documentary knowledge for the three-week popup village in Mandrem, North Goa, **October 11–November 1, 2026** (`Asia/Kolkata`).
 
-## For Users (Attendees)
+## For users
 
-**Download [`SKILL.md`](./SKILL.md)** and add it to your agent's skill/context:
+Download [`SKILL.md`](./SKILL.md) and add it to your agent:
 
-- **Claude Code**: Copy to `~/.claude/skills/edge-esmeralda/SKILL.md`
-- **OpenClaw / Hermes / NanoClaw**: Add to your agent's skill directory
+- **Claude Code:** `~/.claude/skills/edge-india/SKILL.md`
+- **Other agents:** add it to your host's skill/context directory.
 
-Set environment variables:
+No API keys are needed. The skill reads public references locally or fetches them from this repository after the India migration is published. It includes primary-source fallbacks and checks that documents belong to India, not Esmeralda.
+
+Start browsing at [`references/index.md`](./references/index.md).
+
+**Live EdgeOS calendar, cancellations, attendee/profile access, and Telegram ingestion are not enabled yet.** The India portal is https://portal.edgecity.live/portal/edge-india. Do not reuse Esmeralda IDs or interpret programming previews as live schedules.
+
+## For maintainers
+
 ```bash
-export EDGEOS_API_KEY="eos_live_..."      # Required for the calendar (events, RSVPs, venues)
-export EDGEOS_BEARER_TOKEN="your-token"   # Required for attendee directory search
+bun install --frozen-lockfile
+bun run test
+bun run typecheck
+bun run index
 ```
 
-Generate the calendar token from the EdgeOS portal under `/portal/api-keys`.
+### Public sources
 
-## For Maintainers
+| Source | Input | Output |
+| --- | --- | --- |
+| India wiki | [Public Notion page](https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a1fe013fdc77135b) | `references/wiki-content.md` |
+| India website/FAQ | [india26](https://www.edgecity.live/india26) | `references/website-content.md` |
+| Organization background | [About](https://www.edgecity.live/about) | `references/website/about.md` |
+| Public guides/updates | [Substack RSS](https://edgecityindia2026.substack.com/feed) + [sitemap](https://edgecityindia2026.substack.com/sitemap.xml) | `references/newsletter/*.md` |
+| Selected residency pages | Explicit URLs in `scripts/sources.ts` | `references/residencies/*.md` |
 
-This repo contains backend infrastructure that keeps the skill's reference content fresh.
+The indexer preserves Markdown headings, links, and tables. Notion blocks are traversed in document order, including nested/toggled sections. Only rendered public content is saved: Notion permissions, user records, discussions, and internal record-map metadata are not serialized.
 
-### Setup
-```bash
-bun install
-```
+Substack's sitemap backfills articles outside the RSS window. Previously indexed newsletter articles absent from both are retained and labeled in the index, not silently deleted. Retained content is not a guarantee that an offer remains valid.
 
-### Run indexer
-```bash
-bun run scripts/index.ts
-```
+### Publication and freshness
 
-This fetches and preprocesses content from:
-- **Notion wiki** (Edge Esmeralda 2026 Wiki) → `references/wiki-content.md`
-- **Edge City website** (edgecity.live) → `references/website-content.md`
-- **Substack newsletter** (edgeesmeralda2026.substack.com) → `references/newsletter-digest.md`
+- GitHub Actions runs every 15 minutes (best-effort) and on manual dispatch.
+- Every source must fetch, parse, and validate before publication. A source failure returns a nonzero exit code and leaves the existing references unchanged. This deliberately favors consistency over partial refreshes.
+- Files are staged before swapping the reference directory; a failed final rename restores the previous directory.
+- Document metadata includes source URL, type, available publication/update dates, and **last content change indexed**. This is not the last fetch time, an approval date, or a freshness guarantee.
+- Content hashes preserve timestamps on unchanged runs. The workflow commits only actual changes; check its logs for the latest refresh attempt.
+- `references/manifest.json` provides machine-readable document metadata and hashes. `references/index.md` provides human/agent discovery.
+- Source content is not rewritten to resolve contradictions. The skill tells agents to cite conflicting evidence and seek confirmation for operational facts.
 
-A GitHub Action runs the indexer every 15 minutes and commits any changes.
+Configure approved sources in `scripts/sources.ts`; parser logic lives in `scripts/content.ts`, publication in `scripts/publish.ts`, and orchestration in `scripts/index.ts`.
 
-### Data Sources
+Only the explicitly listed website pages and India newsletter articles are fetched. Housing spreadsheets, booking forms, Telegram groups, external residency sites, and attendee portals are linked resources, **not crawl targets**. Do not commit tokens or personal data.
 
-| Source | Type | Auth | Status |
-|--------|------|------|--------|
-| EdgeOS Events (api.edgeos.world) | Live API | Bearer token (eos_live_...) | Live |
-| EdgeOS Attendees (api-citizen-portal.simplefi.tech) | Live API | Bearer token | Live |
-| Notion Wiki | Preprocessed | None (public) | Live |
-| Edge City Website | Preprocessed | None | Live |
-| Substack Newsletter | Preprocessed | None | Live |
-| Index Network (semantic search) | Live API | TBD | **Placeholder — awaiting PR** |
-| Geo Browser (spatial / map) | Live API | TBD | **Placeholder — awaiting PR** |
+### Esmeralda migration
 
-## Contributing tooling (Index Network, Geo Browser, others)
+The first successful India run copies existing Esmeralda snapshots into `archives/edge-esmeralda-2026/`, then replaces active references with India documents. Archives are frozen, excluded from indexing, and not used by the India skill. Git history also preserves the old skill and indexer.
 
-Two sections in `SKILL.md` are reserved as stubs for external teams to PR concrete tooling into:
+### Future integrations
 
-- **§3 Knowledge Discovery (Index Network)** — marker: `<!-- INDEX_NETWORK_PLACEHOLDER ... END -->`
-- **§4 Spatial Browsing (Geo Browser)** — marker: `<!-- GEO_BROWSER_PLACEHOLDER ... END -->`
+| Integration | Status / requirement |
+| --- | --- |
+| Live EdgeOS | Pending verified India UUID, endpoints, and auth; no private API responses in public Markdown |
+| Official Telegram announcements | Pending channel identification, authorization, historical import, and new/edit capture |
+| Team-approved FAQs | Pending explicit maintained/approved source; scraped website FAQ is not a separate approval workflow |
+| Index Network | Placeholder §3 in `SKILL.md` |
+| Geo Browser | Placeholder §4 in `SKILL.md` |
 
-To contribute a section:
-
-1. Open a PR replacing the placeholder block (everything between the marker comments) with:
-   - The endpoint(s) or SDK calls the agent should make
-   - Auth: env var name, scope, and how a user obtains a token
-   - 3–5 curl/SDK examples covering the common flows
-   - Expected response shape, including error codes
-   - When NOT to use the tool (overlap with EdgeOS or other sections)
-2. Remove the `<!-- ..._PLACEHOLDER ... END -->` marker comment.
-3. Update the row in the Data Sources table above (`Status: Live`, fill `Auth`).
-4. Bump the `version` field in `SKILL.md` frontmatter (e.g. 2.1.0 → 2.2.0).
-5. If your section needs env vars, add them to `.env.example`.
-
-Keep additions self-contained — the skill is a single file users download, so external imports / multi-file refactors aren't accepted.
+Keep `SKILL.md` self-contained for users who download only that file. Replace placeholder blocks only with verified India-compatible tooling, remove their marker comments, update statuses, and bump the skill version.

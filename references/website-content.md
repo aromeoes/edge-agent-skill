@@ -1,2014 +1,928 @@
-# Edge City Website Content
+# Edge City India 2026
 
-Source: https://edgecity.live
-Last indexed: 2026-10-01T14:07:32.526Z
+Source: https://www.edgecity.live/india26
+
+Source type: website
+
+Last content change indexed: 2026-09-30T21:28:06.827Z
 
 ---
 
-## About Edge City
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/66b1dc2e893d609f5e3d5efa_ec_lockup_wht.svg)](https://www.edgecity.live/)
 
-Next up: Edge CITY india 2026
-oct 11 - nov 1
+[
 
-IntroductionOur VillagesThe ExperienceThe ImpactOur TeamLet's Build
+Accommodation
 
-ABOUT EDGE CITY
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Contents
+](https://forms.fillout.com/t/eGE4xizEwbus)[
 
-IntroductionOur VillagesThe ExperienceThe ImpactOur TeamLet's Build
+BLOG
 
-EDGE CITY CONVENES PEOPLE WORKING AT THE FRONTIERS OF TECH, SCIENCE, AND SOCIETY IN POPUP VILLAGES ACROSS THE GLOBE.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-EDGE CITY IS A SOCIETY INCUBATOR: AN IRL LAB OF EXPERIMENTATION FOR NEW IDEAS, TECH, CULTURE, AND ORGANIZATIONS, ALL DEDICATED TO ACCELERATING HUMAN FLOURISHING.
+](https://edgecityindia2026.substack.com/)[
 
-‍READ OUR ROADMAP FOR MORE DETAILS.
+WIKI
 
-Our villages last 1-2 months and are perfect environments to live, learn, and experiment with frontier projects. Participants comefrom diverse fields, including AI, BioTech & Longevity, Crypto, Philosophy, Culture, Hard Tech, Governance, and more. Edge City is part of and contributes to the Zuzalu ecosystem.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-‍
+](https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a1fe013fdc77135b)[
 
-We believe the best opportunity for positive impact comes from multidisciplinary collaboration. Our gatherings are perfectly designed for this, with longer durations and structured community design that foster deep connection and partnership between attendees. Edge City is an ideal setting for innovators to work alongside their peers, tackling major problems focused on enhancing societal prosperity and individual fulfillment.
+DONATE
 
-‍
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Why create spaces for this type of experimentation? 
+](https://www.edgecity.live/india26#)[
 
-‍
+WIKI
 
-Because he systems that shape our time—institutions, norms, governance structures—were made for a prior world. Ones that worked in the past are now rigid and slow-moving, unable to evolve to meet the opportunities and challenges of the current moment.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-‍
+](https://www.edgecity.live/india26#)[
 
-By creating “micro-exits,” we create space to experiment with new systems, technologies, and practices. What works in these experimental environments can then be shared with broader society, shaping a brighter future for everyone.
+APPLY
 
-‍
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-> "Edge City did an excellent job integrating diverse participants from all kinds of backgrounds: technical and non-technical, crypto, biotech and culture, young and old. I learned a lot from my time there” — Vitalik Buterin
+](https://portal.edgecity.live/portal/edge-india)
 
-OUR VILLAGES
+POP-UP VILLAGE
 
-EDGE CITY GATHERINGS IN 2026:
+Prototype a Brighter Future
 
-‍
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a418783052e7760e01365cf_name.header.avif)
 
- * Upcoming: Edge City India [October 11 – November 1, 2026]: Our first popup village in India, in Mandrem, North Goa.
+[Book housing](https://www.edgecity.live/india26#)[Apply to attend](https://portal.edgecity.live/portal/edge-india)
 
- * Edge Esmeralda 2026 [May 30th - June 27th]: Our annual flagship popup village in Healdsburg, CA. Co-organized with Esmeralda Institute, a new permanent village just 90 minutes north of SF, this month-long gathering served as a living prototype for that vision, helping us test new ways of living, working, and thriving together.
+POP-UP VILLAGE
 
-IN 2025, WE HOSTED THESE POPUP VILLAGES AND EDGE EXPEDITIONS:
+Prototype a Brighter Future
 
-‍
+POP-UP VILLAGE
 
- * Edge City Patagonia [Oct 18th - Nov 15th]: Held in the beautiful mountain town of San Martín de los Andes, Argentina, this month-long gathering brought together hundreds of frontier builders, researchers, and creatives to explore the edges of tech, science, nature, and social innovation. Read the recap here.
- * Edge City Bhutan [Sep 14th - 21st]: An 8-day exploration of Bhutan's futuristic experiment in mindful development. Read the recap here.
- * Edge Esmeralda 2025 [May 24th - June 21st]: The second edition of our month-long popup village in Healdsburg, CA, prototyping a permanent new town nearby. Once again, we focused on building frontier technologies, healthy living environments, novel education models, and new ways of living and working together. This year featured thematic residencies, expanded multigenerational programming, and a focus on applied experiments to foster innovation across disciplines. Read the recap here.
- * Edge City South Africa [April 3rd - 13th]: A 10-day exploration of South Africa's tech and culture scene while spending time in beautiful nature. A group of 30 frontier founders, builders, creatives, and researchers joined us on this one-of-a-kind trip. Read the recap here.
- * ‍Edge City Austin [March 2nd - 7th]: A six-day unconference the week before SXSW 2025 focused on frontier tech for human flourishing. It was a microcosm of the Edge City experience designed for a wider audience: a space designed for meaningful connection, default-healthy living, and collaborations towards a techno-optimistic future. Read the recap here.
+Prototype a Brighter Future
 
-IN 2024, WE HAD FOUR MAIN GATHERINGS:
+[](https://www.linkedin.com/company/edge-city-live/)[](https://twitter.com/joinedgecity)[](https://www.instagram.com/joinedgecity/)
 
-‍
+[
 
- * Edge City Denver [Feb 26th - March 3rd]: A week-long gathering during ETHDenver. We partnered with leading organizations, including Stanford Blockchain and Uniswap Foundation, to host programming on topics ranging from protocol governance to decentralized AI. This was a soft-launch event to introduce more folks in the community to the concept of popup villages. We had 3,000 participants throughout the week.
- * Edge Esmeralda 2024 [June 2nd - June 29th]: A monthlong popup village in Northern California. This event helped expose the SF community to the movement we’re building with Edge City. We had 1,300 people visit, with 300 full-time residents, and 25 emergent programs. Read the recap here.
- * Crecimiento [Aug 6th - Sep 6th]: A monthlong popup village in Argentina. We incubated this initiative, which was the beginning of a long-term movement of founders, builders, investors, regulators, & government building crypto-enabled solutions to transform Argentina into an international technology hub that drives innovation and brings financial freedom and prosperity to millions of Argentines.
- * Edge City Lanna [Oct 10th - Nov 10th]: A monthlong popup village in Thailand. We brought 700 people together for a village in beautiful Chiang Mai, Thailand. It was an environment focused on human flourishing, for folks to come together and explore multidisciplinary and multicultural collaboration. Read the recap here.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-‍
+ABOUT
 
-PAST ATTENDEES INCLUDE: 
+](https://www.edgecity.live/india26#whatis)[
 
-Vitalik Buterin, Grimes, Laura Deming, Justin Drake, Devon Zuegel, Juan Benet, Emad Mostaque, Venkatesh Rao, Joscha Bach, Primavera De Fillipi, Eli Dourado, Illia Polosukhin, Julia Lipton, Tim Beiko, Nadia Asparouhova, Sandeep Nailwal, Nick White, Adam Marblestone, Allison Duettmann, Eli Ben-Sasson, Tamara Winter, Molly Mackinlay, Mike Johnson, and many more.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-‍
+GALLERY
 
-CHECK OUT THE GALLERY OF OUR PAST POPUP VILLAGES HERE.
+](https://www.edgecity.live/india26#gallery)[
 
-THE EXPERIENCE
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-‍
+themes
 
-We attract great folks by creating an amazing experience that makes it easy for them to live meaningfully and do their best work.
+](https://www.edgecity.live/india26#themes)[
 
-‍
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-The resident experience entails:
+Residencies\
+& Experiments
 
-‍
+](https://www.edgecity.live/india26#Residencies)[
 
- * Being surrounded by passionate, curious peers.
- * Facilitated sessions with leaders of frontier tech and science fields.
- * Fresh, high-quality meals every day.
- * Unconferences on frontier tech topics and self-organized knowledge-sharing sessions.
- * Group fitness and health-tracking activities.
- * Excellent coworking spaces with fast WiFi.
- * A physical layout designed for creating Schelling points and collisions of ideas.
- * Buildathons and constant experimentation with emerging products and ideas.
- * Close proximity to nature.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-‍
+MAP
 
-FOUR KEY DESIGN PRINCIPLES
+](https://www.edgecity.live/india26#Map)[
 
-Our popup villages and gatherings are shaped by four key design principles: we focus on health, multidisciplinarity, a culture of co-creation, and making sure that the events are family-friendly and multigenerational (we make it easy for folks with families to bring their kids).
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-‍
+PARTNERS
 
-‍These aspects are critical because we know that if we actually want to experiment with building a better future, we need people to be able to live a holistic experience that combines the full variety of their lives. We’ve seen how a focus on these aspects creates a healthier, more productive lifestyle for the time that they are at Edge City. 
+](https://www.edgecity.live/india26#Partners)[
 
-The villages take place around the world. We purposefully bring people to brand new environments that help them see beyond the ingrained patterns of thought and activity of their default lives. It also allows us to prioritize the diversity of participants by being able to invite people who may have visa issues in accessing traditional innovation hubs.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-‍
+community
 
-Our attendees are all curious, kind, and high-agency — working on something towards a brighter future.
+](https://www.edgecity.live/india26#community)[
 
-‍
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-THE IMPACT
+KIDS
 
-Edge City creates impact in three key areas:
+](https://www.edgecity.live/india26#Kids2)[
 
-‍
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
- 1. Accelerate Resident Impact
-    We fill our villages with curious, kind, ambitious people who give each other the courage, education, and inspiration to apply their talents to do the most impactful work of their lives. Through grants, fellowships, and residencies, we support builders with bold ideas.‍
- 2. Incubate Projects
-    We foster the development of groundbreaking technologies and experiments. Our community is keen to build and test out prototypes and give feedback, which is critical to helping beat the cold start problem for novel ideas. ‍
- 3. Advance Governance and Community Models
-    We will demonstrate new models for community living. Popup villages are real-life laboratories for new decision-making and organizational models, allowing us to try innovative governance and community designs.
+FAQ
 
-THE TEAM
+](https://www.edgecity.live/india26#faqs)[
 
-Our team has extensive relevant experience, including helping organize several popup villages with Zuzalu, a network city concept started by Vitalik Buterin.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3568b68fd1ac58cff4991f_menu.icon.png)
 
-‍
+PRINCIPLES
 
-The two cofounders of Edge City are Janine and Timour.
+](https://www.edgecity.live/india26#Principles)
 
-‍
+## **What is\
+Edge City India?**
 
-Janine Leger was a driving force behind Zuzalu Montenegro and ZuConnect. Previously, she led the Gitcoin Public Goods Funding workstream and built multiple popup co-living communities. She is a community leader in Austin, where she lives.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a4090dbd073e5d38be0b19e_island_india_bgr_%201.avif)
 
-‍
+**Edge City India is a three-week popup village for the people building the frontier of technology, science, and culture.**
 
-Timour Kosters brings 10 years of experience building startups, including Artsy, the largest online art marketplace; Kama, a leading health-tech app; and Impact, a large social brand. He is also an investor and was a partner at Seed Club Ventures. He has built multiple large communities and started the award-winning experiential agency Excetera.
+From October 11 to November 1, founders, researchers, engineers, scientists, and creators gather on the coast of Goa to do the best work of their year together: deep coworking by day, talks and demo days through the week, and a community of peers operating at the highest level.
 
-LET'S BUILD THIS TOGETHER
+Our track record
 
-We envision a network of interconnected communities, each a hub of talented people living and innovating together. We invite you to be part of the next steps in our journey.
+Edge City has run nine popup villages since 2023, convening more than 12,000 builders worldwide, from Edge Esmeralda in California to Edge City Lanna in Thailand. Companies have been founded, research has been run, and rounds have been raised inside our villages. For the first time we bring this community to India, one of the world's largest builder ecosystems.
 
-‍
+Why come?
 
-Follow us on Twitter and Instagram to stay in touch. If you’re interested in attending, funding, or collaborating, please fill out this contributor interest form!
+It is the highest-leverage month of your year. Surround yourself with hundreds of the most curious, ambitious, and high-agency people across disciplines, and accelerate what you are building. Edge City India sits at the center of the autumn builder season, right after several notable conference in South East Asia and flowing into Devcon in Mumbai.
 
-‍
+What’s it like?
 
----
+Mornings start with movement or time in nature. Afternoons are for deep coworking and collaboration at The Circle, our beach-facing hub. Evenings bring fireside talks, workshops, demo days, and self-organized dinners. Focused programs and experiments run throughout, each a small group building around a shared frontier: AI, crypto, longevity, governance, consciousness, and more.
 
-## Roadmap
+How to attend?
 
-Next up: Edge CITY india 2026
-oct 11 - nov 1
+**Step 1**: [Apply Here.](https://portal.edgecity.live/portal/edge-india)\
+\
+**Step 2**: We review applications on a rolling basis and follow up with next steps. Tickets are live now\
+\
+**Step 3:** Get [your accommodation](https://forms.fillout.com/t/eGE4xizEwbus) and flights (+ [visa](https://www.edgecity.live/india26#) if needed), and we'll see you in Goa!
 
-1. Popup villages2. Global network3. Stack 4. Anchors5. Network city6. Better way of livingGet Involved
-Contents
-
-1. Popup Villages2. Global Network3. Stack for Communities4. Permanent Anchors5. Global Innovations Engines6. Better Way of LivingGet Inolved
-
-EDGE CITY ROADMAP
-
-Building a network city
-
-Thank you, Venkatesh Rao, Vitalik Buterin, Toby Shorin, Justin Mares, and Ryan Pripstein for giving their thoughts on earlier versions of this essay.
-
-‍
-
-Tech is moving fast; society isn’t. The systems that shape our time—institutions, norms, governance structures—were made for a prior world. They are not able to meet the opportunities and challenges of the current moment. There are profound technological breakthroughs on the horizon, and their implications need to be worked out.
-
-‍
-
-What if we saw this moment as an opportunity to build something better, leveraging new advancements to prototype new ways of living and connecting in global communities? 
-
-‍
-
-This is the challenge we’re embracing at Edge City. Over the past year, we’ve hosted monthlong popup villages where thousands of people—builders, thinkers, creatives, and more—lived together to test new ways of organizing communities and collaborating on emerging ideas. Across frontier tech, health & longevity, education systems, governance, and even consciousness research, it is a place to learn about and create what comes next.
-
-‍
-
-We've never had more leverage and agency to shape our world, but this comes with responsibility; ideas that could become new systems need to be tried and tested. That's our aim in building a society incubator. By embedding innovation in a living, evolving community—where a variety of perspectives and disciplines interact—we unlock breakthroughs that wouldn’t emerge in traditional accelerators or think tanks. And we can better guide them to enable human flourishing.  
-
-☼ ☼ ☼
-
-Below is our roadmap to build a global ‘network city’: a collection of temporary and permanent ‘villages’ designed as laboratories for social, economic, and technological innovation. The result will be an interconnected global network of communities that demonstrate a better way to live and flourish.
-
-‍
-
-As we go, we'll iterate and open source everything we learn. Our goal isn't just to build one community—it's to spark a movement of thousands of experiments on how humans can live and thrive together, creating blueprints for more resilient and flourishing societies worldwide.
-
-‍
-
-OUR ROADMAP
-
-1. BUILD FUN ‘POPUP VILLAGES’ WHERE PEOPLE THRIVE
-
-We start by making monthlong communities designed for collaboration and well-being. Start your day with mountain treks and cold plunges. Move into deep work and learning alongside accomplished builders. End with farm-fresh dinners and sessions that push ideas forward. We gather awesome people by creating environments where you can live your best life and do your best work. 
-
-‍
-
-Four key principles shape our approach: villages should be default healthy, multidisciplinary, build & co-creation focused, and multigenerational. We believe the best ideas emerge when people feel great physically, when people from different fields live alongside one another, when everyone is focused on building vs. passive learning, and when family life is fully integrated. The result is an experience that isn't just productive but deeply fulfilling. (Read more about our approach and what we learned in our first year.)
-
-‍
-
-The temporary nature of these events creates freedom to experiment outside of the box, mixed with a shared sense of urgency and ambition to build and ship before the end of the month. Imagine what will be incubated in a space where people flourish, in an environment where nurturing your mind and body is the default state. 
-
-‍
-
-The connections created in these villages don’t fade when the month ends. They grow into a global network -> 
-
-☼ ☼ ☼
-
-2. BUILD A GLOBAL NETWORK OF PEOPLE SHAPING THE FUTURE
-
-The heart of Edge City is its people. We bring together curious, kind, high-agency individuals who want to build a brighter future. You share meaningful experiences—living together and collaborating on big ideas—which build trust and create lasting bonds. You’ll leave with friends and collaborators who will push your thinking and expand your work.
-
-‍
-
-Strong connections create the conditions for progress, and the network spreads that progress across the world. The Edge City ecosystem has already incubated and spread a variety of projects in our first year, from privacy-preserving identity systems (Cursive and ZuPass) to community currencies (∈dges) to new tech movements in Argentina (Crecimiento).
-
-‍
-
-As the ecosystem grows, we’ll learn more about what works. Then, we’ll turn those lessons into playbooks and infrastructure that make it easy for others to launch their own popup city experiments ->
-
-☼ ☼ ☼
-
-3. BUILD THE STACK FOR TOMORROW’S COMMUNITIES AND CITIES
-
-Edge City is pioneering a new approach to building tech-enabled communities. As we solve challenges, we’ll create open-source tools and playbooks that help people organize in more fluid, high-trust ways. We’ll share the norms, practices, and technologies that we develop, which will emerge not from theory but from the real needs of a thriving community.
-
-‍
-
-We believe technology should enhance in-person connection, not replace it. From governance frameworks to coordination tools, we are developing systems that amplify trust, increase serendipity, and enable more intentional ways of living. These tools are incubated in our temporary environments but will also be used by communities in existing towns and cities who are looking to evolve.
-
-‍
-
-Why open-source everything we learn? There are two key benefits. First, it makes it easier for others to do the same, which grows the movement, and we’ll learn from experiments and breakthroughs we could never have predicted. We’ve drawn inspiration from our time building Zuzalu and know that the best ideas emerge from the bottom up. Second, the further these tools spread, the more we accelerate the transition toward better ways of living beyond just our villages.
-
-‍
-
-By making this stack available to everyone, we are ensuring that Edge City-style communities can grow and evolve without starting from scratch. Some will stay temporary, but others will become permanent over time. ->
-
-☼ ☼ ☼
-
-4.  BUILD PERMANENT ANCHORS, INCLUDING NEW TOWNS
-
-While popup villages provide the freedom and urgency to experiment, Edge City will also create opportunities to ground those learnings in more permanent settings. These may look like hubs in existing cities or like entirely new towns. The hubs are not replacements for temporary villages, but spaces where the ideas and practices tested in popups can be refined and implemented over time.
-
-‍
-
-One example is Esmeralda, a new walkable town project located 90 minutes north of San Francisco. Founder Devon Zuegel is building Esmeralda to blend the intimacy of a pedestrian-friendly community with the Bay Area’s culture of creativity and invention. This summer, we are once again hosting Edge Esmeralda—a month-long popup village designed to showcase what living in this innovative town will be like. This gathering provides an opportunity for Esmeralda to demonstrate its vision while allowing Edge City to further explore how the tools and culture that we incubate can be applied in a more permanent context.
-
-‍
-
-A single village can test new ideas. A permanent hub can refine them. But when these communities are linked into a broader network, their impact multiplies—transforming isolated experiments into a global movement. ->
-
-☼ ☼ ☼
-
-5. LINK THE NODES OF THE NETWORK CITY TO BUILD A GLOBAL INNOVATION ENGINE
-
-Ideas evolve best when they encounter new environments and constraints. Each Edge City village serves as a testing ground, but real breakthroughs emerge when projects travel and adapt, taking on new forms across the different locations.
-
-‍
-
-A governance model first explored in Esmeralda may take on a new form in Bhutan, and then be refined in Argentina. A decentralized identity system piloted at Edge City Lanna could expand its applications in a permanent hub. A coordination system designed in Thailand may only reach its full potential when tested in a permanent hub. 
-
-‍
-
-How will we create the links within the network city? People who visit multiple create natural bridges between locations. A shared archive of experiments could track what’s been tested, what needs refinement, and what could be built next. Having 24/7 portals set up between nodes will allow for serendipitous connections. Most projects begin in one village and continue in the next, strengthening through iteration.
-
-‍
-
-As these villages connect and evolve, they begin to model a future where better ways of living are possible -> 
-
-☼ ☼ ☼
-
-6. DEMONSTRATE A BETTER WAY OF LIVING. (YES, SERIOUSLY.)
-
-Eventually, existing cities will adopt the best ideas from our network. Local governments will integrate our community technologies and governance models. Public and private institutions will adopt our methods. And new kinds of globally connected communities will emerge, not bound to a single place, but existing across physical and digital spaces, linked by shared ideas and practices.
-
-‍
-
-There will be a shift in culture; one that recognizes people’s agency to shape their communities into spaces where they flourish. Cities, towns, and even online spaces don’t have to be dictated by outdated systems; they can evolve through the choices and actions of the people who live in them. Our goal isn’t to design a single utopia, but to empower individuals and groups with the tools to create the kinds of places they want to live in.
-
-‍
-
-If we do this right, Edge City-style living won’t be an eccentric subculture; it’ll shape how mainstream society evolves. That’s our endgame: a future where the best aspects of these experiments become normal, and the next generation of humans grows up in healthier, freer, and more imaginative communities by default.
-
-☼ ☼ ☼
-
-GET INVOLVED
-
- * ‍Join a popup: Come live with us for a month. Bring your ideas, friends, and family.
- * Build with us: Incubate a project, contribute to one, or simply give feedback to accelerate progress.
- * Partner or Donate: We’re a 501(c)(3). If you believe in advancing technology, science, and society through experimentation, we could use your support.
-
-With love,
-The Edge City team ☀️
-
-GET UPDATES
+Get updates about Edge India 2026
 
 Thanks! You've been added to the list.
+
 Oops! Something went wrong.
 
----
+Get updates about Edge India 2026
 
-## Ecosystem
-
-Next up: Edge esmeralda 2026
-may 30 - june 27
-
-ECOSYSTEM
-
-☼︎ ☼︎ ☼︎
-Edge City creates environments where breakthrough innovations emerge. Our popup villages have helped develop, accelerate, and strengthen projects and experiments pushing the boundaries of technology, science, and society. Explore projects in our ecosystem by type, focus area, or village. Each is an important piece shaping the future we're building.
-‍
-If your project or collaboration was sparked, supported, or incubated at one of our villages, let us know; we’d love to include it here.
-12,500+
-participants
-100+
-countries represented
-$2.5m
-in grants allocated to builders
-300+
-startups & projects
-
-Filters
-Reset All
-
-Reset All
-Type
-Reset
-Friend
-
-Key Supporter
-
-Supporter
-
-Research
-
-Hackathon Project
-
-Experiments & Incubations
-
-Startup
-
-FriendKey SupporterSupporterResearchHackathon ProjectStartupExperiments & Incubations
-Focus area
-Reset
-Art & Culture
-
-Infrastructure
-
-Research & Academia
-
-Community Tools
-
-Governance & Society
-
-Neurotech
-
-Health & Biotech
-
-Crypto & Cryptography
-
-AI & Computing
-
-Pop-up City
-Reset
-Edge Esmeralda 2025
-
-Edge City South Africa 2025
-
-Edge Esmeralda 2026
-
-Edge City Austin 2025
-
-Edge City Patagonia 2025
-
-Edge City Lanna 2024
-
-Edge Esmeralda 2024
-
-Edge City Denver 2024
-
-ZuConnect 2023
-
-Zuzalu 2023
-
-Key Supporter
-Uniswap Foundation
-Supporting decentralized finance and the growth of the Uniswap ecosystem.
-Infrastructure
-Governance & Society
-
-Key Supporter
-Protocol Labs
-Research, development, and deployment of network protocols for a decentralized web.
-Infrastructure
-Research & Academia
-
-Key Supporter
-Ethereum Foundation
-Advancing the Ethereum ecosystem through research, development, and funding initiatives.
-Infrastructure
-Crypto & Cryptography
-
-Key Supporter
-World Foundation
-A network of real humans built on an anonymous proof of human and a globally inclusive financial network.
-Governance & Society
-Infrastructure
-Community Tools
-
-Key Supporter
-Summer of Protocols
-Summer of Protocols is an ongoing research and evangelism effort that aims to catalyze broad interest in the study of protocols as a first-class concept for thinking about the world.
-Research & Academia
-Crypto & Cryptography
-
-Key Supporter
-PSE
-Privacy + Scaling Explorations builds free resources for people expanding the world of programmable cryptography.
-Crypto & Cryptography
-
-Supporter
-Puffer
-Builds secure staking infrastructure and liquid staking protocols for Ethereum.
-Infrastructure
-Crypto & Cryptography
-
-Supporter
-Nouns
-Experimental NFT-based community that funds public goods through on-chain governance.
-Art & Culture
-Governance & Society
-
-Supporter
-Lido
-Leading liquid staking protocol providing access to staking rewards without locking assets.
-Crypto & Cryptography
-Infrastructure
-
-Supporter
-Scroll
-Layer 2 zkEVM-based scaling solution for Ethereum, enhancing scalability and privacy.
-Crypto & Cryptography
-Infrastructure
-
-Supporter
-Optimism
-Ethereum Layer 2 scaling solution with a focus on retroactive public goods funding.
-Infrastructure
-Governance & Society
-
-Supporter
-Arbitrum
-Scalable Layer 2 rollup protocol for Ethereum offering lower fees and faster transactions.
-Crypto & Cryptography
-Governance & Society
-
-Supporter
-Flow Foundation
-Supports the Flow blockchain, designed for consumer-scale decentralized apps and games.
-Art & Culture
-Infrastructure
-Community Tools
-Crypto & Cryptography
-
-Key Supporter
-0xPARC
-Organization driving cryptographic R&D and zk-based experimentation in open ecosystems.
-Crypto & Cryptography
-Research & Academia
-AI & Computing
-
-Supporter
-Lisk
-Lisk is a Layer 2 blockchain designed for builders in high-growth markets — providing the ecosystem, support, and resources they need to launch and scale.
-Infrastructure
-Crypto & Cryptography
-Community Tools
-
-Supporter
-Filecoin Foundation
-Filecoin is the world’s largest decentralized storage network.
-Crypto & Cryptography
-
-Supporter
-Polymer Labs
-Polymer makes cross-rollup interoperability fast and easy for application builders.
-Crypto & Cryptography
-
-Supporter
-Spire Labs
-An open-source framework for customizable appchains with subsecond confirmations and Ethereum interoperability.
-Crypto & Cryptography
-
-Supporter
-Syndicate
-Syndicate enables applications, agents, and platforms to be owned by the people they serve.
-Crypto & Cryptography
-
-Supporter
-Yoni Ben-Shimon
-Yoni Ben-Shimon supported both our fellowship program in Chiang Mai and our D/ACC grants program
-Research & Academia
-Neurotech
-AI & Computing
-Governance & Society
-Health & Biotech
-
-Supporter
-Emergent Ventures
-Grant program supporting brilliant minds with highly scalable, "zero to one" ideas for meaningfully improving society.
-Governance & Society
-
-Supporter
-Morpheus AI
-The first peer-to-peer network for general purpose AI, powered by MOREarn MORRefer and Earn
-AI & Computing
-
-Supporter
-Guild.xyz
-A curious collective of founders, builders and web3 infrastructure enthusiasts exploring together to drive the development of future internet communities.
-Community Tools
-
-Supporter
-Mask Network
-Mask Network is a browser extension that seamlessly allows users to access a wide array of Web3 services on their favorite social media platforms, from encrypted messaging to decentralized profiles.
-Community Tools
-Crypto & Cryptography
-
-Supporter
-Stanford Blockchain
-Stanford Blockchain Club is Stanford's premier student organization for blockchain education and entrepreneurship.
-Crypto & Cryptography
-Research & Academia
-
-Startup
-MONA
-A venture-backed startup dedicated to accelerating the growth of the open metaverse.
-Art & Culture
-Crypto & Cryptography
-
-Supporter
-Stripe Climate
-Stripe Climate helps promising permanent carbon removal technologies launch and scale.
-Governance & Society
-Health & Biotech
-
-Supporter
-Gitcoin
-Gitcoin provides the tools, expertise, and services that empower ecosystems to launch and scale impactful grants programs—without the administrative burden.
-Crypto & Cryptography
-Community Tools
-Governance & Society
-
-Supporter
-Circle
-Circle is a pioneer of USD Coin, one of the fastest growing fiat-currency backed stablecoins.
-Crypto & Cryptography
-
-Supporter
-Foresight Institute
-Foresight Institute supports the beneficial development of high-impact technology to make great futures more likely.
-Neurotech
-Health & Biotech
-AI & Computing
-
-Supporter
-Convergent Research
-Convergent Research is an incubator for philanthropic ventures founded in 2021 and funded by Eric Schmidt, Wendy Schmidt and Ken Griffin as part of the Schmidt Futures Network.
-Research & Academia
-
-Experiments & Incubations
-Crecimiento
-Crypto movement in Argentina to legally bring Argentina onchain
-Governance & Society
-
-Startup
-Radworks / Drips
-Radworks is building a sovereign developer stack
-Crypto & Cryptography
-
-Startup
-Consensys Mesh
-Consensys Mesh connects the people, projects and protocols building web3.
-Community Tools
-Crypto & Cryptography
-
-Research
-Flashbots
-Flashbots is a research and development organization formed to mitigate the negative externalities posed by Maximal Extractable Value (MEV) to stateful blockchains, starting with Ethereum.
-Research & Academia
-
-Hackathon Project
-GoodRates
-A custom swapping mechanism to compare central bank and market forex rates
-Crypto & Cryptography
-Infrastructure
-
-Hackathon Project
-The Future I Want
-A narrative based AI world-building art project - a journey into an optimistic future that emphasizes technology progression, environmental harmony and flourishing community.
-AI & Computing
-Art & Culture
-
-Hackathon Project
-Learn AI
-AI we are using Zap's Decentralized Data Pools and built a World Mini app to allow humans to collectively generate high quality data while owning the data pool.
-AI & Computing
-Crypto & Cryptography
-
-Hackathon Project
-CrowdHelping
-Crowdfunding DAO for diverse public good activities
-Crypto & Cryptography
-Community Tools
-Governance & Society
-
-Hackathon Project
-WhoUp
-Reprograming your doomscrolling.
-Community Tools
-Crypto & Cryptography
-
-Hackathon Project
-ZkResolution
-Securing DNS resolution through zero-knowledge geometry - where privacy meets proximity
-Crypto & Cryptography
-
-Hackathon Project
-Kobe
-An automated platform designed to simplify and accelerate the development, testing, and deployment of smart contracts.
-Crypto & Cryptography
-
-Friend
-Scott Wood
-Supports ideas that are driving forward tech and science to make a positive impact in the world.
-Governance & Society
-AI & Computing
-Crypto & Cryptography
-
-Friend
-Borderlesss
-Borderless is a leading investment management firm focused on Web3 technology, dedicated to supporting the next generation of innovators who are driving the development of groundbreaking technologies that will enable the creation of value without borders
-Crypto & Cryptography
-
-Friend
-4Seas
-A globally recognized ethereum cultural community in Chiang Mai dedicated to advancing the crypto ecosystem
-Governance & Society
-
-Friend
-Cabin
-Cabin is building a network city of modern villages located in walkable pockets of family-friendly urbanism with nearby parks and nature.
-Governance & Society
-Infrastructure
-
-Friend
-Charter Cities Institute
-The Charter Cities Institute is a nonprofit dedicated to creating the ecosystem for charter cities, founded on the idea that a fresh approach was necessary to tackle humanity’s most pressing challenges, such as global poverty, climate change and rapid urbanization.
-Governance & Society
-
-Friend
-Seed Club Ventures
-Seed Club Ventures is a Venture DAO backing early-stage founders building at the intersection of web3 and community.
-Crypto & Cryptography
-Governance & Society
-Infrastructure
-
-Startup
-Synbio
-Synbio Technologies provides comprehensive services including gene synthesis, protein expression, gene editing, etc., supporting one-stop solutions for global users.
-Health & Biotech
-
-Friend
-Triplet Imaging
-Triple imaging has developed a novel method for multiphoton fluorescence excitation, using forbidden transitions to triplet states. They're building a new type of multiphoton microscope that benefits from reduced power, size, and simpler, lower cost components.
-Neurotech
-Health & Biotech
-
-Experiments & Incubations
-Ante
-Ante is a crypto protocol and concept designed to make commitments credible and enforceable using blockchain technology.
-Governance & Society
-Crypto & Cryptography
-Community Tools
-
-Startup
-Precog Market
-Precog is a forecasting platform that rewards accurate predictions, cutting through the noise to give people and AI agents clear insights for smarter decisions about the future.
-AI & Computing
-
-Startup
-Memethology
-Collectible card game that secured an ETHDenver partnership and angel investment during the Agartha Residency at Edge City Patagonia. Created by Colton Art.
-Art & Culture
-Community Tools
-
-Startup
-SafeSeqs
-AI for detecting biological threats. Built during the d/ACC Residency at Edge City Patagonia.
-AI & Computing
-Health & Biotech
-
-Startup
-Dobprotocol
-DePIN platform for fractional investment in real-world infrastructure. Founded by Oscar.
-Infrastructure
-
-Startup
-Programmable Flowers
-Reprogramming plants into health biofactories for saffron production via duckweed. Founded by Laura Turner.
-Health & Biotech
-
-Startup
-Cr3dentials
-Privacy-preserving income verification via zkTLS. Built by Kofi Owusu at the d/ACC Residency.
-Crypto & Cryptography
-
-Experiments & Incubations
-Deshittification Technology
-ZK and programmable cryptography applied to human connection. Led by Althea Allen at Edge City Lanna.
-Crypto & Cryptography
-
-Startup
-Azza (UseAzza)
-WhatsApp-based crypto wallet for Africa with $80K+ transaction volume. Founded by Toochukwu.
-Infrastructure
-Community Tools
-
-Startup
-Autonomous Port Systems
-Full port autonomy technology. Founded by Sunir Kishan Manandhar. Built real-time container tracker from scratch, hosted hackathon judged by Space Force, YC, and Stanford.
-AI & Computing
-Infrastructure
-
-Startup
-Squaretower Markets
-Derivatives platform for on-demand GPU compute. Founded by Neha Desaraju and Mackay Grant.
-AI & Computing
-Infrastructure
-
-Startup
-Cosmic Labs
-Agentic network infrastructure for AGI-era systems. Founded by Meg McNulty. Finished beta deployment and formed data-center alliance during residency.
-AI & Computing
-Infrastructure
-
-Startup
-24-Hour ASIC Foundry
-Custom digital chips produced in 24-48 hours using vintage nanofab equipment. Founded by Miles Segal.
-Infrastructure
-
-Startup
-Cashmere
-Cultural protocol for capturing and rewarding curation of human taste. Built by Chloe Huang.
-Art & Culture
-Community Tools
-
-Startup
-Eden.art AI Agent
-Collective intelligence platform powering a community AI companion. Deployed as the benevolent AI agent at Agartha House during Edge City Patagonia.
-AI & Computing
-Community Tools
-
-Startup
-Software-Defined Bio Lab
-Automating wet-lab experiments to lower biotech costs. Founded by Keoni Gandall. Created CRISPR-edited grape-flavored bread on-site. Raised $250K.
-Health & Biotech
-AI & Computing
-
-Startup
-Refs
-People-powered interest graph and matching app. Founded by Max Heald. Deployed at Edge Esmeralda and Edge City Patagonia.
-Community Tools
-
-Startup
-Functor Network / Doris
-Keystore layer for smart accounts, simplifying cross-chain key management.
-Crypto & Cryptography
-Infrastructure
-
-Experiments & Incubations
-Art on the Edge
-AI, spatial computing, and brain-computer interfaces merged into immersive worldbuilding experiences. Led by Justin Melillo (MONA). Installations moved to DevCon.
-Art & Culture
-AI & Computing
-Neurotech
-
-Startup
-Scalable Neural Interface
-Non-invasive dementia detection via low-cost EEG. Founded by Matteo Vinao Carl. Discovered novel brain aging biomarker during the residency.
-Neurotech
-Health & Biotech
-
-Startup
-Stratium
-Causal world model with LLM-powered graphs. Founded by Eleanor Junru Ye. Rewrote ML pipeline with 98% consistency during residency.
-AI & Computing
-
-Startup
-Constellation
-Neural interface company building foundation models of human state. Founded by Avery Krieger (Stanford PhD) during the Long Journey Residency at Edge Esmeralda 2025. Collected one of the largest multimodal neural datasets from village participants, found lead investor on-site, raised $10M.
-Neurotech
-AI & Computing
-Health & Biotech
-
-Experiments & Incubations
-Off-Grid Solar Datacenter
-Solar-powered, battery-backed compute system built by Ben James at Edge Esmeralda 2025. Ran GPU-intensive projects and open-source LLMs entirely off-grid.
-AI & Computing
-Infrastructure
-
-Experiments & Incubations
-Dream Park
-Immersive AR playground with puzzle-solving and virtual creatures deployed in Healdsburg plaza during Edge Esmeralda 2025.
-Art & Culture
-AI & Computing
-
-Startup
-Geoship
-Bioceramic dome homes designed for sustainable, affordable housing. Demonstrated at Edge City events.
-Infrastructure
-
-Research
-Protocol Worlds
-Framework for decision-making in complex systems developed by Venkatesh Rao and Tim Beiko. Created the 'tensions game' methodology at Edge City Lanna.
-Governance & Society
-Research & Academia
-
-Startup
-Ami
-Location-based social app for unexpected encounters, built by Shawn Fanning and Andrew Frame. Tested across Edge Esmeralda 2025 as the village's social discovery layer.
-Community Tools
-
-Research
-Network Nations
-Workshop on new organizational structures for global cooperation, organized by Primavera de Filippi and Jessy Kate Shingler at Edge Esmeralda 2024.
-Governance & Society
-Research & Academia
-
-Research
-Psybiome Study
-First gut microbiome and psychedelics research study, run by PsyDAO's Andrew Quigley at Edge City Patagonia. 15 participants with pre and post testing across the full month.
-Health & Biotech
-Research & Academia
-
-Startup
-Turmerik
-AI clinical trial recruitment optimization. Founded by Ayushi Sinha.
-AI & Computing
-Health & Biotech
-
-Friend
-Gelephu Mindfulness City
-Bhutan's new city project. Edge City organized an expedition with government engagement, leading to ongoing collaboration around AI governance and national digital infrastructure.
-Governance & Society
-
-Experiments & Incubations
-EdgeOS
-Open-source operating system for network societies. Built by P2P Lanes and Edge City, EdgeOS is an extensible portal for resident engagement covering applications, payments, housing selection, and community coordination.
-Community Tools
-Infrastructure
-
-Experiments & Incubations
-Solar A-Frame
-Off-grid cabin with solar panel roof built in a burned redwood forest at Edge Esmeralda 2024. Led by Nick Foley and Anson Yu. Hosted the Golden Future Night Market and raised funds for 350 redwood tree plantings.
-Infrastructure
-
-Startup
-Fulcra Dynamics
-Aggregated wearable data into village-wide wellness dashboards at Edge Esmeralda 2025.
-Health & Biotech
-AI & Computing
-
-Startup
-Upstream
-Male fertility platform achieving approximately 3x increase in outcomes. Founded by Gigi Gotz.
-Health & Biotech
-
-Experiments & Incubations
-Distributed Health Trials
-Month-long health trials across Edge City villages with biomarker tracking and community-wide participation.
-Health & Biotech
-
-Startup
-Holonym / human.tech
-Privacy-preserving identity using zero-knowledge proofs. Raised $5.5M seed, 3M+ verified users, acquired Gitcoin Passport. Ran a full residency at Edge City Patagonia and soft-launched their Covenant of Humanistic Technologies platform to the Edge community.
-Crypto & Cryptography
-Governance & Society
-
-Experiments & Incubations
-Harmonica
-Structured async dialogue platform with AI moderation using Polis tools. Prototyped at Edge events for community feedback and deliberation.
-Community Tools
-Governance & Society
-
-Startup
-ZuPass
-Decentralized identity solution for private community verification.
-Crypto & Cryptography
-Community Tools
-
-Experiments & Incubations
-RadicalxChange Community Currency
-Experiment exploring new models for local economic systems.
-Governance & Society
-
-Experiments & Incubations
-Cursive
-Tools for digital signatures and data authenticity using cryptography.
-Crypto & Cryptography
-Infrastructure
-
-Key Supporter
-Long Journey Ventures
-Long Journey is an early-stage venture firm that supports bold founders building at the frontier. They run their own founder residency and have been a key supporter of Edge City’s fellowship program and our work with emerging talent.
-AI & Computing
-Art & Culture
-Community Tools
-Crypto & Cryptography
-Governance & Society
-
-Experiments & Incubations
-Propel
-MetaMask experiment improving crowdfunding using delegation tools.
-Infrastructure
-Community Tools
-
-Experiments & Incubations
-Social Layer
-SocialLayer is a modular calendar system for community-driven event programming. We use it to power our shared calendar across villages—helping participants coordinate, contribute, and stay connected.
-Community Tools
-
-Experiments & Incubations
-Concept Clinic
-New approaches to mental health through interdisciplinary practice.
-Health & Biotech
-
-Startup
-Prime Intellect
-Platform connecting distributed computing for AI development.
-AI & Computing
-Infrastructure
-
-Research
-NODE
-Supporting responsible frontier tech development through in-person formats.
-Research & Academia
-Governance & Society
-
-Startup
-Alegria
-Brain-computer interface platform using AI to decode brain activity.
-Health & Biotech
-AI & Computing
-
-Startup
-SimpleFi
-Payment system for Edge City using crypto rails.
-Infrastructure
-Community Tools
-
-Research
-Vasocomputation Studies
-Research on vascular tension as a memory regulator.
-Health & Biotech
-Research & Academia
-
-NO RESULTS FOUND
-
----
-
-## Media
-
-Next up: Edge CITY india 2026
-oct 11 - nov 1
-
-MEDIA & UPDATES
-
-Read news, thought pieces & updates about Edge City
-
-View all
-
-Edge City Lanna
-
-Essay
-
-Monthly Update
-
-Podcast
 Thank you! Your submission has been received!
+
 Oops! Something went wrong while submitting the form.
 
-ODE TO EDGE
+## GALLERY
 
-Seb's reflections from the Inflection Fellowship on Meant, a tool for saying what you actually mean, and choosing to slow down and find the real question instead of shipping on someone else's clock.
+Pictures from Goa and some of our past pop-up villages around the world.
 
-Sebastian Kot
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a2842f74e2e992759687_fd57adb5-5db1-4329-95b7-fcb5d384fd3c.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a280ebb4eb7adac107ac_photo_2026-06-10%2010.33.48.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d984d33f462b55b94a13c_67915dc15dc8933d354eccae_photo_2024-10-25_11-59-28.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a27f9b7f61a2c70c1884_photo_2026-06-10%2010.32.38.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d984db2ed696bd602ee91_cabo-da%20rama%20fort-goa.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d984c279c7bbfbedd560e_67915dcd2ccf41ce02c31918_Copy%20of%20Copy%20of%20P1560631.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d984c1350ef26453c0e24_67915dc8f1355bfd2aca8325_IMG_0133.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d984c87be82602c37028e_gooa-ft.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d984c7588f5d08dd876a6_67915dbf5497599d093e5bb8_LW%20Healdsburg%20Day%202-20%20\(1\).avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d984b0731ae44ea96e48f_-FWEBP-C1537x1153%2C256%2C0-S1920x1440.webp)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d984ad8001474afa34514_67915dbfdf7173703d49ab78_LW%20Healdsburg%20Day%206-90.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3d98312d65f8f9571d0036__04A9673%20\(Large\).avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a2849a1af85d5ae1efed_Restaurant2.webp)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a2849a07ededa5913328_presidentia-suite32.webp)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a284e27047e7310cf7ab_external_37.webp)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a2840277069da38705e4_palmgrovebeach.webp)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a2818945f6b2e2a6274f_photo_2026-06-10%2010.33.05.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a284de58e0d4b562841d_944567ca-city-58439-168bfa6d4a9.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a2854f3545de13fa0581_photo_2026-06-10%2010.33.44.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a29a287086e1ae8fdafa63c_rivabeachresort-img11.webp)](https://www.edgecity.live/india26#)
 
-Essay
+## Themes
 
-September 15, 2026
+_Each theme will have planned talks & self-organized sessions throughout the month._
 
-BRING YOUR FAMILY TO EDGE CITY INDIA
+## WEEK 1
 
-Bring your family to Edge City India. Explore Edge Tomorrow, the family residency, caregiver expectations, and how to apply for Goa in October.
+## Oct 11 ~ Oct 17
 
-Edge City Team
+## Environments of Tomorrow
 
-Edge City India
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aae9d154ec21b4762c42227_photo_2026-09-19%2016.32.13.avif)
 
-September 3, 2026
+## New Urbanism • Energy & Climate • Food Systems • Education
 
-GETTING TO EDGE CITY INDIA
+## WEEK 2
 
-The original Edge City India travel guide: getting to Mandrem, Goa, airport options, arrival planning, and visa resources. Apply to join us.
+## Oct 18 ~ Oct 24
 
-Edge City Team
+## RASAYANA: HOLISTIC LONGEVITY
 
-Edge City India
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aae9d10eb9437744ad61d1c_photo_2026-09-19%2016.32.18.avif)
 
-August 31, 2026
+## Ayurveda • Biohacking\
+• Health span • Consciousness
 
-ANNOUNCING ANIMA HOUSE: THE WOMEN’S HEALTH RESIDENCY
+## WEEK 3
 
-Anima House brings women’s health founders, researchers, clinicians, and creators together at Edge City India. Explore the residency and apply.
+## Oct 25 - Nov 1
 
-Edge City Team
+## Frontier Intelligence & Decentralized Futures
 
-Edge City India
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aae9d11bea9dd8db5f6e78b_photo_2026-09-19%2016.32.20.avif)
 
-August 21, 2026
+## Deep Tech • AI •\
+Decentralized Technologies\
+•  Governance & Policy • Hackathons
 
-CREATIVE RESIDENCY EDGE CITY: MODERN RENAISSANCE
+[
 
-Join the Edge City India Creator Residency with The Modern Renaissance. Make original work from inside a three-week popup village in Goa.
+MORE INFO
 
-Edge City Team
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Edge City India
+](https://edgecityindia2026.substack.com/p/programming-preview-for-edge-city)
 
-August 20, 2026
+## Residencies\
+& Experiments
 
-ANNOUNCING THE COMMUNITY BUILDERS RESIDENCY
+**Residencies are groups of 5-50 people who gather around a shared theme or community. Please apply and** [**buy your ticket first**](https://portal.edgecity.live/portal/edge-india)**, and then you'll get info about how apply to a residency.**
 
-Join community builders at Edge City India with Oddtable and Jungli. Explore shared work, peer learning, housing options, and application routes.
+You don’t need to join a residency in order to attend Edge City India;  you’ll have access to programming even if you stay solo or with friends.
 
-Edge City Team
+[
 
-Edge City India
+HOW TO HOST A RESIDENCY
 
-August 18, 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-THE ROAD TO EDGE: BACKROAD FARM CARAVAN EXPERIENCE
+](https://edgecity.notion.site/ECI26-How-to-Host-a-Residency-at-Edge-City-India-2026-38dd45cdfc5981d08905edefe91c6f05)
 
-Explore the Road to Edge, a ten-day journey through farms and communities from Bangalore to Goa before Edge City India. Request a place or support a seat.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3f0b349477ad60544b8717_stickers%203.avif)
 
-Edge City Team
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a7bcad788b61aba30809a71_photo_2026-08-11%2021.54.25.avif)
 
-Edge City India
+**Oct 11 – Nov 1, 2026 |** [**Apply →**](https://edgecityindia2026.substack.com/p/announcing-the-inflection-fellowship?r=7jhl3k&utm_campaign=post&utm_medium=web&triedRedirect=true)_\
+\
+Inflection Fellowship 2026\
+_
 
-August 17, 2026
+_with Long Journey_
 
-HOUSING FOR EDGE CITY INDIA
+A fully funded three-week fellowship for exceptional builders under 25 working on magically weird ideas across frontier tech, science, and society. Housing, travel, and ticket covered, in partnership with Long Journey Ventures.
 
-The original Edge City India housing guide: Riva Beach Resort, room sharing, residency housing, and booking information for Goa.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/689cb2b92c47c0112c820f7d_Patagonia_partner_template_16x9-Regen_web.avif)
 
-Edge City Team
+[
 
-Edge City India
+LEARN MORE
 
-August 14, 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-EDGE CITY NEWSLETTER — AUGUST
+](https://x.com/JoinEdgeCity/status/2084705869288165839?s=20)
 
-Between new residencies coming together, an auction that just raised $960K for young builders, and a live Town Hall we're hosting next week, there's a lot to catch you up on.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a7bcada10f2318504ca8b2e_photo_2026-08-11%2021.54.35.avif)
 
-Edge City Team
+**Oct 25 – Nov 1, 2026 |** [**Apply →**](https://accelerator.build3.co/)_\
+\
+Build3 Impact Accelerator\
+_
 
-Monthly Update
+_with Startup Ecoāshrām_
 
-August 13, 2026
+A closing IRL week at the end of a 10-week impact accelerator with build3, bringing founders building for profit and purpose into the village before converging at their 30-acre Startup Ecoāshrām in the Western Ghats.
 
-FROM "NON-TECHNICAL" TO MVP
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/689cb2b92c47c0112c820f7d_Patagonia_partner_template_16x9-Regen_web.avif)
 
-Krystal's reflections from the Inflection Fellowship on building SocratiCare, a patient-owned health tool, and choosing to build through medical school instead of after it.
+[
 
-Krystal Grover
+LEARN MORE
 
-Essay
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-August 10, 2026
+](https://www.build3.org/accelerator)
 
-BUILD3 AND EDGE CITY ARE BRINGING SOMETHING NEW FOR INDIA'S STARTUP ECOSYSTEM
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a7bcad9e5bb7bead06fb68b_photo_2026-08-11%2021.54.39.avif)
 
-Explore the build3 and Edge City India partnership, connecting impact founders, the Goa popup village, and Startup Ecoāshrām.
+**Oct 11 – Nov 1, 2026 |** [**Apply →**](https://www.forgeresidency.com/apply?cohort=2)_\
+\
+Forge Residency_
 
-Edge City Team
+_A sanctuary for 30 contrarian founders living and building under one roof for 21 days. Forge finds founders at -1 to 0 and gives them the proximity, capital and resources to make the leap. Its Bangalore cohort raised $3.3M by Demo Day._
 
-Edge City India
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/689cb2b92c47c0112c820f7d_Patagonia_partner_template_16x9-Regen_web.avif)
 
-August 6, 2026
+[
 
-ANNOUNCING THE INFLECTION FELLOWSHIP 2026 AT EDGE CITY INDIA
+LEARN MORE
 
-Learn about the Inflection Fellowship at Edge City India and how to support young builders working across technology, science, and society.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Edge City Team
+](https://www.forgeresidency.com/cohorts/2)
 
-Edge City India
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a7bcad9598cb49d113711d3_photo_2026-08-11%2021.54.42.avif)
 
-August 4, 2026
+**Oct 11 – Nov 1, 2026 |** [**Apply →**](https://groundfloorlabs.org/)_\
+\
+Ground Floor Residency\
+_
 
-NOTES FROM THE EDGE (ESMERALDA)
+A civic R&D field lab where international AI professionals work with local Goan business owners, civic leaders, government,  researchers, and artists learn frontier AI. Free seats for every local business owner.
 
-Reflections and Gems from the month that changed everything.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/689cb2b92c47c0112c820f7d_Patagonia_partner_template_16x9-Regen_web.avif)
 
-Keri Shinn
+[
 
-Essay
+LEARN MORE
 
-August 3, 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-VOLUNTEER AT EDGE CITY INDIA 2026
+](https://x.com/JoinEdgeCity/status/2085752696485663001?s=20)
 
-Help make Edge City India happen. Explore volunteer roles in operations, events, community, and setup, and apply to join the crew in Goa.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a7bcad95082827c2cb8f12b_photo_2026-08-11%2021.54.49.avif)
 
-Edge City Team
+**Oct 11 – Nov 1, 2026 |** [**Apply →**](https://www.crossmarginlabs.com/residency-goa/apply)_\
+\
+Aqua0 Residency_
 
-Edge City India
+_Cross Margin Labs_
 
-July 29, 2026
+Three weeks with a small crew obsessed with DeFi, living and shipping in one hacker house. Building the future of finance.
 
-TICKETS FOR EDGE CITY INDIA 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/689cb2b92c47c0112c820f7d_Patagonia_partner_template_16x9-Regen_web.avif)
 
-The original Edge City India ticket guide: what admission includes, scholarships, volunteering, family access, and how to apply.
+[
 
-Edge City Team
+LEARN MORE
 
-Edge City India
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-July 24, 2026
+](https://www.crossmarginlabs.com/residency-goa)
 
-EDGE TOMORROW: A FOUR-WEEK CREATIVE RESIDENCY FOR FAMILIES
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a7bcad96cd2330466c25841_photo_2026-08-11%2021.54.53.avif)
 
-How adults and kids practiced agency, resilience, and systems thinking inside a popup village.
+**Oct 11 – Nov 1, 2026 |** [**Apply →**](https://tally.so/r/q4QdXk)  _\
+\
+Community Builders Residency\
+_
 
-Mitra Martin
+_with Odd Table and Jungli_
 
-Edge City Team
+Three weeks for all types of community builders & digital nomads with talks, workshops, long dinners and the rise of solarpunk villages, , hosted by the founders of Odd Table and Jungli. Programming concentrated in week one, then lighter and more social.
 
-Edge Esmeralda
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/689cb2b92c47c0112c820f7d_Patagonia_partner_template_16x9-Regen_web.avif)
 
-July 21, 2026
+[
 
-THE CONSCIOUSNESS RESIDENCY: A RECAP
+LEARN MORE
 
-One month of consciousness research at Edge Esmeralda 2026, told through the residents, the experiments, and the questions that emerged.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Edge City Team
+](https://edgecityindia2026.substack.com/p/announcing-the-community-builders?r=46jwce&utm_campaign=post-expanded-share&utm_medium=web)
 
-Edge Esmeralda
+![Edge City India Creator Residency artwork with a photographer, blue sky, orange clouds, and The Modern Renaissance title](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a84aa6583d75ceaa64336e3_edge-city-india-creator-residency-modern-renaissance.webp)
 
-July 15, 2026
+**Oct 11 – Nov 1, 2026 |** [**Apply →**](https://edgecity.notion.site/Creative-Residency-Edge-City-Modern-Renaissance-3b2d45cdfc598028887bfcb823b0bff6)_\
+\
+Creator Residency\
+_
 
-FROM EXPEDITION TO ECOSYSTEM: A NEW MENTOR RESIDENCY IN BHUTAN
+_with The Modern Renaissance_
 
-Edge City and Pelsung are inviting experienced founders and operators to spend one to two weeks working alongside Bhutanese builders.
+A three-week residency for video creators, writers, and other storytellers to live inside Edge City India and create original work inspired by the people, ideas, and experiments taking shape around them. In collaboration with The Modern Renaissance.
 
-Timour Kosters
+[
 
-Serj Hunt
+LEARN MORE
 
-July 14, 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-EDGE ESMERALDA 2026: MONTH IN REVIEW
+](https://edgecity.notion.site/Creative-Residency-Edge-City-Modern-Renaissance-3b2d45cdfc598028887bfcb823b0bff6)
 
-Four weeks of living, learning, and building together in Healdsburg, California.
+![Edge City India Creator Residency artwork featuring cameras, a microphone, creators, and Goa architecture](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a84aae5d5ba7a02ca8858fc_photo_2026-08-18%2015.53.21.avif)
 
-Edge City Team
+**Oct 1 – 10, 2026 | Bangalore, Goa |** [**Apply →**](https://luma.com/roadtoedge)**_\
+\
+The Road to Edge: Backroad Farm Caravan_**
 
-Edge Esmeralda
+_with Chris Morello & Ashutosh Dhasmana_
 
-July 8, 2026
+A 10-day overland caravan through South India's farms and regenerative villages - 1,000km from Bangalore to Goa, visiting six-plus farms across Mysore, Coorg, Udupi, and Gokarna - landing in Goa exactly as Edge City India begins. For community and eco-village builders, regenerative agriculture practitioners, and anyone who's a nerd for soil, systems, and how villages actually run.
 
-OPTIMISM IS THE MOAT: NOTES FROM ZEE PRIME X EDGE CITY
+[
 
-When the world subsidizes pessimism, optimism trades at a discount. Buy.
+LEARN MORE
 
-Kimberly Adams
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Essay
+](https://edgecityindia2026.substack.com/p/the-road-to-edge-backroad-farm-caravan?r=7jhl3k&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-July 5, 2026
+![Edge City India Creator Residency artwork featuring cameras, a microphone, creators, and Goa architecture](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a88699ce45ed61b36c6f044_photo_2026-08-21%2012.06.53.avif)
 
-WELCOME TO EDGE CITY INDIA
+**Oct 11 - Nov 1, 2026 |** [**Apply →**](https://vynehouse.xyz/#apply)**_\
+\
+Vyne House Residency_**
 
-Applications are open. October 11 – November 1, Mandrem, North Goa.
+A three-week residency for 14 vetted founding creators × indie hackers with one goal: the first 100 users or first $1,000 earned from their product. A typical day at Vyne House involves shipping content, user onboarding calls, and iterating on the product.
 
-Edge City Team
+[
 
-Edge City India
+LEARN MORE
 
-June 30, 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-INTRODUCING THE 2026 ZEE PRIME RESIDENTS
+](https://vynehouse.xyz/)
 
-Meet this year's Zee Prime Residency cohort: deep tech founders stress-testing what they're building with real users, real feedback, and real peers.
+![Edge City India Creator Residency artwork featuring cameras, a microphone, creators, and Goa architecture](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a8c5fc1240bf2f839918021_photo_2026-08-24%2017.13.48.avif)
 
-Edge City Team
+**Oct 11 - Nov 1, 2026  |** [**Apply →**](https://animahouse.lovable.app/apply)**_\
+\
+Anima House_**
 
-Edge Esmeralda
+_with Chris Morello & Ashutosh Dhasmana_
 
-June 7, 2026
+A field building initiative where 8-12 leaders will live and build the future of women's health out loud. Builders and researchers across mental, physical and spiritual health are invited to apply.
 
-MEET THE INFLECTION FELLOWSHIP COHORT AT EDGE ESMERALDA 2026
+[
 
-Meet the people building the magically weird.
+LEARN MORE
 
-Edge City Team
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-June 4, 2026
+](https://animahouse.lovable.app/)
 
-THE CONSCIOUSNESS RESIDENCY AT EDGE ESMERALDA 2026
+![Edge City India Creator Residency artwork featuring cameras, a microphone, creators, and Goa architecture](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a8e53241cb7b9a430b4d72c_photo_2026-08-26%2004.43.11.avif)
 
-A month-long residency at Edge Esmeralda 2026 with the researchers, builders, and practitioners working on how consciousness arises.
+**Oct 28 – 31, 2026  |** [**Apply →**](https://hacker-house-goa-2026.devfolio.co/overview)**_\
+\
+Hackathon & Hacker House Goa_**
 
-Edge City Team
+_with 2:47PM Studio_
 
-Edge Esmeralda
+A four-day builder residency at a private beach resort, where 247 builders selected from 50,000+ applicants ship products with real users, with the rest of the cohort joining virtually. AI × blockchain, with $50K in bounties and 50+ speakers, mentors, and judges on site. Open to anyone with an Edge City India ticket to join in person.
 
-May 22, 2026
+[
 
-INTRODUCING THE 2026 LONG JOURNEY RESIDENTS
+LEARN MORE
 
-Meet this year's Long Journey Residency cohort, building the magically weird before it becomes consensus.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Edge City Team
+](https://hhgoa.com/)
 
-Edge Esmeralda
+![Edge City India Creator Residency artwork featuring cameras, a microphone, creators, and Goa architecture](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a95ff17a4be6727bdb2870c_photo_2026-09-01%2000.21.54.avif)
 
-May 20, 2026
+**Oct 11 - Nov 1, 2026 |** [**See V1 retro →**](https://x.com/JoinEdgeCity/status/2083246167073407316)**_\
+\
+Agent Village 2.0_**
 
-EDGE CITY NEWSLETTER — APRIL 2026
+_with 2:47PM Studio_
 
-24 days to EE26: latest programs, a Bhutan mentor residency, the Agent Village Experiment, and more.
+A three-week live experiment where every resident gets a persistent personal AI agent. V1 at Edge Esmeralda put hundreds of agents into one village: they brokered introductions between residents, informed community treasury decisions, wrote forum posts, and began drafting a constitution, while residents extended them with custom skills, memory systems, and games. V2 puts agents to work: finding you collaborators, negotiating introductions and meeting times on your behalf, organizing real events end to end, and helping the village make shared decisions, with human approval built in for anything consequential. Everything we learn is published openly.
 
-Edge City Team
+[
 
-Monthly Update
+LEARN MORE
 
-May 6, 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-EDGE CITY’S REQUEST FOR EXPERIMENTS
+](https://edgecity.notion.site/Research-Partner-Proposal-Agent-Village-V2-at-Edge-City-India-Shared-3c1d45cdfc5981d7b7bac1e216f3678b)
 
-A call to test new ways of learning, governing, building trust, and living together.
+![Edge City India Creator Residency artwork featuring cameras, a microphone, creators, and Goa architecture](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aa8e5d13722040a3bf15e76_IMG_0724.JPG.avif)
 
-Edge City Team
+**Oct 18 – Nov 1, 2026 |** [**Apply →**](https://docs.google.com/forms/d/e/1FAIpQLSfFEdcn4bP8mDxh-nOYaSm2Kexxr3Brh3kCMx2prbQ5kgMaRA/viewform)**_\
+\
+Ambhasi: AI x Consciousness Residency_**
 
-Timour Kosters
+_with 2:47PM Studio_
 
-Essay
+A two-week residency for researchers, philosophers, designers, and builders at the intersection of digital minds and human flourishing, in collaboration with California Institute for Machine Consciousness.\
+The residency will be holding a program of events for the Edge City community, with a special track exploring what Vedic philosophy can teach us about AI sentience.
 
-May 6, 2026
+[
 
-THE AGENT VILLAGE EXPERIMENT AT EDGE ESMERALDA 2026
+LEARN MORE
 
-A month-long live experiment in Human-Agent Coordination: can personal AI agents help a real community deliberate, coordinate, and govern better under real social stakes?
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Timour Kosters
+](https://edgecityindia2026.substack.com/p/ambhasi-a-consciousness-x-ai-research?r=46jwce&utm_campaign=post-expanded-share&utm_medium=web)
 
-Edge Esmeralda
+![Edge City India Creator Residency artwork featuring cameras, a microphone, creators, and Goa architecture](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aa838e640d24242eaf6e535_Residency%20Card%20Odin%208%201.avif)
 
-April 29, 2026
+**October 30, 2026 · Edge City India, Goa\
+‍****_\
+Project Odin Workshop_**
 
-THREE YEARS OF THE CRYPTO ACADEMIC CAMP
+_In collaboration with the Ethereum Foundation Funding Coordination team_
 
-The third Crypto Academic Camp is happening this June. One week in the Sonoma County redwoods, working on hard problems together.
+An afternoon working session on sustainable funding for open-source software and digital infrastructure. Raul Romanutti will share lessons from Project Odin, a program helping teams build credible paths toward long-term sustainability. We’ll explore funding paths, potential customers, and organizational choices through a short talk, practical exercises, and discussion of real project examples.
 
-Edge City Team
+[
 
-April 17, 2026
+LEARN MORE
 
-EDGE CITY NEWSLETTER — MARCH 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Open roles, a new deep tech residency, a kids creative residency, a founder who raised $250K in a month, and the countdown to Edge Esmeralda 2026. ͏
+](https://edgecity.notion.site/Research-Partner-Proposal-Agent-Village-V2-at-Edge-City-India-Shared-3c1d45cdfc5981d7b7bac1e216f3678b)
 
-Edge City Team
+![Edge City India Creator Residency artwork featuring cameras, a microphone, creators, and Goa architecture](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6abd6e61a6ff3df0fd84cfb8_photo_2026-09-30%2022.17.07.avif)
 
-Monthly Update
+**Oct 11 – Nov 1, 2026\
+‍****_\
+Light DAO + SingularityNET Residency_**
 
-April 6, 2026
+A three-week residency for entrepreneurs, technologists, builders, investors and other innovators committed to beneficial technology, conscious leadership, human sovereignty and business for good.\
+Hosted by Light DAO and  SingularityNET, global communities advancing these values through connection, collaboration and action.\
+Discover collaborations, build with SingularityNET's technology, and potentially qualify for grants supporting aligned projects.
 
-ANNOUNCING: THE ZEE PRIME RESIDENCY AT EDGE ESMERALDA 2026
+[
 
-A month-long testing ground for deep tech founders who need real users, real feedback, and real peers to stress-test what they're building.
+LEARN MORE
 
-Telamon Ardavanis
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-Edge Esmeralda
+](https://luma.com/LightDAOEdgeResidency)
 
-March 20, 2026
+## Village Overview\
+& Map
 
-ANNOUNCING THE INFLECTION FELLOWSHIP 2026 AT EDGE ESMERALDA
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aae9e3a9e69e8e09682d992_photo_2026-09-19%2016.37.07.avif)](https://www.edgecity.live/india26#)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aaea7328e67a384815a7f7e_photo_2026-09-19%2016.37.16.avif)](https://www.edgecity.live/india26#)
 
-A month-long fellowship for exceptional builders under 25, at the intersection of frontier tech, science, and society.
-No items found.
+## Supporting Partners
 
-March 10, 2026
+Edge City India is a collective effort. The support of our partners and attendees makes the villages possible and accessible, giving back to a community that’s actively shaping the future. If you want to be a partner, reach out to telamon@edgecity.live
 
-ANNOUNCING: THE LONG JOURNEY RESIDENCY AT EDGE ESMERALDA 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3f0b3418e9501a9b7d36a1_rooster-tile-alpha%201.avif)
 
-A month-long launchpad for founders building the magically weird before it becomes consensus.
+**Build3 / Startup ecoāshrām:** One of India's leading purpose-driven startup accelerators, founded with Varun Chawla (co-founder of 91springboard, one of India's largest coworking networks), with a network of 1,600+ founders and 40+ funded startups. Through Startup Ecoāshrām, they're building a regenerative startup campus in the Western Ghats—and are a key reason Edge City chose Goa. [More Info.](https://www.build3.org/startup-eco-ashram)
 
-Timour Kosters
+**The Circle:** Our main operational partner and the center of the village. One of India's leading coworking networks with campuses across the country - including India's first work-from-the-beach coworking space in Goa - and home to The Circle Founders Club, India's leading cross-border acceleration platform spanning 18+ geographies. Backed by a family office spanning hospitality, real estate, and events. [More info.](https://www.thecircle.work/)
 
-March 5, 2026
+**LocalhostHQ:** Our media lab partner - a multidisciplinary lab for researchers, artists, and founders building India's frontier-tech storytelling scene. They run India's largest AI film festivals, including the one at the Royal Opera House Mumbai, with a flagship campus in Bangalore. [More info.](https://www.localhosthq.com/)
 
-EDGE CITY NEWSLETTER — FEBRUARY 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3f0b3382e75d9e29ef0525_stickers%202.avif)
 
-Esmeralda updates, NYT mention, free research tools, Bhutan's new nomad visa and more!
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6ab156143a2596e90c501bab_Microsoft-logo_rgb_c-gray.png)](https://www.microsoft.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8fc_Cosmos_Logo_AW_RGB_Primary%20Logo_Dark%20Blue%20\(2\)%201.png)](https://www.cosmos-institute.org/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6ab2bb8257f8db3d51600a7a_build3.png)](https://www.build3.org/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a4322c1b3745ab147fe79a6_Startup.png)](https://startupecoashram.build3.org/)
 
-Timour Kosters
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f897_LongJourney_logo.avif)](https://www.longjourney.vc/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a864aa33e554f1ec6a5b666_elevenlabs-logo-black.png)](https://elevenlabs.io/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a8dc459f1798ce8cc473505_photo_2026-08-25%2018.30.48%201.png)](https://wisprflow.ai/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aa1c6caf4e5f8ffe64b5ebb_odyssey.png)](https://www.odyssey.build/)
 
-Monthly Update
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6ab29b06f9d7a9a6ad5f6240_forge.png)](https://www.forge.inc/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a9b031c17a2481e5eac6893_wordmark-dark.svg)](https://www.sarvam.ai/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aad1875c3e878bc71ac014d_ChatGPT%20Image%20Sep%2018%2C%202026%2C%2012_52_56%20PM.avif)](https://www.thecircle.work/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f885_human.tech_logo_white%201.avif)](https://human.tech/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a864b4646cb341900a31225_devcon-logo-png_seeklogo-491590%201.png)](https://devcon.org/en/)
 
-March 2, 2026
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a864c23cdf787eccb7c87a0_goa.png)](https://www.startup.goa.gov.in/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a4191eee9225418871966df_Localhost%20HQ.avif)](https://www.localhosthq.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a9546eff386d44011236122_tulsea%201.png)](https://tulsea.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6aa12e263eaebf951a2133b3_Layer_1.png)](https://tulsea.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a4323260889515e7f7e75ab_The%20Circle%20Logo%20\(Feb%202023\)%20for%20Lighter%20Backgrounds%202.png)](https://www.thecircle.work/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a43246963d3384e9dac1924_QvUPxKuQy1JszFj2dS5UAdRaozU%201.png)](https://www.thecirclefc.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6ab29bb22a8804c7f91bb291_GOA.png)](https://goa-tourism.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6ab6c3d440072e1e171aa2f0_nomad.png)](https://nomadgao.com/)
 
-DEMOCRATIZING SCIENCE AT EDGE CITY
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8c3_LOCKUP_HORIZONTAL_2D_LIGHT.avif)](https://cursor.com/home)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f891_protocol-labs_logo.avif)](https://www.protocol.ai/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f879_Geo_logo.avif)](https://www.geobrowser.io/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8d4_960px-Vector-Foresight-Logo-dark-blue.svg.png)](https://foresight.org/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f89f_Enveda_logo.avif)](https://enveda.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f88d_TheConsciousness_logo.avif)](https://www.cofo.org/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f87d_%5BWorld%5D%20Logo-Black-RGB%203.avif)](https://world.org/)
 
-Announcing a partnership with Alethios to bring real research tools to our villages
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8f9_MaysFamily.logo.png)](https://maysfamilyfoundation.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8df_Black_Logo_Mochi.png)](https://joinmochi.com/lp/marketplace)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8a3_Toku_Logo%201.avif)](https://tokuhealth.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f885_human.tech_logo_white%201.avif)](https://human.tech/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f881_Herasight_logo.avif)](https://www.herasight.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f906_svgviewer-png-output.png)](https://remind.vc/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f90a_BlueDot_Impact_Logo.svg)](https://bluedot.org/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f90b_circleback%20\(3\)%201.png)](https://circleback.ai/)
 
-Katherine Jones
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f889_Jhourney_logo.avif)](https://jhourney.io/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8a6_Single%20Thread.avif)](https://singlethreadfarms.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f89c_Safety%20Wing.avif)](https://safetywing.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8b8_Healdsburg_logo.avif)](https://www.healdsburg.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8f8_Spirittechcollective%201.svg)](https://www.spirit-tech-collective.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f8ef_logo-horizontal-black.png)](https://www.localhosthq.com/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f901_Renaissance%2BPhilanthropy_Full_Full%2BCharcoal_RGB.png.webp)](https://www.renaissancephilanthropy.org/)[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a86435a3ed95081ee51f90f_Rho-Logo-Black.png)](https://www.rho.co/)
 
-Essay
+## From the community
 
-February 17, 2026
+On what it feels like to be a part of Edge City
 
-ON THE EDGE OF THE WORLD: REFLECTIONS ON ANTI-FRAGILITY
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3f0b3575d5f38875775f57_stickers%204.avif)
 
-A reflection on Edge City Patagonia - anti-fragility, uncertainty, and finding home at the edge of the world.
+On what it feels like to be part of Edge City.
 
-Ashe Magalhaes
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f74c_speakers-cutout-Vitalik-EE.webp)
 
-Essay
+**Vitalik Buterin**
 
-February 16, 2026
+Founder, Ethereum
 
-REGEN HAUS AT EDGE CITY 2025: BUILDING REGENERATIVE COMMUNITY IN PATAGONIA
+"Edge City did an excellent job integrating diverse participants from all kinds of background: technical and non-technical, crypto, biotech and culture, young and old. **I learned a lot from my time there."\**
 
-The second activation of the Regen Pathway 2025
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f752_speakers-cutout-xochi-cazador-EE.webp)
 
-NetX State
+**Xochi Cazador**
 
-Essay
+COS, Optimism Foundation
 
-February 10, 2026
+"I was so inspired by the caliber of people, different projects and ambitious concept. **It shifted my perspective and reminded me of how important this industry is in helping make a positive change in the world**."
 
-EDGE CITY NEWSLETTER — JANUARY 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f75e_speakers-cutout_0001_Black-%26-White-52.webp)
 
-Hiring for Edge Esmeralda 2026, housing guide, apply as a residency lead, and more!
+**Moxie Marlinspike**
 
-Timour Kosters
+Founder, Signal
 
-Monthly Update
+"Edge Esmeralda's ability to bring people together in temporary **spaces that yield lifelong relationships — as well as life changing conversations and discoveries** — makes me excited to see how that same energy imbues the permanent village Esmeralda is building."
 
-February 5, 2026
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f76a_speakers-cutout_0003_Black-%26-White-49.webp)
 
-THE D/ACC RESIDENCY AT EDGE CITY PATAGONIA 2025
+**Juan Benet**
 
-What was learnt & built during this transformative one-month program at Edge City Patagonia 2025?
+Founder, Protocol Labs
 
-Sasha Zakharova
+**"Edge City is unparalleled in its ability to cultivate multi-disciplinary ecosystems** that accelerate progress in frontier industries like Cryptography, Neurotech and Longevity."
 
-Essay
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f740_speakers-cutout-liam-EE.webp)
 
-January 22, 2026
+**Liam Horne**
 
-RECAP: THE EDGE CITY FELLOWSHIP, PATAGONIA 2025
+World, ETHGlobal Co-Founder
 
-From mathematical frontiers to inclusive robotics: What happens when five high-agency builders live and work together in the Andes.
+"It's an eclectic group of optimists that push each other to learn and grow in their careers and live healthy and more meaningful lives. **I love spending time with the people in the Edge City community**."
 
-Timour Kosters
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f73a_speakers-cutout-laura-EE.webp)
 
-Essay
+**Laura Deming**
 
-January 22, 2026
+Founder & CEO, Cradle
 
-STILL IN EDGE CITY PATAGONIA - PHOTO ESSAY
+"We could not have done this Longevity workshop with top researchers without Edge City. **This is going to be one of those moments that people talk about in the future where so many impactful things were conceptualized."**
 
-29 days inside a pop-up city in San Martín de los Andes—part social experiment.
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f746_speakers-cutout-mark-tyneway-EE.webp)
 
-Mäki Ńkàtà
+**Mark Tyneway**
 
-Essay
+Co-Founder, OP Labs (Optimism)
 
-January 6, 2026
+**"I never realized the possibility of social innovation until being part of the Edge community.** There is no way that the way we organize our communities today is the best that civilization has to offer. We can dramatically improve our communities and quality of life through some space for experimentation and first principles thinking."
 
-EDGE CITY 2025 COMMUNITY LETTER
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f758_speakers-cutout_0000_Black-%26-White-51.webp)
 
-From Container to Catalyst - What We Learned in 2025
+**Justin Melillo**
 
-Timour Kosters
+Founder & CEO, Monaverse
 
-Edge City Team
+**"Edge Esmeralda was one of the most valuable uses of my time last year** - personally, professionally, and creatively.\
+\
+As a founder, I tested my product with real users and ran a hackathon. As an artist, I revived my drawing practice and am now publishing a book. And as a human, I found lifelong friends and a community building toward a better future."
 
-Essay
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f770_speakers-cutout_0002_Black-%26-White-50.webp)
 
-December 29, 2025
+**Rania Hashim**
 
-EDGE CITY PODCAST - NORMAN OHLER: BLITZED, TRIPPED, AND HOW DRUGS SHAPED HISTORY
+Edge City Fellow
 
-A fireside chat at Edge City Patagonia
+"At the crossroads I was at with my trajectory, being a fellow at Edge City was **one of the most impactful things I could've done**.\
+\
+**Edge City brought out a side of me that I really liked**. It brought out a side of me that was curious and open to trying new, weird experiences, hosting dinners and discussing theories on reincarnation over group hikes, all while working on my own projects."
 
-Edge City Team
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/68376b3655e98465d9c9f764_speakers-cutout_0004_Black-%26-White-48.webp)
 
-Podcast
+**Adam Marblestone**
 
-December 22, 2025
+Convergent Research
 
-THE POETICS OF EDGE CITY
+"The neurotech workshop I attended was **extremely high signal and talent dense.** I could not have had that discussion anywhere else."
 
-Anecdotes from a Patagonian popup village
+## Coming with kids?
 
-Emma Murf
+### Edge Tomorrow
 
-Essay
+Edge Tomorrow is the intergenerational creative program for children and teens inside Edge City India. Bring your child, niece, nephew, grandchild, or another young person you care about to spend one or three weeks building and participating in the village alongside you.
 
-December 19, 2025
+Kids have a project environment of their own, supported by facilitators and the founders, artists, builders, and technologists around them. Projects grow from their interests: an imaginary city, a business, an event, a film, or a giant installation. The goal is to give young people an Edge City experience of their own, building agency, friendship, mentorship, and resilience along the way.
 
-HOW I PUSHED AI TO THE FRONTIER OF MATHEMATICS
+Recap of the first Edge Tomorrow residency · California, 2026
 
-Building an AI pipeline to tackle Erdős problems at the Edge City Patagonia Fellowship
+[Read the full recap ↗](https://www.edgecity.live/blog/edge-tomorrow-a-four-week-creative-residency-for-families)
 
-Brian Kelleher
+32 kids from 22 families created a 66+ structure cardboard city, three kid-run businesses, giant builds, an escape room, kid-produced events, and cross-age friendships.
 
-Essay
+Ages
 
-December 18, 2025
+Ages 4–13 join the core program. Teens 14–17 can participate and take on meaningful leadership roles.
 
-MANIJA - ON MY TIME AS A FELLOW AT EDGE CITY PATAGONIA 2025
+Family participation
 
-Seeing pop-up cities as training grounds (and personalization for each hero’s journey), prototyping a better future…
+This is an intergenerational community, not conventional drop-off childcare. Parents and caregivers bring their creativity to shared, multi-age projects and connect with other creative families.
 
-Rucha Benare
+Child and teen passes
 
-Essay
+**All three weeks: $930**\
+**One week: $465**
 
-December 18, 2025
+How to join
 
-WRONG PROBLEM, RIGHT COMMUNITY
+Include your children in your Edge City India application. Once your family is accepted, add their passes at checkout and meet briefly with the Edge Tomorrow team before the program.
 
-How a plan to train a sign language model became a lesson in humility and co-creation.
+[Apply to Edge City India ↗](https://portal.edgecity.live/portal/edge-india)
 
-Maxwell Opondo
+## FAQ
 
-Essay
+What is Edge City?
 
-December 18, 2025
+Edge City is a society incubator. We bring together builders, researchers, artists, and founders working at the frontier of technology, science, and culture to live and create together in popup villages.
 
-FROM BURNOUT TO INTENTIONAL BUILDING
+‍
 
-How a month at Edge City Patagonia reshaped my relationship with ambition and health.
+Since 2023 we've hosted nine villages around the world, from Edge Esmeralda in California to Edge City Lanna in Thailand and Edge City Patagonia in Argentina, convening more than 12,000 people. Each village is a place to prototype new ways of living, working, and flourishing together.
 
-Akshaya Dinesh
+What is Edge City India?
 
-Essay
+Edge City India is a three-week popup village on the beaches of Mandrem, North Goa, running October 11 to November 1, 2026.
 
-December 18, 2025
+‍
 
-CULTURAL FINGERPRINTS IN A NETWORKED WORLD
+We'll gather hundreds of founders, builders, researchers, scientists, and creatives to live, work, and build together: coworking, daily programming and salons, 8 to 10 focused residencies, and a rhythm of movement, good food, and community. It's our first village in India, and the next chapter in Edge City's journey of building a global community.
 
-Rhea's reflections from the Edge City Patagonia Fellowship on building technology for diaspora, culture, and belonging.
+Why Goa?
 
-Rhea Kapur
+Goa is one of the most beautiful and welcoming places in India: warm, walkable, and built for both deep work and real connection. We're basing the village on Mandrem Beach in the quieter stretch of North Goa, with The Circle, a beach-facing coworking hub, at the center. October into November is the start of Goa's dry season, right after the monsoon: lush green landscapes, warm ocean, and clear days.
 
-Essay
+There's a deeper reason for India, too. It's home to one of the world's largest and fastest-growing builder communities, and to living traditions (Ayurveda, yoga, and the study of consciousness) that few other places can offer. The timing is deliberate: Edge City India lands in the heart of the autumn builder season, following on from several conferences in South East Asia and into Devcon Mumbai.
 
-December 18, 2025
+Who should come?
 
-AGARTHA HOUSE AT EDGE CITY PATAGONIA
+Edge City India is for people building at the edges: technologists, founders, researchers, scientists, artists, writers, and community builders who want a few weeks of focused work alongside an inspiring, multidisciplinary group.
 
-Art, tech, love, and life at our first co-living residency
+‍
 
-Jeremy Dela Rosa
+Whether you're shipping a project, exploring a new direction, or looking to connect with peers from around the world, you'll find your people here. It's open to all ages, and we welcome families.
 
-Essay
+How do I attend?
 
-December 15, 2025
+-   Apply through the [link on this page.](https://portal.edgecity.live/portal/edge-india)
+-   Once you're accepted, you'll get a link to purchase your ticket, and your spot is confirmed when you pay.
+-   Choose to join a residency or attend solo, and arrange your accommodation (we provide a housing sheet and Telegram group to help).
+-   Book your flights to Goa.
 
-EDGE CITY NEWSLETTER — DECEMBER 2025
+Apply early, since prices step up over time and the village fills as the dates approach.
 
-Edge City Patagonia recap; Edge Esmeralda 2026; We're hiring!
+How do tickets work?
 
-Timour Kosters
+Full details are shared in the dedicated [blog post here](https://edgecityindia2026.substack.com/p/tickets-for-edge-city-india-2026).
 
-Monthly Update
+What's included in the ticket?
 
-December 4, 2025
+-   Access to all Edge City programming: talks, workshops, salons, demo days, and community gatherings
+-   Use of the coworking space at The Circle
+-   Wellness offerings, including group workouts
+-   Village-wide social events, cultural outings, and weekend adventures
 
-EDGE CITY PATAGONIA 2025: MONTH IN REVIEW
+What's not included?
 
-Four weeks of building, living, and co-creating together in Argentina.
+Accommodation and most meals are not included, so you arrange your own stay and cover day-to-day food. We help with discounted partner-hotel rates, a housing coordination sheet, and community meals for special occasions.
 
-Edge City Team
+Where should I stay?
 
-Essay
+Tickets do not include accommodation; you need to organize your own housing. Our recommended community hub is: [**Riva Beach Resort**.](https://forms.fillout.com/t/eGE4xizEwbus)\
+‍
 
-December 1, 2025
+Riva Beach Resort is the main gathering place for most participants. It's a 4-star beachfront property set where the Arabian Sea meets the Mandrem rivulet, with sea-facing rooms and river-view cottages, multiple pools, a spa, and a restaurant. It sits directly on Mandrem Beach, a few steps to the sand. [**Book at Riva here!**](https://forms.fillout.com/t/eGE4xizEwbus)
 
-THE 2025 EDGE CITY PATAGONIA FELLOWS
+What about food and meals?
 
-Introducing five young builders reshaping the frontiers of technology, science, and culture.
+Goa has an incredible food scene, from beach shacks to world-class restaurants, all walkable or a short ride away. At the village, The Circle's terrace and restaurant will be a daily gathering spot, and we'll host community dinners for special occasions. Residency groups often cook and eat together too.
 
-Edge City Team
+Do I need a visa?
 
-Essay
+Almost all non-Indian attendees need a visa. Most nationalities can apply online for an e-Tourist Visa - apply through Naytive, which we highly recommend. The official government portal is notoriously buggy and unreliable.\
+‍
 
-October 23, 2025
+**• Naytive (RECOMMENDED):** [**https://naytive.com/edgecityvisa**](https://naytive.com/edgecityvisa)
 
-SAVE THE DATE FOR EDGE ESMERALDA 2026!
+• **Gov Website:** [https://indianvisaonline.gov.in/](https://indianvisaonline.gov.in/)
 
-Edge Esmeralda is returning to Healdsburg, CA next year!
+\
+Get the 1-year, multiple-entry option. The 30-day version's clock starts the day you land, leaving little room around a 21-day Edge City - and Diwali falls on Nov 8, so we'd encourage you to stay on.
 
-Edge City Team
+Processing is usually around 72 hours, but apply early. Rules vary by nationality and change over time - please feel free to reach out if you're having any issues.
 
-Essay
+‍
 
-October 17, 2025
+**If you have visa related questions please join our** [**"Housing & Visa" TG group chat**](https://t.me/+QIGTcyKbP0RjNDQx)
 
-EDGE CITY NEWSLETTER — OCTOBER 2025
+‍
 
-Edge City Patagonia's latest updates, Bhutan recap, Timour's talk at the Network State Conference, and more!
+What's the weather like?
 
-Timour Kosters
+October and November are a beautiful time in Goa: the monsoon has passed and the dry season is beginning. Expect warm, tropical weather: sunny days, lush green surroundings, and warm ocean water. Pack light, breathable clothing, swimwear, and sun protection.
 
-Monthly Update
+Can I attend without joining a residency?
 
-October 8, 2025
+Yes. Many people attend solo or in small groups. You're welcome to join one of the residencies once you arrive, or simply plug into the wider village, where coworking, programming, and community life are open to everyone.
 
-BHUTAN AND THE BLUEPRINT FOR A WISE CITY
+Can I start or host a residency?
 
-A recap of Edge City Bhutan: an 8-day exploration of Bhutan's futuristic experiment in mindful development
+Residencies are self-organized communities of around 5 to 50 people built around a shared theme. If you'd like to start one, mention it in your application or reach out to the team.
 
-Timour Kosters
+Can I bring my partner or family?
 
-Essay
+Yes. Partners, children, and grandparents are welcome. Edge City India is designed as an intergenerational village, and Edge Tomorrow is its creative program for children and teens. Ages 4–13 join the core environment; teens 14–17 can participate and take on leadership roles. The youngest participants should be able to manage basic bathroom and feeding needs independently. This is a parent-participation community rather than conventional drop-off childcare. Parents and caregivers remain part of the environment and often become collaborators, connectors, or project hosts. Child and teen passes are $930 for all three weeks or $465 for one week. Include your children in the Edge City India application. Once accepted, add their passes at checkout and meet briefly with the Edge Tomorrow team before the program.
 
-October 7, 2025
+What's the refund and transfer policy?
 
-WOULD YOU LIVE WITH A BENEVOLENT AI? 22 PEOPLE JUST SAID 'YES'
+Tickets are non-refundable, but you can change your dates or transfer your ticket to someone else.
 
-Reimagining AI as a force for good.
+Do you offer ticket refunds if my plans change and I can’t attend?
 
-Jeremy Dela Rosa
+We do not offer refunds. You are able to change the dates of your ticket to a different week. If you cannot attend but find someone to take your ticket, we’re happy to transfer it. Please email [info@edgecity.live](mailto:sophie@edgecity.live) with the new attendee’s name and email address.
 
-Essay
+‍
 
-October 1, 2025
+What is your press & media policy? 
 
-WHAT CAN A WEB3 POPUP CITY TEACH US? BY ALI SERAG
+The full media policy [can be found here](https://edgecity.notion.site/Edge-City-Media-Policy-Shared-263d45cdfc59803cbf30f181bb164955).
 
-A Look at Edge City Lanna.
+‍
 
-Ali Serag
+Community Guidelines
 
-Essay
+##### **Our Foundation**
 
-September 16, 2025
+Edge Cities are community gatherings focused on genuine connections, collaboration, and co-creation. The magic happens when people feel safe sharing challenges and are generous with knowledge.
 
-EDGE CITY PATAGONIA: RESIDENCIES, ACCOMMODATION, AND TRAVEL TIPS
+‍
 
-The latest update on our popup village in San Martín de los Andes.
+Our guiding principle: _Be interested and interesting._
 
-Timour Kosters
+When sharing, ask yourself: _"Am I contributing to a conversation or trying to start a transaction?"_
 
-Essay
+‍
 
-September 13, 2025
+##### **Core Values**
 
-RECAP: THE LONG JOURNEY RESIDENCY AT EDGE ESMERALDA 2025
+**Co-Create & Build Together** - We're here to create, not just consume. Focus on tangible creation and real-world experimentation.
 
-What was built and what we learned during this monthlong program.
+**Push the Edge** - Try new things and experiment on projects that might seem absurd but could change the world. Stay curious vs judgmental.
 
-Timour Kosters
+**Healthy by Default** - Daily movement and wellbeing practices. Commit to 30 minutes of activity and fuel your body with wholesome food. Leave healthier than when you arrived.
 
-Essay
+**Multigenerational** - From youngest to most seasoned participants, we celebrate the full spectrum of human experience and intergenerational learning.
 
-September 10, 2025
+**Multidisciplinary** - Breakthroughs happen where different fields intersect. We weave together diverse expertise for unexpected collaborations.
 
-LIVING AT THE EDGE OF NORMAL BY TELAMON ARDAVANIS
+‍
 
-Reflecting on my Accelerating Life Amid the Pursuit of Accelerating Human Flourishing.
+##### **Community-First Approach**
 
-Telamon Ardavanis
+**What We Love 💚**
 
-Essay
+-   Share your work authentically with your "why," process, and lessons learned
+-   Listen for synergies, offer expertise, and connect people who could benefit from knowing each other
+-   Share insights, methodologies, and resources freely
 
-August 28, 2025
+**What Doesn't Serve Our Community 👀**
 
-ANNOUNCING THE SECOND COHORT OF INFLECTION GRANTS
+-   Sales-focused behavior or pitching products/services
+-   One-way broadcasting without genuine interest in dialogue
 
-Compute Edition by Prime Intellect.
+_When we foster space for vulnerability and encourage sharing, amazing things happen. Help us preserve the magic by choosing community over commerce._
 
-Edge City Team
+‍
 
-Essay
+##### **Cultural Norms**
 
-August 26, 2025
+**Welcome the Unexpected** - Magic emerges in unplanned moments. Stay open to stepping outside your comfort zone.
 
-EDGE CITY NEWSLETTER — AUGUST 2025
+**Embrace JOMO** - Make deliberate choices about where to invest your energy, then show up wholeheartedly.
 
-Updates from Edge City Patagonia, apply to the Edge City Fellowship, and a new SHIFT Grants cohort
+**Show Up With Purpose** - Engage deeply, volunteer, ask insightful questions, share work-in-progress.
 
-Timour Kosters
+**Navigate Differences Thoughtfully** - Approach disagreements with curiosity, listen actively, choose compassion.
 
-Monthly Update
+**Honor Our Host Community** - We're guests in Mandrem and Goa. Engage respectfully with local customs and support neighborhood businesses.
 
-August 22, 2025
+‍
 
-THE FUTURE OF SCIENCE, THE JOY OF COMMUNITY
+##### A Culture of Giving Back
 
-How the Edge City Fellowship gave me space to reimagine science and a reminder of what truly matters.
+Everything at Edge exists because the community makes it possible. Your ticket, time, and contributions make this community feel alive. Support the experience you're enjoying and help others do the same. If you see someone who might not be aware of our guidelines, feel empowered to share them. We build this together, and it works when we all pitch in.
 
-Yogya Kalra
+‍
 
-Essay
+## PRINCIPLES
 
-August 21, 2025
+Our villages are shaped by four principles:
 
-CHOOSE YOUR OWN (POPUP CITY) ADVENTURE BY DENISA LEPADATU
+Co-Create and Build
 
-1 month at Edge City Lanna, the frontier of human flourishing.
+Healthy by Default
 
-Denisa Lepadatu
+Multigenerational
 
-Essay
+Multidisciplinary
 
-August 11, 2025
+# Co-Create and Build
 
-WORLD BUILDER RESIDENCY 2025
+At Edge City, we’re focused on building, moving beyond mere consumption of knowledge. The emphasis is on hands-on applications and experiments, with the goal of fostering new technologies, cultures, ideas, and organizations during our month together.
 
-A look at what we built together.
+# Healthy by Default
 
-Edge City Team
+Our village promotes health and longevity as a default. This includes organized community workouts, nutritious meals made from local organic ingredients, weekly farmers markets, and partnerships with local restaurants to minimize seed oil use. We aim for all participants to leave healthier than they arrived.
 
-Essay
+# **Multigenerational**
 
-August 1, 2025
+Our community will include everyone from toddlers to centenarians, fostering an environment where different life stages interact and learn from each other, breaking away from the typical age-segregated settings.
 
-HOW I SPENT 720 HOURS AS AN EDGE ESMERALDA FELLOW
+# **Multidisciplinary**
 
-Building Cloud Esmeralda, a Mixed Initiative Creative Interface, and a few AI-driven projects.
+We believe that there is huge potential for breakthroughs at the intersections of disciplines. Edge City is designed to foster collaboration between people with diverse expertise—scientists, artists, engineers, urban planners, philosophers, mechanics, and beyond.
 
-Ivy Zhang
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a419585205095e38eb16cc5_Frame%2043.avif)
 
-Essay
+**Focus on Creation**
 
-July 30, 2025
+At Edge Esmeralda, we’re focused on building, moving beyond mere consumption of knowledge. The emphasis is on hands-on applications and experiments, with the goal of fostering new technologies, cultures, ideas, and organizations during our month together.
 
-EXPLORING CONSCIOUSNESS AT EDGE ESMERALDA
+‍
 
-Making a map of the mind.
+**Healthy by Default**
 
-Jane Gatsby
+Our village promotes health and longevity as a default. This includes organized community workouts, nutritious meals made from local organic ingredients, weekly farmers markets, and partnerships with local restaurants to minimize seed oil use. We aim for all participants to leave healthier than they arrived.
 
-Essay
+‍
 
-July 25, 2025
+**Multigenerational**
 
-A REFLECTION: MONTH AT EDGE ESMERELDA
+Our community will include everyone from toddlers to centenarians, fostering an environment where different life stages interact and learn from each other, breaking away from the typical age-segregated settings.
 
-My experience as an Edge City Fellow.
+‍
 
-Janet Shin
+**Multidisciplinary**
 
-Essay
+We believe that there is huge potential for breakthroughs at the intersections of disciplines. Edge Esmeralda is designed to foster collaboration between people with diverse expertise—scientists, artists, engineers, urban planners, philosophers, mechanics, and beyond.
 
-July 21, 2025
+‍
 
-WHAT EDGE ESMERALDA TAUGHT ME ABOUT EXPLORATION
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/66b1dc2e893d609f5e3d5efa_ec_lockup_wht.svg)
 
-Reflections on the Edge City Fellowship.
+[![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3aace5f9f790526bd1dc8c_EdgeCity-Logo-Black.avif)](https://www.edgecity.live/)
 
-Minh (Anh) Nguyen
+✈️ Heads up
 
-Essay
+Most non-Indian attendees need a visa to enter India.\
+Apply early through Naytive (our recommended visa partner): [https://naytive.com/edgecityvisa](https://naytive.com/edgecityvisa)
 
-July 17, 2025
-
-WELCOME TO EDGE CITY PATAGONIA
-
-Applications are open. Connect and build for a month in an awe inspiring mountain town in the Andes.
-
-Edge City Team
-
-Essay
-
-July 16, 2025
-
-ON THE (DECIDEDLY PLEASANT) COMFORTS OF THIS STRANGE POPUP VILLAGE
-
-An Edge Esmeralda retrospective.
-
-Jason Hausenloy
-
-Essay
-
-July 11, 2025
-
-EDGE CITY NEWSLETTER — JULY 2025
-
-Edge City Bhutan, Edge City Patagonia, & reflections on Edge Esmeralda.
-
-Timour Kosters
-
-Monthly Update
-
-July 10, 2025
-
-EDGE ESMERALDA 2025: MONTH IN REVIEW
-
-Four weeks of living, learning, and building together in Northern California.
-
-Edge City Team
-
-Essay
-
-June 30, 2025
-
-ANNOUNCING OUR FIRST INFLECTION GRANTEES
-
-Five early-stage builders working at the frontiers of health, climate, biotech, and materials.
-
-Edge City Team
-
-Essay
-
-June 26, 2025
-
-LIVING ON THE EDGE BY ADAM LEWIS
-
-Learning to build the future from others building at the edge of society's frontiers.
-
-Adam Lewis
-
-Essay
-
-June 26, 2025
-
-EDGE CITY PODCAST: AUDREY TANG ON PLURALITY AND DIGITAL DEMOCRACY
-
-A Fireside Chat at Edge Esmeralda.
-
-Edge City Team
-
-Podcast
-
-June 19, 2025
-
-EDGE CITY NEWSLETTER — JUNE 2025
-
-Announcing Edge City Patagonia, updates on Edge City Bhutan & vibes from Edge Esmeralda.
-
-Timour Kosters
-
-Monthly Update
-
-June 5, 2025
-
-A NEW WAY TO BACK BOLD, LONGTERM PROJECTS
-
-We're joining Long.xyz as a verified community to help launch meaningful projects into the world.
-
-Edge City Team
-
-Essay
-
-May 28, 2025
-
-EDGE CITY NEWSLETTER — MAY 2025
-
-Final updates on Edge Esmeralda & applications for Edge City Bhutan are now open!
-
-Timour Kosters
-
-Monthly Update
-
-May 23, 2025
-
-INTRODUCING THE LONG JOURNEY RESIDENTS
-
-Meet the residents of the Long Journey x Edge Esmeralda program building the improbable into reality.
-
-Edge City Team
-
-Edge Esmeralda
-
-May 22, 2025
-
-WHAT IS A POPUP VILLAGE?
-
-Popup villages, explained simply.
-
-Carolina Sculti
-
-Essay
-
-May 14, 2025
-
-EDGE CITY PODCAST: KEVIN OWOCKI & RENA O'BRIEN
-
-From Gitcoin to Allo: The Case for Onchain Capital Coordination.
-
-Edge City Team
-
-Podcast
-
-May 12, 2025
-
-EDGE CITY NEWSLETTER — APR. 2025
-
-Long Journey Residency, Edge Esmeralda, and a trip to Bhutan.
-
-Timour Kosters
-
-Monthly Update
-
-April 23, 2025
-
-EDGE CITY SOUTH AFRICA RECAP
-
-A 10-Day Focused Exploration of Africa's Innovation Ecosystem.
-
-Edge City Team
-
-Essay
-
-April 18, 2025
-
-INTRODUCING: THE LONG JOURNEY RESIDENCY AT EDGE ESMERALDA 2025
-
-A one-month launchpad for magically weird potential founders who are building the absurd today before it becomes consensus tomorrow.
-
-Edge City Team
-
-Edge Esmeralda
-
-April 9, 2025
-
-EDGE ESMERELDA RETROSPECTIVE BY SAM WOLF
-
-How Pop-Up Villages Are Incubating Meaningful Community.
-
-Sam Wolf
-
-Essay
-
-March 24, 2025
-
-EDGE CITY NEWSLETTER — MAR. 2025
-
-Edge City South Africa, Edge Esmeralda, and Grants Programs.
-
-Timour Kosters
-
-Monthly Update
-
-March 18, 2025
-
-EDGE CITY AUSTIN RECAP
-
-A Six-Day Unconference in Austin.
-
-Edge City Team
-
-Edge City Austin
-
-March 11, 2025
-
-GRANTS AND FELLOWSHIPS
-
-Empowering builders and researchers dedicated to accelerating human flourishing.
-
-Edge City Team
-
-March 4, 2025
-
-EDGE CITY NEWSLETTER — FEB. 2025
-
-Announcing our new roadmap & vision. Updates on Edge City Austin, Edge Esmeralda, and more.
-
-Timour Kosters
-
-Monthly Update
-
-February 27, 2025
-
-KIDS & FAMILIES AT EDGE CITY AUSTIN
-
-A Family-Friendly Gathering: Resources, Activities, and Support at Edge City Austin.
-
-Edge City Team
-
-Edge City Austin
-
-February 24, 2025
-
-2024 POP-UP CITIES RECAP & AN INVITE TO POPOUT CLUB BY NICO SHI
-
-Nico's 'slowmading' experience with popup cities in 2024, and an introduction to PopOut Club.
-
-Nico Shi
-
-Essay
-
-February 10, 2025
-
-EDGE CITY AUSTIN: A CLOSER LOOK AT WHAT’S HAPPENING
-
-Speakers include Vitalik Buterin, Justin Mares, Josie Zayner, and more to come.
-
-Edge City Team
-
-Edge City Austin
-
-February 4, 2025
-
-EDGE CITY NEWSLETTER — JAN. 2025
-
-Announcing Edge City gatherings in the first half of 2025 — Edge City Austin, Edge Expedition South Africa, and Edge Esmeralda.
-
-Timour Kosters
-
-Monthly Update
-
-January 22, 2025
-
-INTRODUCING: EDGE CITY AUSTIN
-
-A six-day popup village to explore frontier technologies for human flourishing.
-
-Edge City Team
-
-Edge City Austin
-
-January 17, 2025
-
-EDGE CITY LANNA: PERSONAL DATA & COLLECTIVE CONNECTION BY RACHEL AKERLEY
-
-Utilizing data ownership and cryptography to build community at a popup city in Chiang Mai.
-
-Cursive Team
-
-Rachel Akerley
-
-Essay
-
-January 15, 2025
-
-AGENCY, INNOVATION & GROWTH: REFLECTIONS FROM EDGE CITY LANNA BY RANIA HASHIM
-
-Gap year lore.
-
-Rania Hashim
-
-Essay
-
-January 8, 2025
-
-BUILDING A SOCIETY INCUBATOR — WHAT WE LEARNED IN 2024
-
-What we learned from a year of building experimental villages for human flourishing.
-
-Edge City Team
-
-Essay
-
-January 5, 2025
-
-LIFE AT THE EDGE BY JACK MIELKE
-
-Unpacking 3 pop-up cities, 6 unconventional months, and lots of change 🌊🌞
-
-Jack Mielke
-
-Essay
-
-December 11, 2024
-
----
-
+![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a7212231056db4cb8a70728_fi-rr-cross-circle%202.png)
