@@ -27,6 +27,10 @@ jobs:
 
       - run: bun run test
       - run: bun run typecheck
+
+      - name: Compare public Substack requests
+        run: bun run scripts/probe-newsletter.ts
+
       - run: bun run index
 
       - name: Commit updated references
