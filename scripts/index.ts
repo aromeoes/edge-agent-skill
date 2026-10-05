@@ -22,8 +22,15 @@ export const fetchText: FetchText = async raw => {
       if (typeof data !== "string") throw new Error(`Expected text response: ${raw}`);
       return data;
     } catch (error) {
-      const retryable = axios.isAxiosError(error) && (!error.response || error.response.status === 429 || error.response.status >= 500);
-      if (!retryable || attempt >= 2) throw error;
+      const httpError = axios.isAxiosError(error);
+      const status = httpError ? error.response?.status : undefined;
+      const retryable = httpError && (!error.response || status === 429 || (status !== undefined && status >= 500));
+      if (!retryable || attempt >= 2) {
+        // Log only the approved request URL and status, never Axios config,
+        // response bodies, cookies, or headers.
+        const detail = status !== undefined ? `HTTP ${status}` : httpError ? "Network request failed" : "Invalid public-source response or redirect";
+        throw new Error(`Failed to fetch ${raw}: ${detail}`, { cause: error });
+      }
       await Bun.sleep(500 * (attempt + 1));
     }
   }
