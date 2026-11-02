@@ -100,8 +100,8 @@
       "url": "https://edgecityindia2026.substack.com/p/health-and-wellbeing-at-edge-city",
       "kind": "newsletter",
       "published": "2026-09-30T15:34:57.000Z",
-      "hash": "e68126a226091650b436e2e54052778cd542ebd2ee65663fd4610483ae0d80e3",
-      "indexed": "2026-09-30T21:31:09.778Z"
+      "hash": "db3346fc5fc530b8a2154681ee7ee340b84945c017494a0e9dd2557b7c5a7667",
+      "indexed": "2026-11-02T19:05:08.213Z"
     },
     {
       "path": "newsletter/housing-for-edge-city-india.md",
@@ -111,6 +111,15 @@
       "published": "2026-08-14T15:43:06.000Z",
       "hash": "c72fe6eec8e2850c452851d8370daa1413bd1169b852f7f7954d9234c742939b",
       "indexed": "2026-09-30T21:31:09.778Z"
+    },
+    {
+      "path": "newsletter/meal-plans-at-edge-city-india.md",
+      "title": "Meal Plans at Edge City India",
+      "url": "https://edgecityindia2026.substack.com/p/meal-plans-at-edge-city-india",
+      "kind": "newsletter",
+      "published": "2026-10-07T14:45:17.000Z",
+      "hash": "93bf21a3a815f4065de7671b85ec326f693eaa9f68e2ec89b30b8062c674d041",
+      "indexed": "2026-11-02T19:05:08.213Z"
     },
     {
       "path": "newsletter/meet-the-inflection-fellowship-cohort.md",
@@ -130,6 +139,24 @@
       "author": "Taylor Lamprecht",
       "hash": "cde32ceb97f64150da7d5ef653b3dbecf4677f66c3b395c3d18cb0dcdba9fc27",
       "indexed": "2026-09-30T21:31:09.778Z"
+    },
+    {
+      "path": "newsletter/the-community-calendar.md",
+      "title": "The Community Calendar",
+      "url": "https://edgecityindia2026.substack.com/p/the-community-calendar",
+      "kind": "newsletter",
+      "published": "2026-10-08T09:55:33.000Z",
+      "hash": "073625942dbdcacbad4753302f48c899a513a8728b0aed775da5c18db04612d4",
+      "indexed": "2026-11-02T19:05:08.213Z"
+    },
+    {
+      "path": "newsletter/the-first-three-days-at-edge-city.md",
+      "title": "The First Three Days at Edge City India",
+      "url": "https://edgecityindia2026.substack.com/p/the-first-three-days-at-edge-city",
+      "kind": "newsletter",
+      "published": "2026-10-09T08:38:38.000Z",
+      "hash": "e5205d59c45ccb0cebba294e38b60415cb6e14b9120fa45c5e29df2e4fcff47b",
+      "indexed": "2026-11-02T19:05:08.213Z"
     },
     {
       "path": "newsletter/the-future-arrives-locally.md",
@@ -155,10 +182,9 @@
       "title": "Tickets for Edge City India 2026",
       "url": "https://edgecityindia2026.substack.com/p/tickets-for-edge-city-india-2026",
       "kind": "newsletter",
-      "published": "2026-07-24T18:09:13.000Z",
-      "author": "Taylor Lamprecht",
-      "hash": "54400381ac5357f520e241d23add3072f336fb520d42e1ad58e05b3326a953cf",
-      "indexed": "2026-09-30T21:31:09.778Z"
+      "updated": "2026-10-11T12:58:36.470Z",
+      "hash": "2f84a276cfb6641a7e16002cb538f95a5639ead1170c473375b3f84452f075e3",
+      "indexed": "2026-11-02T19:05:08.213Z"
     },
     {
       "path": "newsletter/volunteer-at-edge-city-india-2026.md",
@@ -166,17 +192,17 @@
       "url": "https://edgecityindia2026.substack.com/p/volunteer-at-edge-city-india-2026",
       "kind": "newsletter",
       "published": "2026-07-29T22:27:41.000Z",
-      "hash": "aff4692b32e56007c2617fcaeeecb94e2c23bb5373b6ed8c068010d5839348e7",
-      "indexed": "2026-09-30T21:31:09.778Z"
+      "hash": "49b8a0cbb73fb41c9129420fbb3753eea0b72224d123efb254e25db7960a4c16",
+      "indexed": "2026-11-02T19:05:08.213Z"
     },
     {
       "path": "newsletter/welcome-to-edge-city-india.md",
       "title": "Welcome to Edge City India",
       "url": "https://edgecityindia2026.substack.com/p/welcome-to-edge-city-india",
       "kind": "newsletter",
-      "published": "2026-06-29T16:06:34.000Z",
-      "hash": "d5214a4f6b30b2239afa96b9635d1cd1abcefc184f7a75eaa1f0e4b06824ddad",
-      "indexed": "2026-09-30T21:32:35.134Z"
+      "updated": "2026-08-05T12:13:07.976Z",
+      "hash": "2867919c0f610426116f2eddba9ed524bf2e12ea1c5b537cb3f1e2f1def91895",
+      "indexed": "2026-11-02T19:05:08.213Z"
     },
     {
       "path": "residencies/community-builders.md",
@@ -199,8 +225,8 @@
       "title": "Edge City India 2026",
       "url": "https://www.edgecity.live/india26",
       "kind": "website",
-      "hash": "bdbdd9947055029326fb6aca508bc5d4b7c376a7d95d60c4b74bc25cb7db0d66",
-      "indexed": "2026-09-30T21:28:06.827Z"
+      "hash": "83a3661dfa3183eba752d9df9c79ec24d35de68b6ff9c827c8b382f93d7425ce",
+      "indexed": "2026-11-02T19:05:08.213Z"
     },
     {
       "path": "website/about.md",
@@ -215,9 +241,9 @@
       "title": "Edge City India 2026 Wiki",
       "url": "https://edgecity.notion.site/Edge-City-India-2026-Wiki-038d45cdfc5983c7a1fe013fdc77135b",
       "kind": "wiki",
-      "updated": "2026-09-30T15:28:07.563Z",
-      "hash": "b66722fb982b8994f6ceee1d3e1b4d91d2b9d231e63e5bc5007025da94809162",
-      "indexed": "2026-09-30T21:25:22.185Z"
+      "updated": "2026-10-26T04:14:01.501Z",
+      "hash": "e97c7007d1735bbcf06a2b33f42a5e193b75053d571a0b165f5edfaf5ad62fe9",
+      "indexed": "2026-11-02T19:05:08.213Z"
     }
   ]
 }

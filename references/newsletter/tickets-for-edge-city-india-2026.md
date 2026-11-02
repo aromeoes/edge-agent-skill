@@ -4,11 +4,9 @@ Source: https://edgecityindia2026.substack.com/p/tickets-for-edge-city-india-202
 
 Source type: newsletter
 
-Published: 2026-07-24T18:09:13.000Z
+Source updated: 2026-10-11T12:58:36.470Z
 
-Author: Taylor Lamprecht
-
-Last content change indexed: 2026-09-30T21:31:09.778Z
+Last content change indexed: 2026-11-02T19:05:08.213Z
 
 ---
 
@@ -52,13 +50,13 @@ This is how we’re approaching pricing for Edge City India 2026:
 
 Below are the tier ranges (all prices USD). You’ll pay whatever the current Sunday price is when you check out.
 
--   **Full 3-Week Pass** (Oct 11 – Nov 1): **$1,900** → $2,000 final release
+-   **Full 3-Week Pass** (Oct 11 – Nov 1): **$2,000** final release
 
--   **1-Week Pass (Weeks 1 & 2)**: **$950** → $1,000 final release
+-   **1-Week Pass**: **$1,000** final release
 
--   **1-Week Pass (Week 3 — Tech Week + Final Demos)**: **$1,520** → $1,600 final release
+-   **Week 3 Pass** (crypto week): **$1,600** final release
 
--   **Day Pass**: **$240** → $250 final release
+-   **Day Pass**: **$250** final release
 
 -   **Kids and teens (4–17)** → 40% off adult ticket
 
@@ -69,12 +67,6 @@ _Indian citizens receive **50% off** any of the above. Please indicate you’re 
 _Spouses and partners receive **10% off** any of the above._
 
 _Edge Tomorrow, our kids residency, is included in every kids ticket at no extra cost._
-
-[
-
-![](https://substackcdn.com/image/fetch/$s_!-WMA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb03c4dcc-332f-4a4a-8dc8-857894fe2058_2142x1202.png)
-
-](https://substackcdn.com/image/fetch/$s_!-WMA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb03c4dcc-332f-4a4a-8dc8-857894fe2058_2142x1202.png)
 
 _All ticket sales are final. We do not offer refunds. If your plans change, you can transfer your ticket to someone else. Email [info@edgecity.live](mailto:info@edgecity.live) with the new attendee’s name and email._
 
