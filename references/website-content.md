@@ -1,10 +1,10 @@
-# Edge City India 2026
+# Edge City India 2026 | Past Popup Village in Goa
 
 Source: https://www.edgecity.live/india26
 
 Source type: website
 
-Last content change indexed: 2026-11-02T19:05:08.213Z
+Last content change indexed: 2026-11-13T16:39:38.068Z
 
 ---
 
@@ -42,27 +42,27 @@ WIKI
 
 ](https://www.edgecity.live/india26#)[
 
-APPLY
+EVENTS
 
 ![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a3427fe3fc94619dde9fcf9_arrow.png)
 
-](https://portal.edgecity.live/portal/edge-india)
+](https://www.edgecity.live/all-events)
 
-POP-UP VILLAGE
+PAST EVENT · 2026
 
 Prototype a Brighter Future
 
 ![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a418783052e7760e01365cf_name.header.avif)
 
-[Book housing](https://www.edgecity.live/india26#)[Apply to attend](https://portal.edgecity.live/portal/edge-india)
+[Book housing](https://www.edgecity.live/india26#)[Explore upcoming events](https://www.edgecity.live/all-events)
 
 [](https://www.linkedin.com/company/edge-city-live/)[](https://twitter.com/joinedgecity)[](https://www.instagram.com/joinedgecity/)
 
-POP-UP VILLAGE
+PAST EVENT · 2026
 
 Prototype a Brighter Future
 
-POP-UP VILLAGE
+PAST EVENT · 2026
 
 Prototype a Brighter Future
 
@@ -142,7 +142,7 @@ Edge City India?**
 
 ![](https://cdn.prod.website-files.com/65b2cb5abdecf7cd7747e170/6a4090dbd073e5d38be0b19e_island_india_bgr_%201.avif)
 
-**Edge City India is a three-week popup village for the people building the frontier of technology, science, and culture.**
+**Edge City India 2026 has concluded. This page preserves the program and planning information for the October 11–November 1 gathering in Goa.**
 
 From October 11 to November 1, founders, researchers, engineers, scientists, and creators gather on the coast of Goa to do the best work of their year together: deep coworking by day, talks and demo days through the week, and a community of peers operating at the highest level.
 

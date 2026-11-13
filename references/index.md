@@ -34,6 +34,6 @@ Timestamps below record the last indexed content change, not the latest successf
 | [Welcome to Edge City India](./newsletter/welcome-to-edge-city-india.md) | newsletter | — | 2026-11-02T19:05:08.213Z | Current source |
 | [Announcing the Community Builders Residency   Blog   Edge City](./residencies/community-builders.md) | website | — | 2026-09-30T21:31:09.778Z | Current source |
 | [Creative Residency Edge City: Modern Renaissance   Blog   Edge City](./residencies/creator-residency.md) | website | — | 2026-09-30T21:31:09.778Z | Current source |
-| [Edge City India 2026](./website-content.md) | website | — | 2026-11-02T19:05:08.213Z | Current source |
+| [Edge City India 2026   Past Popup Village in Goa](./website-content.md) | website | — | 2026-11-13T16:39:38.068Z | Current source |
 | [About   Edge City](./website/about.md) | website | — | 2026-09-30T21:28:06.827Z | Current source |
 | [Edge City India 2026 Wiki](./wiki-content.md) | wiki | — | 2026-11-02T19:05:08.213Z | Current source |
