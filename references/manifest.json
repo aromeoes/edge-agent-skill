@@ -3,6 +3,15 @@
   "event": "edge-india-2026",
   "documents": [
     {
+      "path": "newsletter/40-goa-business-owners-built-their.md",
+      "title": "40 Goa Business Owners Built Their Own AI Tools in Three Weeks",
+      "url": "https://edgecityindia2026.substack.com/p/40-goa-business-owners-built-their",
+      "kind": "newsletter",
+      "published": "2026-11-16T17:17:03.000Z",
+      "hash": "e13af63f1c7d9111bcfda2853e6cd653725344aff5fb57adce2d5e5022ff7e13",
+      "indexed": "2026-11-16T21:01:28.117Z"
+    },
+    {
       "path": "newsletter/a-typical-day-and-week-at-edge-city.md",
       "title": "A Typical Day (and Week) at Edge City India",
       "url": "https://edgecityindia2026.substack.com/p/a-typical-day-and-week-at-edge-city",
@@ -191,9 +200,9 @@
       "title": "Volunteer at Edge City India 2026",
       "url": "https://edgecityindia2026.substack.com/p/volunteer-at-edge-city-india-2026",
       "kind": "newsletter",
-      "published": "2026-07-29T22:27:41.000Z",
-      "hash": "49b8a0cbb73fb41c9129420fbb3753eea0b72224d123efb254e25db7960a4c16",
-      "indexed": "2026-11-02T19:05:08.213Z"
+      "updated": "2026-10-05T07:59:37.006Z",
+      "hash": "788c42edeafaa40b94d4d0726b946a87adc5b63d6f3d4a671144c5aa299dc70c",
+      "indexed": "2026-11-16T21:01:28.117Z"
     },
     {
       "path": "newsletter/welcome-to-edge-city-india.md",

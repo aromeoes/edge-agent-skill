@@ -10,6 +10,7 @@ Timestamps below record the last indexed content change, not the latest successf
 
 | Document | Source type | Published | Last content change indexed | Coverage |
 | --- | --- | --- | --- | --- |
+| [40 Goa Business Owners Built Their Own AI Tools in Three Weeks](./newsletter/40-goa-business-owners-built-their.md) | newsletter | 2026-11-16T17:17:03.000Z | 2026-11-16T21:01:28.117Z | Current source |
 | [A Typical Day (and Week) at Edge City India](./newsletter/a-typical-day-and-week-at-edge-city.md) | newsletter | 2026-09-24T14:22:28.000Z | 2026-09-30T21:31:09.778Z | Current source |
 | [Ambhasi: A Consciousness x AI Research Residency at Edge City India](./newsletter/ambhasi-a-consciousness-x-ai-research.md) | newsletter | 2026-09-22T12:34:28.000Z | 2026-09-30T21:31:09.778Z | Current source |
 | [Announcing Anima House: The Women’s Health Residency](./newsletter/announcing-anima-house-the-womens.md) | newsletter | 2026-08-21T13:27:10.000Z | 2026-09-30T21:31:09.778Z | Current source |
@@ -30,7 +31,7 @@ Timestamps below record the last indexed content change, not the latest successf
 | [Announcing the Ground Floor Residency](./newsletter/the-future-arrives-locally.md) | newsletter | 2026-08-11T14:49:45.000Z | 2026-09-30T21:15:43.517Z | Current source |
 | [The Road to Edge: Backroad Farm Caravan Experience](./newsletter/the-road-to-edge-backroad-farm-caravan.md) | newsletter | 2026-08-17T18:19:14.000Z | 2026-09-30T21:31:09.778Z | Current source |
 | [Tickets for Edge City India 2026](./newsletter/tickets-for-edge-city-india-2026.md) | newsletter | — | 2026-11-02T19:05:08.213Z | Current source |
-| [Volunteer at Edge City India 2026](./newsletter/volunteer-at-edge-city-india-2026.md) | newsletter | 2026-07-29T22:27:41.000Z | 2026-11-02T19:05:08.213Z | Current source |
+| [Volunteer at Edge City India 2026](./newsletter/volunteer-at-edge-city-india-2026.md) | newsletter | — | 2026-11-16T21:01:28.117Z | Current source |
 | [Welcome to Edge City India](./newsletter/welcome-to-edge-city-india.md) | newsletter | — | 2026-11-02T19:05:08.213Z | Current source |
 | [Announcing the Community Builders Residency   Blog   Edge City](./residencies/community-builders.md) | website | — | 2026-09-30T21:31:09.778Z | Current source |
 | [Creative Residency Edge City: Modern Renaissance   Blog   Edge City](./residencies/creator-residency.md) | website | — | 2026-09-30T21:31:09.778Z | Current source |
